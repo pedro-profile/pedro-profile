@@ -35,8 +35,8 @@ I am Pedro Carvalho, a **Junior Front-end Web Developer** from Portugal. With a 
 
 ## Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=pedrocarvalho-sudo&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocarvalho-sudo&hide=TeX&layout=compact&theme=prussian)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=pedro-su&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-su&hide=TeX&layout=compact&theme=prussian)
 
 ![Codewars](https://github.r2v.ch/codewars?user=pedcar)
 
