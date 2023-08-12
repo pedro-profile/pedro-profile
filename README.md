@@ -17,8 +17,9 @@ I am Pedro Carvalho, a **Junior Front-end Web Developer** from Portugal. With a 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![mysql](https://img.shields.io/badge/MySQL-white?style=flat-square&logo=mysql)
+
+<br><br>
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-<br><br> 
 ![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/podman.png)
 ![docker](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker)
 ![kubernetes](https://img.shields.io/badge/kubernetes-white?style=for-the-badge&logo=kubernetes)
