@@ -10,7 +10,6 @@ I am Pedro Carvalho, a **Junior Front-end Web Developer** from Portugal. With a 
 
 ![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/LINUX.png)
 &nbsp;![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/4UNIX.png)
-![gnubash](https://img.shields.io/badge/%24%20Gnu%20Bash-white?style=flat-square&logo=gnubash)
 ![php](https://img.shields.io/badge/PHP-white?style=flat-square&logo=php)
 ![laravel](https://img.shields.io/badge/laravel-white?style=flat-square&logo=laravel)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -19,8 +18,8 @@ I am Pedro Carvalho, a **Junior Front-end Web Developer** from Portugal. With a 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![mysql](https://img.shields.io/badge/MySQL-white?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+
+![podman](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=podman)
 ![docker](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker)
 ![kubernetes](https://img.shields.io/badge/kubernetes-white?style=for-the-badge&logo=kubernetes)
 ![wordpress](https://img.shields.io/badge/WordPress-6f8faf?style=flat-square&logo=wordpress)
