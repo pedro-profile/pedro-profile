@@ -8,7 +8,7 @@ I am Pedro Carvalho, a **Junior Front-end Web Developer** from Portugal. With a 
 
 ## Skills 
 
-![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/leenux.png) 
+![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Linux.png) 
 &nbsp;![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/UNIX.png)
 ![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/php.jpg)
 ![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Laravel.png)
