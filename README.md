@@ -6,7 +6,7 @@ I am Pedro Carvalho, a **Junior Front-end Web Developer** from Portugal. With a 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SolutionsArray/)
 
-## Skills
+## Skills 
 
 ![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/leenux.png) 
 &nbsp;![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/UNIX.png)
