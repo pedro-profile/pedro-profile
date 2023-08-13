@@ -12,11 +12,10 @@ I am Pedro Carvalho, a **Junior Front-end Web Developer** from Portugal. With a 
 &nbsp;![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/4UNIX.png)
 ![php](https://img.shields.io/badge/PHP-white?style=flat-square&logo=php)
 ![laravel](https://img.shields.io/badge/laravel-white?style=flat-square&logo=laravel)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![mysql](https://img.shields.io/badge/MySQL-white?style=flat-square&logo=mysql)
+![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/JavaScript.png)
+![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Node.js.png)
+![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/MySQL.png)
+
 
 ![Git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
 ![docker](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker)
