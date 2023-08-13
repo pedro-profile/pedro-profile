@@ -11,7 +11,7 @@ I am Pedro Carvalho, a **Junior Front-end Web Developer** from Portugal. With a 
 ![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/leenux.png) 
 &nbsp;![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/UNIX.png)
 ![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/php.jpg)
-![laravel](https://img.shields.io/badge/laravel-white?style=flat-square&logo=laravel)
+![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Laravel.png)
 ![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/JavaScript.png)
 &nbsp;&nbsp;![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Node.js.png)
 &nbsp;&nbsp;![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/MySQL.png)
