@@ -21,7 +21,6 @@ I am Pedro Carvalho, a **Junior Front-end Web Developer** from Portugal. With a 
 &nbsp;![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_docker.webp)
 ![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_podman.png)
 ![Alt text](https://img.shields.io/badge/kubernetes-white?style=for-the-badge&logo=kubernetes)
-![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_WordPress.png)
 <br><br><br>
 ![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/portugal-flag-icon-32.png)&nbsp;C2 &nbsp;
 ![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/united-states-of-america-flag-3d-icon-32.png)&nbsp;C1 &nbsp;
