@@ -9,7 +9,7 @@ I am Pedro Carvalho, a **Technician** from Portugal. With a background in Custom
 My latest CV can always be downloaded here ![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/CV.png)](http://mixed.solutionsarray.com/cv/)
 
 
-[![LinkedIn](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/CV.png)](https://www.linkedin.com/in/SolutionsArray/)
+[![LinkedIn](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/CV.png)](http://mixed.solutionsarray.com/cv/)
 
 
 
