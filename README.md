@@ -6,8 +6,8 @@ I am Pedro Carvalho, a **Technician** from Portugal. With a background in Custom
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SolutionsArray/)
 
-My latest CV can always be downloaded here &nbsp; [![CV](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_Curriculum-Image.png)](http://mixed.solutionsarray.com/cv/)
-<br>
+My latest CV can always be downloaded here [![CV](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_Curriculum-Image.png)](http://mixed.solutionsarray.com/cv/)
+<br><br>
 ## Skills
 
 ![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Linux5.png)
