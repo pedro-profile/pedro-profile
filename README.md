@@ -17,7 +17,7 @@ Download latest CV here [![CV](http://mixed.solutionsarray.com/wp-content/upload
 ![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/JavaScript.png)
 &nbsp;&nbsp;![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Node.js.png)
 &nbsp;&nbsp;![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/MySQL.png)
-
+![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/small_PostgreSQL.png)
 
 ![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_git.png)
 &nbsp;![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_docker.webp)
