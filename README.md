@@ -11,11 +11,6 @@ Download latest CV here [![CV](http://mixed.solutionsarray.com/wp-content/upload
 ## Skills
 
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Linux5.png)](https://en.wikipedia.org/wiki/Linux)
-[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Linux5.png)](<a href="http://www.starfall.com" `target="new"`>)
-
-
-
-
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/2small_AppArmor.png)](https://apparmor.net/)
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/small_SELinux.png)](https://en.wikipedia.org/wiki/Security-Enhanced_Linux)
 &nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/UNIX.png)](https://en.wikipedia.org/wiki/Unix)
@@ -27,16 +22,16 @@ Download latest CV here [![CV](http://mixed.solutionsarray.com/wp-content/upload
 &nbsp;&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/MySQL.png)](https://www.mysql.com/)
 &nbsp;&nbsp;&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/4small_PostgreSQL.png)](https://www.postgresql.org/)
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/small_Apache.png)](https://httpd.apache.org/)
-&nbsp;&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/small_Nginx.png)]()
-&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_git.png)]()
-&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_docker.webp)]()
+&nbsp;&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/small_Nginx.png)](https://nginx.org/en/)
+&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_git.png)](https://git-scm.com/)
+&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_docker.webp)](https://www.docker.com/)
 
-[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_podman.png)]()
-[![Alt text](https://img.shields.io/badge/kubernetes-white?style=for-the-badge&logo=kubernetes)]()
+[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_podman.png)](https://podman.io/)
+[![Alt text](https://img.shields.io/badge/kubernetes-white?style=for-the-badge&logo=kubernetes)](https://kubernetes.io/)
 <br><br><br>
-[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/portugal-flag-icon-32.png)]()&nbsp;C2 &nbsp;
-[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/united-states-of-america-flag-3d-icon-32.png)]()&nbsp;C1 &nbsp;
-[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/spain-flag-icon-32.png)]()&nbsp;B2
+[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/portugal-flag-icon-32.png)](https://en.wikipedia.org/wiki/Portuguese_language)&nbsp;C2 &nbsp;
+[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/united-states-of-america-flag-3d-icon-32.png)](https://en.wikipedia.org/wiki/American_English)&nbsp;C1 &nbsp;
+[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/spain-flag-icon-32.png)](https://en.wikipedia.org/wiki/Spanish_language)&nbsp;B2
 <br><br>    
 - 🫡 I’m currently learning ...
   
