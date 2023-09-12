@@ -17,8 +17,8 @@ Download latest CV here [![CV](http://mixed.solutionsarray.com/wp-content/upload
 &nbsp;&nbsp;![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/php.jpg)
 ![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Laravel.png)
 ![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/JavaScript.png)
-&nbsp;&nbsp;![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Node.js.png)
 
+&nbsp;&nbsp;![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Node.js.png)
 &nbsp;&nbsp;![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/MySQL.png)
 &nbsp;&nbsp;&nbsp;![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/4small_PostgreSQL.png)
 ![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/small_Apache.png)
