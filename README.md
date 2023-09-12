@@ -10,7 +10,7 @@ Download latest CV here [![CV](http://mixed.solutionsarray.com/wp-content/upload
 
 ## Skills
 
-[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Linux5.png)][(<a href="https://en.wikipedia.org/wiki/Linux"></a>)]
+[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Linux5.png)](<a href="https://en.wikipedia.org/wiki/Linux"></a>)
 
 
 
