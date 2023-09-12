@@ -21,7 +21,7 @@ Download latest CV here [![CV](http://mixed.solutionsarray.com/wp-content/upload
 
 ![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/small_Apache.png)
 &nbsp;&nbsp;![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/small_Nginx.png)
-![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_git.png)
+&nbsp;![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_git.png)
 &nbsp;![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_docker.webp)
 ![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_podman.png)
 ![Alt text](https://img.shields.io/badge/kubernetes-white?style=for-the-badge&logo=kubernetes)
