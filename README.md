@@ -20,6 +20,7 @@ Download latest CV here [![CV](http://mixed.solutionsarray.com/wp-content/upload
 &nbsp;&nbsp;&nbsp;![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/4small_PostgreSQL.png)
 
 ![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/small_Apache.png)
+![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/small_Nginx.png)
 ![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_git.png)
 &nbsp;![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_docker.webp)
 ![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_podman.png)
