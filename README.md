@@ -13,9 +13,9 @@ Download latest CV here [![CV](http://mixed.solutionsarray.com/wp-content/upload
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Linux5.png)](https://en.wikipedia.org/wiki/Linux)
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Linux5.png)](<a href="https://en.wikipedia.org/wiki/Linux"target="_blank">)
 
-<a href="https://example.com" target="_blank">
+[<a href="https://example.com" target="_blank">
     ![alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Linux5.png)
-</a>
+</a>]
 
 
 
