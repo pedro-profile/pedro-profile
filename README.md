@@ -18,6 +18,15 @@ Download latest CV here [![CV](http://mixed.solutionsarray.com/wp-content/upload
 
 <img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Linux5.png"><a href="https://en.wikipedia.org" target="_blank">
 
+<a href="https://reactgo.com/download.png" target="_blank">
+    <img src="https://reactgo.com/download.png" />
+</a>
+
+
+
+
+
+
 
 
 
