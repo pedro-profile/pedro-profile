@@ -1,8 +1,8 @@
-# Pedro Carvalho
+# Pedro
 
 ### Hi 👋
 
-I am Pedro Carvalho, a **Technician** from Portugal. With a background in Customer and IT Support. I'm very enthusiastic towards technology. Seeking a position in a company that will allow me to improve my skills, in a learning and challenging environment. To see my profile in detail, I recommend to look at my LinkedIn profile.
+I am Pedro, a **Technician** from Portugal. With a background in Customer and IT Support. I'm very enthusiastic towards technology. Seeking a position in a company that will allow me to improve my skills, in a learning and challenging environment. To see my profile in detail, I recommend to look at my LinkedIn profile.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SolutionsArray/)
 
