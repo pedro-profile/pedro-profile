@@ -29,7 +29,7 @@ Download latest CV here [![CV](http://mixed.solutionsarray.com/wp-content/upload
 
 
 
-
+<br>
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/2small_AppArmor.png)](https://apparmor.net/)
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/small_SELinux.png)](https://en.wikipedia.org/wiki/Security-Enhanced_Linux)
 &nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/UNIX.png)](https://en.wikipedia.org/wiki/Unix)
