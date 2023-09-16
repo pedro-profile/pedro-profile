@@ -11,7 +11,7 @@ Download latest CV here [![CV](http://mixed.solutionsarray.com/wp-content/upload
 ## Skills
 
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Linux5.png)](https://en.wikipedia.org/wiki/Linux)
-[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Linux5.png)](<a href="https://en.wikipedia.org/wiki/Linux">target="_blank"></a>)
+[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Linux5.png)](<a href="https://en.wikipedia.org/wiki/Linux" target="_blank"></a>)
 
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/2small_AppArmor.png)](https://apparmor.net/)
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/small_SELinux.png)](https://en.wikipedia.org/wiki/Security-Enhanced_Linux)
