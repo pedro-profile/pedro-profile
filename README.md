@@ -22,7 +22,7 @@ Download latest CV here [![CV](http://mixed.solutionsarray.com/wp-content/upload
 
 &nbsp;&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Node.js.png)](https://nodejs.org/en)
 &nbsp;&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/MySQL.png)](https://www.mysql.com/)
-&nbsp;&nbsp;&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/4small_PostgreSQL.png)](https://www.postgresql.org/)
+&nbsp;&nbsp;&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/small_PostgreSQL.png)](https://www.postgresql.org/)
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/small_Apache.png)](https://httpd.apache.org/)
 &nbsp;&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/small_Nginx.png)](https://nginx.org/en/)
 &nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_git.png)](https://git-scm.com/)
