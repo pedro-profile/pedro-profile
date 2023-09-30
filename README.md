@@ -1,5 +1,4 @@
-# Pedro Carvalho  
-https://solutionsarray.com/
+# Pedro Carvalho [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/Black-Green-Logo.png)](https://solutionsarray.com/)
 
 ### Hi 👋
 
