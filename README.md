@@ -1,4 +1,4 @@
-[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/10/Untitled-2.png)](https://solutionsarray.com/)
+[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/10/Slide1.jpg)](https://solutionsarray.com/)
 
 # Pedro Carvalho
 
