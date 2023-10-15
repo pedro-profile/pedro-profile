@@ -4,14 +4,11 @@
 
 ### Hi 👋
 
-I am Pedro Carvalho, a **Web Developer** from Portugal. 
-Portfolio https://solutionsarray.com/portfolio/
+I am Pedro Carvalho, a **Web Developer** from Portugal.
+
+Check my Portfolio | https://solutionsarray.com/portfolio/
 
 To see my profile in detail, I recommend to look at my LinkedIn profile.
-
-
-
-
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SolutionsArray/)
 
