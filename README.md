@@ -5,7 +5,7 @@
 ### Hi 👋
 
 I am Pedro Carvalho, a **Web Developer** from Portugal. 
-Portfolio [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Linux5.png)](https://en.wikipedia.org/wiki/Linux)
+Portfolio https://solutionsarray.com/portfolio/
 
 To see my profile in detail, I recommend to look at my LinkedIn profile.
 
