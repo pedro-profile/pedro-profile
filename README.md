@@ -13,7 +13,7 @@ To see my profile in detail, I recommend to look at my LinkedIn profile.
 
 Download latest CV here [![CV](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_curriculum1.png)](http://mixed.solutionsarray.com/cv/)
 
-## Skills
+## Tech Stack
 
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Linux5.png)](https://en.wikipedia.org/wiki/Linux)
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/2small_AppArmor.png)](https://apparmor.net/)
