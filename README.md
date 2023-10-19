@@ -34,7 +34,7 @@ Download latest CV here [![CV](http://mixed.solutionsarray.com/wp-content/upload
 
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_podman.png)](https://podman.io/)
 [![Alt text](https://img.shields.io/badge/kubernetes-white?style=for-the-badge&logo=kubernetes)](https://kubernetes.io/)
-[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/10/2python.png)](https://en.wikipedia.org/wiki/Linux)
+[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/10/3python.png)](https://en.wikipedia.org/wiki/Linux)
 <br><br><br>
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/portugal-flag-icon-32.png)](https://en.wikipedia.org/wiki/Portuguese_language)&nbsp;C2 &nbsp;
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/united-states-of-america-flag-3d-icon-32.png)](https://en.wikipedia.org/wiki/American_English)&nbsp;C1 &nbsp;
