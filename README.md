@@ -3,8 +3,6 @@
 
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/solutionsarray/" target="_blank"> Pedro Carvalho </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Web+Developer+from+Portugal+%3A)" /> </h3>
-
-<a href="https://www.linkedin.com/in/solutionsarray/" target="_blank">
   
 Check my Portfolio | <a href="https://solutionsarray.com/portfolio/" target="_blank">
 
