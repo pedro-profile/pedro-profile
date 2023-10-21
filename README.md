@@ -5,7 +5,7 @@
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Web+Developer+from+Portugal+%3A)" /> </h3>
 
 
-Check my Portfolio | https://solutionsarray.com/portfolio/
+Check my Portfolio | <a href="https://solutionsarray.com/portfolio/" target="_blank">
 
 To see my profile in detail, I recommend to look at my LinkedIn profile.
 
