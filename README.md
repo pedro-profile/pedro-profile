@@ -4,7 +4,7 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/solutionsarray/" target="_blank"> Pedro Carvalho </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Web+Developer+from+Portugal+%3A)" /> </h3>
   
-Check my Portfolio | <h3> https://solutionsarray.com/portfolio/ <a href="https://solutionsarray.com/portfolio/" target="_blank"><h3>
+Check my Portfolio | <h3>https://solutionsarray.com/portfolio/<a href="https://solutionsarray.com/portfolio/" target="_blank"><h3>
 
 
 To see my profile in detail, I recommend to look at my LinkedIn profile.
