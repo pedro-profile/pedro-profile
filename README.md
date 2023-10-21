@@ -66,3 +66,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<style type="text/css">
+#lp-pom-root .lp-pom-text a:link {text-decoration: none}
+#lp-pom-root .lp-pom-text a:visited {text-decoration: none}
+#lp-pom-root .lp-pom-text a:active {text-decoration: none}
+#lp-pom-root .lp-pom-text a:hover {text-decoration: none}
+</style>
