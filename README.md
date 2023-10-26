@@ -20,7 +20,7 @@ To see my profile in detail, I recommend to look at my LinkedIn profile.
 I am currently on the process of building an application using <b>PHP, HTML, CSS and JavaScript</b>. 
 <br>The URL is going to be <a href="#"> here </a> once ready. 
 
-With this. if you wish to hire my services, you can judge my knowledge level, and we can discuss technical aspects directly.
+With this, if you wish to hire my services, you can judge my knowledge level, and we can discuss technical aspects directly.
 
 I made this video 🎥  https://youtu.be/xBdfI6vz1Lw  for another company, as a summary of my Professional Experiences.
 
