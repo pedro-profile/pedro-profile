@@ -33,6 +33,8 @@ If you need any of the skills i currently master, you can count on me even as a 
 <b>What is it that i currently master you ask?</b><br>
 | HTML | CSS | WordPress | Linux | Nginx |
 
+I currently offer a flat rate of 5€ an Hour.<br>
+
 <br>
 If you need me, use the contacts below.
 
