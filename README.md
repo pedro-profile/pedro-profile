@@ -17,7 +17,7 @@ I am looking to land 🚀 an "<b>Entry Level Front-end Web Development</b>" Role
 
 <br>I am only interested in 100% Fully Remote Work. That I can do anywhere in the world I am located.
 
-I am currently on the process of building an application using <b>PHP, HTML, CSS and JavaScript</b>. 
+I am currently in the process of building an application using <b>PHP, HTML, CSS and JavaScript</b>. 
 <br>The URL is going to be <a href="#"> here </a> once ready. 
 
 This way, if there is interest on my skills, and you wish to hire my services, you can judge my knowledge level. 
