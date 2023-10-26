@@ -33,7 +33,7 @@ This way, if there is interest on my skills, we discuss the technical aspects di
 
 If you need any of the skills i currently master, you can count on me even as a freelancer.
 
-<b>What is it that i currently master you ask?</b><br>
+<h2>What is it that i currently master you ask?</h2>
 | HTML | CSS | WordPress | Linux | Nginx |
 
 <br>I currently offer a flat rate of 5€ an Hour.<br>
