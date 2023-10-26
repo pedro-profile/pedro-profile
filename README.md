@@ -34,7 +34,7 @@ If you need any of the skills i currently master, you can count on me even as a 
 | HTML | CSS | WordPress | Linux | Nginx |
 
 <br>I currently offer a flat rate of 5€ an Hour.<br>
-If you need me, use the contacts below.<br><br>
+If you need me, use the contacts below.<br>
 
 Pedro Carvalho
 - Tel: +351 933 294 116
