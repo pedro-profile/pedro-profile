@@ -35,7 +35,6 @@ If you need any of the skills i currently master, you can count on me even as a 
 
 <br>I currently offer a flat rate of 5€ an Hour.
 
-<br>
 If you need me, use the contacts below.
 
 Pedro Carvalho
