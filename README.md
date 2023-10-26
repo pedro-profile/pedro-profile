@@ -11,7 +11,11 @@ To see my profile in detail, I recommend to look at my LinkedIn profile.
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SolutionsArray/)
 <br>Download latest CV here [![CV](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_curriculum1.png)](http://mixed.solutionsarray.com/cv/)
 <p>
-                                <br><b>WHAT DO I WANT? AND WHAT DO I OFFER!</b>
+
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=WHAT+DO+I+WANT?+AND+WHAT+DO+I+OFFER!+%3A)" /> </h3>
+
+  
+                                <!--<br><b>WHAT DO I WANT? AND WHAT DO I OFFER!</b>-->
 <br><br>Looking to land an "<b>Entry Level Front-end Web Development</b>" Role.
 
 I am only interested in 100% Fully Remote Work. That i can do anywhere in the world i am located.
