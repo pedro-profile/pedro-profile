@@ -12,6 +12,35 @@ To see my profile in detail, I recommend to look at my LinkedIn profile.
 
 Download latest CV here [![CV](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_curriculum1.png)](http://mixed.solutionsarray.com/cv/)
 
+I am looking for Entry Level Front-end Web Development Roles.
+
+I am only interested in 100% Fully Remote Work. That i can do anywhere in the world i am located.
+
+I am currently on the process of building an application using PHP, HTML, CSS and JavaScript. 
+The URL is going to be here once ready.
+
+With this if you wish to hire my services, you can judge my knowledge level, and we can discuss technical aspects directly.
+
+I made this video,  https://youtu.be/xBdfI6vz1Lw  for another company, as a summary of my Professional Experiences.
+
+I have no "interest or time" for talks, interviews, get to know, or tests.
+
+This is the reason i decided to build a proper Application. 
+This way, if there is interest on my skills, we discuss the technical aspects directly. As proof i've done it myself. 
+
+If you need any of the skills i currently master, you can count on me even as a freelancer.
+
+<b>What is it that i currently master you ask?<b>
+HTML | CSS | WordPress | Linux | Nginx |
+
+
+If you need me, use the contacts below.
+
+Pedro Carvalho
+- Tel: +351 933 294 116
+- Email - info@solutionsarray.com
+
+
 ## Tech Stack
 
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/10/1CICD.png)](https://en.wikipedia.org/wiki/Linux)
