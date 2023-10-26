@@ -19,7 +19,7 @@ I am only interested in 100% Fully Remote Work. That i can do anywhere in the wo
 I am currently on the process of building an application using <b>PHP, HTML, CSS and JavaScript</b>. 
 <br>The URL is going to be here once ready.
 
-With this if you wish to hire my services, you can judge my knowledge level, and we can discuss technical aspects directly.
+With this. if you wish to hire my services, you can judge my knowledge level, and we can discuss technical aspects directly.
 
 I made this video,  https://youtu.be/xBdfI6vz1Lw  for another company, as a summary of my Professional Experiences.
 
