@@ -25,7 +25,7 @@ With this. if you wish to hire my services, you can judge my knowledge level, an
 I made this video,  https://youtu.be/xBdfI6vz1Lw  for another company, as a summary of my Professional Experiences.
 
 <b>I have no "interest or time" for talks, interviews, get to know, or tests.
-</br> Please do not contact me for that!
+<br> Please do not contact me for that!
 </b>
 
 This is the reason i decided to build a proper Application. 
