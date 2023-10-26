@@ -18,7 +18,7 @@ To see my profile in detail, I recommend to look at my LinkedIn profile.
 <br>I am only interested in 100% Fully Remote Work. That i can do anywhere in the world i am located.
 
 I am currently on the process of building an application using <b>PHP, HTML, CSS and JavaScript</b>. 
-<br>The URL is going to be ##here once ready.
+<br>The URL is going to be <a href=""> here </a> once ready. 
 
 With this. if you wish to hire my services, you can judge my knowledge level, and we can discuss technical aspects directly.
 
