@@ -30,7 +30,7 @@ This way, if there is interest on my skills, we discuss the technical aspects di
 
 If you need any of the skills i currently master, you can count on me even as a freelancer.
 
-<b>What is it that i currently master you ask?<b>
+<b>What is it that i currently master you ask?</b>
 HTML | CSS | WordPress | Linux | Nginx |
 
 
