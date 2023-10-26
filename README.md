@@ -20,7 +20,7 @@ I am looking to land 🚀 an "<b>Entry Level Front-end Web Development</b>" Role
 I am currently on the process of building an application using <b>PHP, HTML, CSS and JavaScript</b>. 
 <br>The URL is going to be <a href="#"> here </a> once ready. 
 
-With this, if you wish to hire my services, you can judge my knowledge level, and we can discuss technical aspects directly.
+This way, if there is interest on my skills, and you wish to hire my services, you can judge my knowledge level, and we discuss technical aspects directly. As proof i've done it myself.
 
 I made this video 🎥  https://youtu.be/xBdfI6vz1Lw  for another company, as a summary of my Professional Experiences.
 
@@ -28,8 +28,6 @@ I made this video 🎥  https://youtu.be/xBdfI6vz1Lw  for another company, as a 
 <br> Please do not contact me for that!
 </b>
 
-This is the reason i decided to build a proper Application. 
-This way, if there is interest on my skills, we discuss the technical aspects directly. As proof i've done it myself. 
 
 If you need any of the skills i currently master, you can count on me even as a freelancer.
 
