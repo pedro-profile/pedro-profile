@@ -22,7 +22,7 @@ I am currently on the process of building an application using <b>PHP, HTML, CSS
 
 With this. if you wish to hire my services, you can judge my knowledge level, and we can discuss technical aspects directly.
 
-I made this video,  https://youtu.be/xBdfI6vz1Lw  for another company, as a summary of my Professional Experiences.
+I made this video 🎥  https://youtu.be/xBdfI6vz1Lw  for another company, as a summary of my Professional Experiences.
 
 <b>I have no "interest or time" for talks, interviews, get to know, or tests.
 <br> Please do not contact me for that!
