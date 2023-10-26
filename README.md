@@ -35,6 +35,7 @@ If you need any of the skills i currently master, you can count on me even as a 
 
 <br>
 If you need me, use the contacts below.
+
 <br>
 Pedro Carvalho
 - Tel: +351 933 294 116
