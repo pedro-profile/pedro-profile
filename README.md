@@ -15,7 +15,7 @@ To see my profile in detail, I recommend to look at my LinkedIn profile.
 <h2 align="center">What do I want | And what do I offer:</h2>
 I am looking to land 🚀 an "<b>Entry Level Front-end Web Development</b>" Role.
 
-<br>I am only interested in 100% Fully Remote Work. That i can do anywhere in the world i am located.
+<br>I am only interested in 100% Fully Remote Work. That i can do anywhere in the world I am located.
 
 I am currently on the process of building an application using <b>PHP, HTML, CSS and JavaScript</b>. 
 <br>The URL is going to be <a href="#"> here </a> once ready. 
