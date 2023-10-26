@@ -21,7 +21,7 @@ I am currently on the process of building an application using <b>PHP, HTML, CSS
 <br>The URL is going to be <a href="#"> here </a> once ready. 
 
 This way, if there is interest on my skills, and you wish to hire my services, you can judge my knowledge level. 
-And we discuss technical aspects directly. As proof i've done it myself.
+<br>And we discuss technical aspects directly. As proof i've done it myself.
 
 I made this video 🎥  https://youtu.be/xBdfI6vz1Lw  for another company, as a summary of my Professional Experiences.
 
