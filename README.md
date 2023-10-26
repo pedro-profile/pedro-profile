@@ -12,7 +12,7 @@ To see my profile in detail, I recommend to look at my LinkedIn profile.
 <br>Download latest CV here [![CV](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_curriculum1.png)](http://mixed.solutionsarray.com/cv/)
 <p>
   
-<h2 align="center"><br>What do i want | And what do i offer.</h2>
+<h2 align="center"><br>What do i want | And what do i offer:</h2>
 Looking to land an "<b>Entry Level Front-end Web Development</b>" Role.
 
 I am only interested in 100% Fully Remote Work. That i can do anywhere in the world i am located.
