@@ -15,13 +15,13 @@ To see my profile in detail, I recommend to look at my LinkedIn profile.
 <h2 align="center">What do I want | And what do I offer:</h2>
 I am looking to land 🚀 an "<b>Entry Level Front-end Web Development</b>" Role.
 
-<br>I am only interested in 100% Fully Remote Work. That i can do anywhere in the world I am located.
+<br>I am only interested in 100% Fully Remote Work. That I can do anywhere in the world I am located.
 
 I am currently on the process of building an application using <b>PHP, HTML, CSS and JavaScript</b>. 
 <br>The URL is going to be <a href="#"> here </a> once ready. 
 
 This way, if there is interest on my skills, and you wish to hire my services, you can judge my knowledge level. 
-<br>And we discuss technical aspects directly. As proof i've done it myself.
+<br>And we discuss technical aspects directly. As proof I've done it myself.
 
 I made this video 🎥  https://youtu.be/xBdfI6vz1Lw  for another company, as a summary of my Professional Experiences.
 
@@ -30,7 +30,7 @@ I made this video 🎥  https://youtu.be/xBdfI6vz1Lw  for another company, as a 
 </b>
 
 
-If you need any of the skills i currently master, you can count on me even as a freelancer.
+If you need any of the skills I currently master, you can count on me even as a freelancer.
 
 <h2 align="center">What is it I currently master you ask?</h2>
 
