@@ -5,7 +5,7 @@
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Web+Developer+from+Portugal+%3A)" /> </h3>
   
 Portfolio | https://solutionsarray.com/portfolio/
-
+[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/10/Portfolio.png)](https://solutionsarray.com/portfolio/)
 To see my profile in detail, I recommend to look at my LinkedIn profile.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SolutionsArray/)
