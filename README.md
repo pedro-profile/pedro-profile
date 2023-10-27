@@ -9,6 +9,16 @@
 
 
 
+<!doctype html>
+<html lang="en">
+<head>
+<title>Project</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+
+
 <div id="portfolio">
  <a href="https://solutionsarray.com/portfolio" target="_blank">
       <img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/10/Portfolio.png">
@@ -22,6 +32,17 @@
   justify-content: center;
   }
 </style>
+
+
+</body>
+</html>
+
+
+
+
+
+
+
 
 
 
