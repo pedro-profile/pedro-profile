@@ -7,15 +7,11 @@
 
 
 
-
-<body>
-   <center>
+<div style="text-align: center">
 
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/10/Portfolio.png)](https://solutionsarray.com/portfolio/)
 
-</center>
-</body>
-
+</div>
 
 
 
