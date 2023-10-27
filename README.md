@@ -30,7 +30,7 @@ I made this video 🎥  https://youtu.be/xBdfI6vz1Lw  for another company, as a 
 </b>
 
 
-If you need any of the skills I Master, you can count on me even as a freelancer.
+If you need any of the skills I master, you can count on me even as a freelancer.
 
 <h2 align="center">I Master</h2>
 
