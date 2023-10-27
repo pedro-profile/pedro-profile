@@ -46,7 +46,7 @@ If you need me, use the contacts below.<br>
 
 Pedro Carvalho
 - Tel: +351 933 294 116
-- Email - info@solutionsarray.com
+- Email - info@SolutionsArray.com
 
 
 <h2 align="center">Tech Stack</h2>
