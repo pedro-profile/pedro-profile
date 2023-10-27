@@ -6,6 +6,31 @@
 
 [<p style="text-align:center"> ![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/10/Portfolio.png)](https://solutionsarray.com/portfolio/) </p>]
 
+
+
+
+<div id="portfolio">
+ <a href="https://solutionsarray.com/portfolio" target="_blank">
+      <img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/10/Portfolio.png">
+    </a>
+</div>
+
+<style>
+#portfolio { 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  }
+</style>
+
+
+
+
+
+
+
+
+
 To see my profile in detail, I recommend to look at my LinkedIn profile.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SolutionsArray/)
