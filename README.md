@@ -9,9 +9,7 @@
 
 
 
-<!doctype html>
-<html lang="en">
-<body>
+
 
 <div id="portfolio">
  <a href="https://solutionsarray.com/portfolio" target="_blank">
@@ -27,8 +25,6 @@
   }
 </style>
 
-</body>
-</html>
 
 
 
