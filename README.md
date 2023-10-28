@@ -47,7 +47,8 @@ If you need me, use the contacts below.<br>
 Pedro Carvalho
 - Tel: +351 933 294 116
 - Email - info@SolutionsArray.com
-- Solutions/Array | http://solutionsarray.com | A Digital marketing Company | Headquartered in Portugal.
+- Solutions Array | http://solutionsarray.com  
+A Digital marketing Company | Headquartered in Portugal.
 
 
 
