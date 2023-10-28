@@ -1,5 +1,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/10/SolutionsArray1.com_.png)](https://solutionsarray.com/)
 <br>
+<text align="center">A Digital marketing Company | Headquartered in Portugal.</text>
 
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/solutionsarray/" target="_blank"> Pedro Carvalho </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Web+Developer+from+Portugal+%3A)" /> </h3>
@@ -47,9 +48,7 @@ If you need me, use the contacts below.<br>
 Pedro Carvalho
 - Tel: +351 933 294 116
 - Email - info@SolutionsArray.com
-- Solutions Array | http://solutionsarray.com  
-A Digital marketing Company | Headquartered in Portugal.
-
+- Solutions Array | http://solutionsarray.com
 
 
 <h2 align="center">Tech Stack</h2>
