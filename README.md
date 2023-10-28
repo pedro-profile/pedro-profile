@@ -47,11 +47,8 @@ If you need me, use the contacts below.<br>
 Pedro Carvalho
 - Tel: +351 933 294 116
 - Email - info@SolutionsArray.com
-- Download CV - http://mixed.solutionsarray.com/cv
-- GitHub - https://github.com/pedro-su
-- LinkedIn - https://www.linkedin.com/in/SolutionsArray
-- Development Portfolio - http://solutionsarray.com/portfolio
-- Professional Experiences Video - https://youtu.be/xBdfI6vz1Lw
+- Solutions/Array | http://solutionsarray.com | A Digital marketing Company | Headquartered in Portugal.
+
 
 
 <h2 align="center">Tech Stack</h2>
