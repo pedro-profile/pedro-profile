@@ -15,7 +15,7 @@
 <p>
   
 <h2 align="center">I Seek</h2>
-I am looking to land 🚀 an "<b>Entry Level Front-end Web Development</b>" Role.
+I seek an "<b>Entry Level Front-end Web Development</b>" Role.
 
 <br>I am only interested in 100% Fully Remote Work. That I can do anywhere in the world I am located.
 
