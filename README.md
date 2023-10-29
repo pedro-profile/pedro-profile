@@ -46,8 +46,8 @@ If you need any of the skills I offer, you can hire me as a freelancer.
 <br>Flat rate | 5€ per Hour 💰<br>
 
 Pedro Carvalho
-- Tel: +351 933 294 116
-- Email - info@SolutionsArray.com
+- Tel | +351 933 294 116
+- Email | info@SolutionsArray.com
 - Solutions Array | http://solutionsarray.com
 
 
