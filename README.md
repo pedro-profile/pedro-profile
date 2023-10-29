@@ -7,7 +7,10 @@
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Web+Developer+from+Portugal+%3A)" /> </h3>
 
 <p align="center"><a href="https://solutionsarray.com/portfolio/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/10/Portfolio2.png" alt="Alt text"></a></p>
-<br>&#x2022; <a href="https://solutionsarray.com/portfolio/">Portfolio</a> ↗
+<p align="center">⮝</p>
+<p align="center">┃</p>
+
+<br>&#x2022; <a href="https://solutionsarray.com/portfolio/">Portfolio</a> 
 
 &#x2022; To see my profile in detail, I recommend to look at my LinkedIn profile.
 
