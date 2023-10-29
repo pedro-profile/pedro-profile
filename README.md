@@ -8,7 +8,7 @@
 
 <p align="center"><a href="https://solutionsarray.com/portfolio/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/10/Portfolio2.png" alt="Alt text"></a></p>
 <br>&#x2022; <a href="https://solutionsarray.com/portfolio/">Portfolio</a> ↗ 
-                                                                        ↗
+
 &#x2022; To see my profile in detail, I recommend to look at my LinkedIn profile.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SolutionsArray/)
