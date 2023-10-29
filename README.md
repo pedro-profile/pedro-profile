@@ -35,7 +35,7 @@ I made this video 🎥  https://youtu.be/xBdfI6vz1Lw  for another company, as a 
 
 If you need any of the Expertise Skills I offer, you can hire me as a freelancer by the Hour.
 
-<h2 align="center">Expertise I Offer 📢</h2>
+<h2 align="center">Expertise Skills I Offer 📢</h2>
 
 <p align="center">⮟</p>
 <p align="center"><b>| HTML | CSS | WordPress | Linux | Nginx |</b></p>
