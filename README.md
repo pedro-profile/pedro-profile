@@ -10,8 +10,8 @@
 <p align="center">⮝</p>
 
 <br><h3>⮞  <a href="https://solutionsarray.com/portfolio/">Portfolio</a></h3>
-<h3>⮞  <a href="https://www.linkedin.com/in/solutionsarray/">LinkedIn</a> <a href="https://www.linkedin.com/in/SolutionsArray/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a></h3>
-<h3>⮞&nbsp;  <a href="https://mixed.solutionsarray.com/cv/">CV</a> <a href="http://mixed.solutionsarray.com/cv/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_curriculum1.png" alt="CV"></a></h3>
+<h3>⮞  <a href="https://www.linkedin.com/in/solutionsarray/">LinkedIn</a>&nbsp; <a href="https://www.linkedin.com/in/SolutionsArray/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a></h3>
+<h3>⮞&nbsp;  <a href="https://mixed.solutionsarray.com/cv/">CV</a>&nbsp; <a href="http://mixed.solutionsarray.com/cv/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_curriculum1.png" alt="CV"></a></h3>
 
 
 <h2 align="center">I Seek 🔎</h2>
