@@ -14,7 +14,6 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SolutionsArray/)
 
 <br>&#x2022;&nbsp;  <a href="https://mixed.solutionsarray.com/cv/">My CV</a> [![CV](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_curriculum1.png)](http://mixed.solutionsarray.com/cv/)
-<p>
   
 <h2 align="center">I Seek 🔎</h2>
 I seek an "<b>Entry Level Front-end Web Development</b>" Role.
