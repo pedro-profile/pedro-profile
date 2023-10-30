@@ -9,7 +9,7 @@
 <p align="center"><a href="https://solutionsarray.com/portfolio/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/10/Portfolio2.png" alt="Alt text"></a></p>
 <p align="center">⮝</p>
 
-<br>&#x2022;  <a href="https://solutionsarray.com/portfolio/">Portfolio</a>
+<br><h3>&#x2022;  <a href="https://solutionsarray.com/portfolio/">Portfolio</a></h3>
 
 
 <br>&#x2022;<h3>  <a href="https://www.linkedin.com/in/solutionsarray/">LinkedIn</a></h3> <a href="https://www.linkedin.com/in/SolutionsArray/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a><h3>
