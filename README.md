@@ -10,10 +10,10 @@
 <p align="center">⮝</p>
 <br>&#x2022;  <a href="https://solutionsarray.com/portfolio/">See my Portfolio</a>
 
-<br>&#x2022; See my <a href="https://www.linkedin.com/in/solutionsarray/">LinkedIn</a>
+<br>&#x2022;  <a href="https://www.linkedin.com/in/solutionsarray/">See my LinkedIn</a>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SolutionsArray/)
 
-<br>&#x2022;&nbsp;See my <a href="https://mixed.solutionsarray.com/cv/">CV</a> [![CV](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_curriculum1.png)](http://mixed.solutionsarray.com/cv/)
+<br>&#x2022;&nbsp;  <a href="https://mixed.solutionsarray.com/cv/">See my CV</a> [![CV](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_curriculum1.png)](http://mixed.solutionsarray.com/cv/)
 <p>
   
 <h2 align="center">I Seek 🔎</h2>
