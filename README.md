@@ -9,9 +9,8 @@
 <p align="center"><a href="https://solutionsarray.com/portfolio/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/10/Portfolio2.png" alt="Alt text"></a></p>
 <p align="center">⮝</p>
 <p>⮞ <a href="https://solutionsarray.com/portfolio/">Portfolio</a></p>
-<p>⮞ <a href="https://www.linkedin.com/in/solutionsarray/">LinkedIn</a>&nbsp; <a href="https://www.linkedin.com/in/SolutionsArray/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a></p>
 <p>⮞ <a href="https://mixed.solutionsarray.com/cv/">Curriculum Vitae</a>&nbsp; <a href="http://mixed.solutionsarray.com/cv/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/10/3_Curriculum-Vitae.png" alt="CV"></a></p>
-
+<p>⮞ <a href="https://www.linkedin.com/in/solutionsarray/">LinkedIn</a>&nbsp; <a href="https://www.linkedin.com/in/SolutionsArray/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a></p>
 
 <h2 align="center">I Seek 🔎</h2>
 I seek an "<b>Entry Level Front-end Web Development</b>" Role.
