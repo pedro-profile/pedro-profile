@@ -46,7 +46,7 @@ If you need any of the Expertise Skills I offer, you can hire me as a freelancer
 <p align="center"><b>| Portuguese | English |</center></b></p>
 
 
-<br>Flat rate | €5 per Hour 💰<br>
+<br>Rate | €5 per Hour 💰<br>
 
 Pedro Carvalho
 - Tel | +351 933 294 116
