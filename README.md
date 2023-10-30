@@ -12,6 +12,7 @@
 
 <br>&#x2022; See my <a href="https://www.linkedin.com/in/solutionsarray/">LinkedIn</a> Profile
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SolutionsArray/)
+
 <br>&#x2022;&nbsp;Download latest CV here [![CV](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_curriculum1.png)](http://mixed.solutionsarray.com/cv/)
 <p>
   
