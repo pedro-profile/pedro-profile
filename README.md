@@ -15,7 +15,7 @@ I seek an "<b>Entry Level Front-end Web Development</b>" Role.
 
 <br>I am only interested in 100% Fully Remote Work. That I can do anywhere in the world I am located.
 
-With a passion for solving problems, and a relentless drive to excel in the tech industry. I take into consideration good software design, user experience, debugging, optimization and maintainability. I feel comfortable working with HTML, CSS, partial JavaScript both on the server and front-end, and basic PHP. I'm eager to learn new cutting-edge technologies and stay ahead of the ever-changing trends in Web Development. My ultimate goal is to build reliable and maintainable Front-end applications, that are both functionally and aesthetically pleasing.
+With a passion for solving problems, and a relentless drive to excel in the tech industry. I take into consideration good software design, user experience, debugging, optimization and maintainability. I feel comfortable working with HTML, CSS, partial JavaScript both on the server and front-end. Plus basic PHP. I'm eager to learn new cutting-edge technologies and stay ahead of the ever-changing trends in Web Development. My ultimate goal is to build reliable and maintainable Front-end applications, that are both functionally and aesthetically pleasing.
 
 I am currently in the process of building an application using <b>PHP, HTML, CSS and JavaScript</b>. 
 <br>The URL is going to be <a href="#"> here </a> once ready. 
@@ -30,7 +30,7 @@ I made this video 🎥  https://youtu.be/xBdfI6vz1Lw  for another company, as a 
 </b>
 
 
-If you need any of the Expertise Skills I offer, you can hire me as a freelancer by the Hour.
+If you need any of the Expertise Skills I offer, I am available for full-time, part-time, or as a freelancer (by the Hour).
 
 <h2 align="center">Expertise Skills I Offer 📢</h2>
 
