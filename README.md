@@ -30,7 +30,7 @@ I made this video 🎥  https://youtu.be/xBdfI6vz1Lw  for another company, as a 
 </b>
 
 
-If you need any of the Expertise Skills I offer, I am available full-time, part-time, or as a freelancer (by the Hour).
+If you need any of the Expertise Skills I offer, I am available full-time, part-time, or as a freelancer, (by the Hour).
 
 <h2 align="center">Expertise Skills I Offer 📢</h2>
 
