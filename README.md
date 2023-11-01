@@ -13,7 +13,7 @@
 
 
 <h2 align="center">FRONT-END (WEBSITE AND E-COMMERCE) DEVELOPMENT</h2>
-<a href="https://solutionsarray.com/portfolio/">SOLUTIONSARRAY.COM</a>
+<p align="center"><a href="https://solutionsarray.com/portfolio/">SOLUTIONSARRAY.COM</a></p>
 
 
 
