@@ -14,7 +14,12 @@
 
 <h2 align="center">FRONT-END (WEBSITE AND E-COMMERCE) DEVELOPMENT</h2>
 <p align="center"><a href="https://solutionsarray.com/portfolio/">SOLUTIONSARRAY.COM</a></p>
-<p><a href="https://solutionsarray.com/portfolio/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/09/SolutionsArray_Homepage.png"></a></p>
+<!--<p><a href="https://solutionsarray.com/portfolio/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/09/SolutionsArray_Homepage.png"></a></p>-->
+
+
+<p>⮞ <a href="https://solutionsarray.com/portfolio/">Portfolio</a>&nbsp; <a href="http://solutionsarray.com/portfolio"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/09/SolutionsArray_Homepage.png" alt="CV"></a></p>
+
+
     
     <p align="center">• Pixel Perfect Design</p>
        
