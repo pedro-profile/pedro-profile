@@ -15,7 +15,7 @@
 <h2 align="center">FRONT-END (WEBSITE AND E-COMMERCE) DEVELOPMENT</h2>
 <p align="center"><a href="https://solutionsarray.com/portfolio/">SOLUTIONSARRAY.COM</a></p>
 
-
+<img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/09/SolutionsArray_Homepage.png">
 
 
 
