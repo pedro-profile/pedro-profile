@@ -28,11 +28,7 @@ I am currently in the process of building an application using <b>PHP, HTML, CSS
 This way, if there is interest on my skills, and you wish to hire my services, you can judge my knowledge level. 
 <br>And we discuss technical aspects directly. As proof I've done it myself.
 
-I made this video 🎥  https://youtu.be/xBdfI6vz1Lw  for another company, as a summary of my Professional Experiences.
-
-<b>I have no "interest or time" for talks, interviews, get to know, or tests.
-<br> Please do not contact me for that!
-</b>
+I made this video 🎥  https://youtu.be/xBdfI6vz1Lw  for another company, as a summary of my Professional Experiences. As a way to possibly move directly to the 2nd interview process and discuss technical aspects directly.
 
 
 If you need any of the Expertise Skills I offer, I am available full-time, part-time, or as a freelancer, (by the Hour).
