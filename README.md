@@ -14,8 +14,26 @@
 
 <h2 align="center">FRONT-END (WEBSITE AND E-COMMERCE) DEVELOPMENT</h2>
 <p align="center"><a href="https://solutionsarray.com/portfolio/">SOLUTIONSARRAY.COM</a></p>
-
 <a href="https://solutionsarray.com/portfolio/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/09/SolutionsArray_Homepage.png"></a>
+    • Pixel Perfect Design
+       
+    • Professional and Responsive to all Media devices and browsers
+
+    • PSD to WordPress design with Custom Animations
+
+    • Payment gateway integrations
+
+    • Fully optimized with speed and On-Page SEO
+
+    • Bug fixing, support and training
+      
+    • Development operations are 100% remote only or on a Freelance regime availability
+
+
+
+
+
+
 
 
 
