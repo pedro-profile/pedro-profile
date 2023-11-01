@@ -60,6 +60,7 @@ I made this video 🎥  https://youtu.be/xBdfI6vz1Lw  for another company, as a 
 
 If you need any of the Expertise Skills I offer, I am available full-time, part-time, or as a freelancer, (by the Hour).
 
+<br>
 <h2 align="center">Expertise Skills I Offer 📢</h2>
 
 <p align="center">⮟</p>
