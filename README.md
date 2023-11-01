@@ -16,24 +16,18 @@
 <p align="center"><a href="https://solutionsarray.com/portfolio/">SOLUTIONSARRAY.COM</a></p>
 <!--<p><a href="https://solutionsarray.com/portfolio/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/09/SolutionsArray_Homepage.png"></a></p>-->
 
+<p align="center">• Pixel Perfect Design</p>
+<p align="center">• Professional and Responsive to all Media devices and browsers</p>
+<p align="center">• PSD to WordPress design with Custom Animations</p>
+<p align="center">• Payment gateway integrations</p>
+<p align="center">• Fully optimized with speed and On-Page SEO</p>
+<p align="center">• Bug fixing, support and training</p>
+<p align="center">• Development operations are 100% remote only or on a Freelance regime availability</p>
 
 <p>⮞ <a href="https://solutionsarray.com/portfolio/">Portfolio</a>&nbsp; <a href="http://solutionsarray.com/portfolio"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/09/SolutionsArray_Homepage.png" alt="CV"></a></p>
 
 
-    
-    <p align="center">• Pixel Perfect Design</p>
-       
-    <p align="center">• Professional and Responsive to all Media devices and browsers</p>
 
-    <p align="center">• PSD to WordPress design with Custom Animations</p>
-
-    <p align="center">• Payment gateway integrations</p>
-
-    <p align="center">• Fully optimized with speed and On-Page SEO</p>
-
-    <p align="center">• Bug fixing, support and training</p>
-      
-    <p align="center">• Development operations are 100% remote only or on a Freelance regime availability</p>
 
 
 
