@@ -22,7 +22,7 @@
 • Payment gateway integrations</p>
 • Fully optimized with speed and On-Page SEO</p>
 • Bug fixing, support and training</p>
-• Development operations are either 100% remote or in Malta 🇲🇹</p>
+• Development operations are either 100% remote or in Malta 🇲🇹 exclusively.</p>
 
 <!--<p>⮞ <a href="https://solutionsarray.com/portfolio/">Portfolio</a>&nbsp; <a href="http://solutionsarray.com/portfolio"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/09/SolutionsArray_Homepage.png" alt="CV"></a></p>-->
 
