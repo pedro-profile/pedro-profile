@@ -43,7 +43,7 @@ This way, if there is interest on my skills, and you wish to hire my services, y
 <br>And we discuss technical aspects directly. As proof I've done it myself.
 
 I made this video 🎥  https://youtu.be/xBdfI6vz1Lw  for another company as a summary of my professional experiences. 
-With this in mind, we can possibly move directly to the second interview process and talk about geeky stuff.
+<br>With this in mind, we can possibly move directly to the second interview process and talk about geeky stuff.
 
 If you need any of the expert skills I offer, I am available full-time, part-time, or as a freelancer (by the Hour).
 
