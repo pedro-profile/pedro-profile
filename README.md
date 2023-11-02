@@ -43,10 +43,14 @@ I seek an "<b>Entry Level Front-end Web Development</b>" Role.
 <br>Aiming for 100% remote work. That I can do anywhere in the world I am located.
 <br>Also willing to relocate to Malta 🇲🇹 exclusively and permanently.
 
-Passionate about solving problems, with a relentless drive to excel in the tech industry. 
-I take into consideration good software design, user experience, debugging, optimization and maintainability. 
-I feel comfortable working with HTML, CSS, and partial JavaScript both on the server and front-end. Plus basic PHP. 
-I'm eager to learn new cutting-edge technologies and stay ahead of the ever-changing trends in web development. 
+Passionate about solving problems, with a relentless drive to excel in the tech industry.
+
+I take into consideration good software design, user experience, debugging, optimization and maintainability.
+
+I feel comfortable working with HTML, CSS, and partial JavaScript both on the server and front-end. Plus basic PHP.
+
+I'm eager to learn new cutting-edge technologies and stay ahead of the ever-changing trends in web development.
+
 My ultimate goal is to build reliable and maintainable Front-end applications that are both functional and aesthetically pleasing.
 
 I am currently in the process of building an application using <b>PHP, HTML, CSS and JavaScript</b>. 
