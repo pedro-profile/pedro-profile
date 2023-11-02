@@ -10,7 +10,6 @@
 <p>⮞ <a href="https://mixed.solutionsarray.com/cv/">Curriculum Vitae</a>&nbsp; <a href="http://mixed.solutionsarray.com/cv/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/6Curriculum-Vitae.png" alt="CV"></a></p>
 <p>⮞ <a href="https://www.linkedin.com/in/solutionsarray/">LinkedIn</a>&nbsp; <a href="https://www.linkedin.com/in/SolutionsArray/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a></p>
 
-
 <br>
 <h2 align="center">I DO (WEBSITE AND E-COMMERCE) DEVELOPMENT</h2>
 <p align="center"><a href="https://solutionsarray.com/portfolio/">SOLUTIONSARRAY.COM</a></p>
@@ -43,15 +42,11 @@ I seek an "<b>Entry Level Front-end Web Development</b>" Role.
 <br>Aiming for 100% remote work. That I can do anywhere in the world I am located.
 <br>Also willing to relocate to Malta 🇲🇹 exclusively and permanently.
 
-Passionate about solving problems, with a relentless drive to excel in the tech industry.
-
-I take into consideration good software design, user experience, debugging, optimization and maintainability.
-
-I feel comfortable working with HTML, CSS, and partial JavaScript both on the server and front-end. Plus basic PHP.
-
-I'm eager to learn new cutting-edge technologies and stay ahead of the ever-changing trends in web development.
-
-My ultimate goal is to build reliable and maintainable Front-end applications that are both functional and aesthetically pleasing.
+Passionate about solving problems, with a relentless drive to excel in the tech industry. 
+<br>I take into consideration good software design, user experience, debugging, optimization and maintainability. 
+<br>I feel comfortable working with HTML, CSS, and partial JavaScript both on the server and front-end. Plus basic PHP. 
+<br>I'm eager to learn new cutting-edge technologies and stay ahead of the ever-changing trends in web development. 
+<br>My ultimate goal is to build reliable and maintainable Front-end applications that are both functional and aesthetically pleasing.
 
 I am currently in the process of building an application using <b>PHP, HTML, CSS and JavaScript</b>. 
 <br>The URL is going to be <a href="#"> here </a> once ready. 
@@ -62,10 +57,10 @@ This way, if there is interest on my skills, and you wish to hire my services, y
 I made this video 🎥  https://youtu.be/xBdfI6vz1Lw  for another company, as a summary of my Professional Experiences. As a way to possibly move directly to the 2nd interview process and discuss technical aspects directly.
 
 
-If you need any of the Expertise Skills I offer, I am available full-time, part-time, or as a freelancer, (by the Hour).
+If you need any of the expert skills I offer, I am available full-time, part-time, or as a freelancer (by the Hour).
 
 <br>
-<h2 align="center">Expertise Skills I Offer 📢</h2>
+<h2 align="center">Expert Skills I Offer 📢</h2>
 
 <p align="center">⮟</p>
 <p align="center"><b>| HTML | CSS | WordPress | Linux | Nginx |</b></p>
