@@ -21,14 +21,11 @@
 • Payment gateway integrations</p>
 • Fully optimized with speed and On-Page SEO</p>
 • Bug fixing, support and training</p>
-• Development operations are either 100% remote or in Malta 🇲🇹 exclusively.</p>
+• Development operations are 100% remote only or on a Freelance regime availability.</p>
 
 <br>
 <h2 align="center">I Seek 🔎</h2>
-I seek an "<b>Entry Level Front-end Web Development</b>" Role.
-
-<br>Aiming for 100% remote work. That I can do anywhere in the world I am located.
-<br>Also willing to relocate to Malta 🇲🇹 exclusively and permanently.
+I seek an "<b>Entry Level Front-end Web Development</b>" Role. That I can do anywhere in the world I am located.
 
 Passionate about solving problems, with a relentless drive to excel in the tech industry. 
 <br>I take into consideration good software design, user experience, debugging, optimization and maintainability. 
