@@ -27,7 +27,7 @@
 <h2 align="center">I Seek 🔎</h2>
 I seek an "<b>Entry Level Front-end Web Development</b>" Role. That I can do anywhere in the world I am located.
 
-Passionate about solving problems, with a relentless drive to excel in the tech industry. 
+I am passionate about solving problems, and have a relentless drive to excel in the tech industry.
 <br>I take into consideration good software design, user experience, debugging, optimization and maintainability. 
 <br>I feel comfortable working with HTML, CSS, and partial JavaScript both on the server and front-end. Plus basic PHP. 
 <br>I'm eager to learn new cutting-edge technologies and stay ahead of the ever-changing trends in web development. 
