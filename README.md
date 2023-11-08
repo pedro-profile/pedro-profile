@@ -97,9 +97,9 @@ This is what I guarantee:
 
 
 🫡 I’m currently improving ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-                              ⛓️
-                              ⛓️
-And learning ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
+                              <br>⛓️
+                              <br>⛓️
+<br>And learning ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
 
 
 
