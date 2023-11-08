@@ -56,9 +56,8 @@ If you need any of the skills I offer, I am available full-time, part-time, or a
 <br>Rate | €5 per Hour 💰<br>
 
 Pedro Carvalho
-- Tel | +351 933 294 116
 - Email | info@solutionsarray.com
-
+- Solutions Array | http://solutionsarray.com
 
 <h2 align="center">Tech Stack</h2>
 
