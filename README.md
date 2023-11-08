@@ -97,7 +97,8 @@ This is what I guarantee:
 
 
 🫡 I’m currently improving ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-                              <br>![26d3](https://github.com/pedro-su/pedro-su/assets/98498330/144a60ad-924a-4e5a-9319-5845bac912fa)
+                              <br>![chains-emoji-1642x2048-r16xk25f](https://github.com/pedro-su/pedro-su/assets/98498330/6f039760-56e9-447c-bee4-da748dfed3e1)
+
 
 <br>And learning ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
 
