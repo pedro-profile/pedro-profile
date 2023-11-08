@@ -90,7 +90,7 @@ Pedro Carvalho
 <br><br>    
 - 🫡 I’m currently learning ...
   
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=react)
 
 ## Stats
 
