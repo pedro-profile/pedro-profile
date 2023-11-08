@@ -53,9 +53,9 @@ If you need any of the skills I offer, I am available full-time, part-time, or a
 <p align="center"><b>| Portuguese | English |</center></b></p>
 
 This is what I guarantee:
-✅ Fast response time and excellent communication skills.
-✅ Great Value Services.
-✅ Wide Spectrum Of Skills & Experience
+<br>✅ Fast response time and excellent communication skills.
+<br>✅ Great Value Services.
+<br>✅ Wide Spectrum Of Skills & Experience
 
 <br>
 <br>Pedro Carvalho
