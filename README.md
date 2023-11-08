@@ -90,6 +90,12 @@ If you need any of the skills I offer, I am available full-time, part-time, or a
 <br><br>    
 🫡 I’m currently learning ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) & ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
+![image](https://github.com/pedro-su/pedro-su/assets/98498330/5236f1be-ed50-4f81-992d-fa1a9fdacc17)
+
+
+
+
+
 ## Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=pedro-su&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
