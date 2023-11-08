@@ -88,7 +88,7 @@ If you need any of the skills I offer, I am available full-time, part-time, or a
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/united-states-of-america-flag-3d-icon-32.png)](https://en.wikipedia.org/wiki/American_English)&nbsp;C1 &nbsp;
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/spain-flag-icon-32.png)](https://en.wikipedia.org/wiki/Spanish_language)&nbsp;B2
 <br><br>    
-🫡 I’m currently learning ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+🫡 I’m currently learning ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) and ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 ## Stats
 
