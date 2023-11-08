@@ -42,13 +42,13 @@ This way, if there is interest on my skills, and you wish to hire my services, y
 I made this video 🎥  https://youtu.be/xBdfI6vz1Lw  for another company as a summary of my professional experiences. 
 <br>With this in mind, we can possibly move directly to the second interview process and talk about geeky stuff.
 
-If you need any of the expert skills I offer, I am available full-time, part-time, or as a freelancer (by the Hour).
+If you need any of the skills I offer, I am available full-time, part-time, or as a freelancer (by the Hour).
 
 <br>
-<h2 align="center">Expert Skills I Offer 📢</h2>
+<h2 align="center"> Skills I Offer 📢</h2>
 
 <p align="center">⮟</p>
-<p align="center"><b>| HTML | CSS | WordPress | Linux | Nginx |</b></p>
+<p align="center"><b>| PHP | HTML | CSS | JavaScript | WordPress |</b></p>
 
 <p align="center"><b>| Portuguese | English |</center></b></p>
 
