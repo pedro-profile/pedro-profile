@@ -95,8 +95,8 @@ This is what I guarantee:
 <br><br>    
 🫡 I’m currently improving my &nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) &nbsp; skills ![download](https://github.com/pedro-su/pedro-su/assets/98498330/4f72095b-6f40-4f81-b019-144a9799dcb4)
  learning &nbsp; ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 
-![image](https://github.com/pedro-su/pedro-su/assets/98498330/5236f1be-ed50-4f81-992d-fa1a9fdacc17)
 
 
 
