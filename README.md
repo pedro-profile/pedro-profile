@@ -52,7 +52,7 @@ If you need any of the skills I offer, I am available full-time, part-time, or a
 
 <p align="center"><b>| Portuguese | English |</center></b></p>
 
-
+<br>
 Pedro Carvalho
 - Rate | €5 per Hour 💰
 - Email | info@solutionsarray.com
