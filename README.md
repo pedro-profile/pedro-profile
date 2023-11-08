@@ -57,7 +57,7 @@ Pedro Carvalho
 - Rate | €5 per Hour 💰
 - Email | info@solutionsarray.com
 - Solutions Array | http://solutionsarray.com
-</br>
+
 
 <br>
 <h2 align="center">Tech Stack</h2>
