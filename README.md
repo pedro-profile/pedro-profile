@@ -55,8 +55,7 @@ If you need any of the skills I offer, I am available full-time, part-time, or a
 
 <br>Rate | €5 per Hour 💰<br>
 
-Pedro Carvalho
-- Solutions Array | http://solutionsarray.com
+Pedro Carvalho | http://solutionsarray.com
 
 
 <h2 align="center">Tech Stack</h2>
