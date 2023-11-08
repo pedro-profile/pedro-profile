@@ -93,7 +93,7 @@ This is what I guarantee:
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/united-states-of-america-flag-3d-icon-32.png)](https://en.wikipedia.org/wiki/American_English)&nbsp;C1 &nbsp;
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/spain-flag-icon-32.png)](https://en.wikipedia.org/wiki/Spanish_language)&nbsp;B2
 <br><br>    
-🫡 I’m currently improving my &nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)⫘⫘ &nbsp;⫘⫘skills⫘⫘ ![download](https://github.com/pedro-su/pedro-su/assets/98498330/4f72095b-6f40-4f81-b019-144a9799dcb4)⫘⫘learning⫘⫘&nbsp;⫘⫘![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+🫡 I’m currently improving my &nbsp; ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)⫘⫘⫘⫘ skills ⫘⫘ and ⫘⫘ learning ⫘⫘⫘⫘![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 
 
