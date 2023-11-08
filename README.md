@@ -96,10 +96,8 @@ This is what I guarantee:
 🫡 I’m currently improving my ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)⫘⫘⫘⫘<b>skills</b>⫘⫘<b>and</b>⫘⫘<b>learning</b>⫘⫘⫘⫘![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
 
 
-🫡 I’m currently improving ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-                              <br>![chains-emoji-1642x2048-r16xk25f](https://github.com/pedro-su/pedro-su/assets/98498330/6f039760-56e9-447c-bee4-da748dfed3e1)
-
-
+🫡 I’m currently improving my ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) skills.
+<br>![chains-emoji-1642x2048-r16xk25f](https://github.com/pedro-su/pedro-su/assets/98498330/6f039760-56e9-447c-bee4-da748dfed3e1)
 <br>And learning ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
 
 
