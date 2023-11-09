@@ -101,7 +101,26 @@ This is what I guarantee:
 
 And learning ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
 
-<br><i style=font-size:16px class=fa></i> Braga, Portugal
+
+
+
+
+<div class="footer">
+  <p>
+      <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css>
+      <!--<i style=font-size:24px class=fa></i> +351 933 294 116-->
+      <br><i style=font-size:16px class=fa></i> info@SolutionsArray.com
+      <br><i style=font-size:16px class=fa></i> Braga, Portugal
+      <br><i style=font-size:20px class="fa fa-globe"></i>
+  <p> &copy; <?php echo date('Y'); ?> solutionsarray.com
+
+    	<p>
+    Made with <i class="fa fa-heart pulse"></i> in <a href="#" target="_blank">Portugal 🇵🇹</a>
+</p>
+</div>
+
+
+
 
 
 ## Stats
