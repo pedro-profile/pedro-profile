@@ -101,6 +101,7 @@ This is what I guarantee:
 
 And learning ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
 
+<br><i style=font-size:20px class="fa fa-globe"></i>
 
 
 ## Stats
