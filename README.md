@@ -93,30 +93,12 @@ This is what I guarantee:
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/united-states-of-america-flag-3d-icon-32.png)](https://en.wikipedia.org/wiki/American_English)&nbsp;C1 &nbsp;
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/spain-flag-icon-32.png)](https://en.wikipedia.org/wiki/Spanish_language)&nbsp;B2
 <br><br>    
-🫡 I’m currently improving my ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)⫘⫘⫘⫘<b>skills</b>⫘⫘<b>and</b>⫘⫘<b>learning</b>⫘⫘⫘⫘![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
-
+<!--🫡 I’m currently improving my ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)⫘⫘⫘⫘<b>skills</b>⫘⫘<b>and</b>⫘⫘<b>learning</b>⫘⫘⫘⫘![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)-->
 
 🫡 I’m currently improving my ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) skills.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/30_chains.png" alt="Chains">
 <br>And learning ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
 
-
-
-
-
-<div class="footer">
-  <p>
-      <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css>
-      <!--<i style=font-size:24px class=fa></i> +351 933 294 116-->
-      <br><i style=font-size:16px class=fa></i> info@SolutionsArray.com
-      <br><i style=font-size:16px class=fa></i> Braga, Portugal
-      <br><i style=font-size:20px class="fa fa-globe"></i>
-  <p> &copy; <?php echo date('Y'); ?> solutionsarray.com
-
-<p>
-    Made with <i class="fa fa-heart pulse"></i> in <a href="#" target="_blank">Portugal 🇵🇹</a>
-</p>
-</div>
 
 
 
