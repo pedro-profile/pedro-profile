@@ -63,7 +63,7 @@ This is what I guarantee:
 <br>• Rate | €5 per Hour 💰
 <br>• Email | info@solutionsarray.com
 <br>• Solutions Array | http://solutionsarray.com
-<br>• Upwork | <a href="https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1">https://www.upwork.com/</a>
+<br>• Upwork | <a href="https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1">upwork.com</a>
 
 <br><br>
 <h2 align="center">Tech Stack</h2>
