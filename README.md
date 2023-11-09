@@ -114,7 +114,7 @@ And learning ![React](https://img.shields.io/badge/-React-black?style=flat-squar
       <br><i style=font-size:20px class="fa fa-globe"></i>
   <p> &copy; <?php echo date('Y'); ?> solutionsarray.com
 
-    	<p>
+<p>
     Made with <i class="fa fa-heart pulse"></i> in <a href="#" target="_blank">Portugal 🇵🇹</a>
 </p>
 </div>
