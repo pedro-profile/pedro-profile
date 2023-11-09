@@ -101,7 +101,7 @@ This is what I guarantee:
 
 And learning ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
 
-    <br><i style=font-size:16px class=fa></i> Braga, Portugal
+<br><i style=font-size:16px class=fa></i> Braga, Portugal
 
 
 ## Stats
