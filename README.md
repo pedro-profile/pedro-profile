@@ -11,7 +11,7 @@
 <p>⮞ <a href="https://www.linkedin.com/in/solutionsarray/">LinkedIn</a>&nbsp; <a href="https://www.linkedin.com/in/SolutionsArray/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a></p>
 
 <br>
-<h2 align="center">I DO (WEBSITE AND E-COMMERCE) DEVELOPMENT</h2>
+<h2 align="center">SOLUTIONSARRAY.COM</h2>
 <p align="center"><a href="https://solutionsarray.com/portfolio/">SOLUTIONSARRAY.COM</a></p>
 <p><a href="https://solutionsarray.com/portfolio/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/09/SolutionsArray_Homepage.png"></a></p>
 
