@@ -73,15 +73,16 @@ This is what I guarantee:
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/2small_AppArmor.png)](https://apparmor.net/)
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/small_SELinux.png)](https://en.wikipedia.org/wiki/Security-Enhanced_Linux)
 &nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/UNIX.png)](https://en.wikipedia.org/wiki/Unix)
+
 &nbsp;&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/php.jpg)](https://www.php.net/)
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Laravel.png)](https://laravel.com/)
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/JavaScript.png)](https://en.wikipedia.org/wiki/JavaScript)
-
 &nbsp;&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Node.js.png)](https://nodejs.org/en)
 &nbsp;&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/11/react1.png)](https://react.dev/)
 &nbsp;&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/11/Nextjs-logo.svg_.png)](https://nextjs.org/)
 &nbsp;&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/MySQL.png)](https://www.mysql.com/)
 &nbsp;&nbsp;&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/5small_PostgreSQL.png)](https://www.postgresql.org/)
+
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/small_Apache.png)](https://httpd.apache.org/)
 &nbsp;&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/small_Nginx.png)](https://nginx.org/en/)
 &nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_git.png)](https://git-scm.com/)
