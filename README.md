@@ -86,7 +86,6 @@ This is what I guarantee:
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/small_Apache.png)](https://httpd.apache.org/)
 &nbsp;&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/small_Nginx.png)](https://nginx.org/en/)
 &nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_git.png)](https://git-scm.com/)
-
 &nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_docker.webp)](https://www.docker.com/)
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_podman.png)](https://podman.io/)
 [![Alt text](https://img.shields.io/badge/kubernetes-white?style=for-the-badge&logo=kubernetes)](https://kubernetes.io/)
