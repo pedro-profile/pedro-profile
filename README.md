@@ -68,6 +68,7 @@ This is what I guarantee:
 <h2 align="center">Tech Stack</h2>
 
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/10/1CICD.png)](https://en.wikipedia.org/wiki/CI/CD)
+[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/gentoo.png)](https://www.gentoo.org/)
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Linux5.png)](https://en.wikipedia.org/wiki/Linux)
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/2small_AppArmor.png)](https://apparmor.net/)
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/small_SELinux.png)](https://en.wikipedia.org/wiki/Security-Enhanced_Linux)
