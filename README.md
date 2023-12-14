@@ -47,7 +47,7 @@ I made this video 🎥  https://youtu.be/xBdfI6vz1Lw  for another company as a s
 <br>➡️ Read my LinkedIn | https://www.linkedin.com/in/SolutionsArray
 
 👨‍💼 My latest CV can be downloaded below 👇🏻:
-https://mixed.solutionsarray.com/wp-content/uploads/2023/12/IT_and_Languages_3.pdf
+<br>https://mixed.solutionsarray.com/wp-content/uploads/2023/12/IT_and_Languages_3.pdf
 
 If you need any of the skills I offer, I am available full-time, part-time, or as a freelancer (by the Hour).
 
