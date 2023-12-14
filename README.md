@@ -44,7 +44,7 @@ I made this video 🎥  https://youtu.be/xBdfI6vz1Lw  for another company as a s
 <br>With this in mind, we can possibly move directly to the second interview process and talk geekiness.
 
 ➡️ Read my GitHub | https://github.com/pedro-su 
-➡️ Read my LinkedIn | https://www.linkedin.com/in/SolutionsArray
+<br>➡️ Read my LinkedIn | https://www.linkedin.com/in/SolutionsArray
 
 👨‍💼 My latest CV can be downloaded here:
 https://mixed.solutionsarray.com/wp-content/uploads/2023/12/IT_and_Languages_3.pdf
