@@ -34,7 +34,7 @@ I seek an "<b>IT Software</b>" or "<b>Entry Level Front-end Web Development</b>"
 <br>I'm eager to learn new cutting-edge technologies and stay ahead of the ever-changing trends in web development. 
 <br>My ultimate goal is to build reliable and maintainable Front-end applications that are both functional and aesthetically pleasing.
 
-I am currently in the process of building an application using <b>PHP, HTML, CSS and JavaScript</b>. 
+I am currently in the process of building an application using <b>PHP, HTML5, CSS3 and JavaScript</b>. 
 <br>The URL is going to be <a href="#"> here </a> once ready. 
 
 This way, if there is interest on my skills, and you wish to hire my services, you can judge my knowledge level. 
