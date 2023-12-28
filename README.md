@@ -45,8 +45,8 @@ I made this video 🎥  https://youtu.be/xBdfI6vz1Lw  for another company as a s
 
 ➡️ Read my LinkedIn | https://www.linkedin.com/in/SolutionsArray
 
-👨‍💼 Downloaded my CV ⬇
-<br>http://mixed.solutionsarray.com/wp-content/uploads/2023/12/Web-Developer.pdf
+👨‍💼 Download my CV ⬇
+<br>https://mixed.solutionsarray.com/wp-content/uploads/2023/12/Web-Developer.pdf
 
 If you need any of the skills I offer, I am available full-time, part-time, or as a freelancer (by the Hour).
 
