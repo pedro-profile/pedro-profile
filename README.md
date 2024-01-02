@@ -26,7 +26,6 @@
 <h2 align="center"> I Seek 🔎 </h2>
 I seek an "<b>Entry Level Front-end Web Development</b>" Role.
 <br>Preferably one that I can do anywhere in the world I am located. On a 100% work from home remote regime.
-<br>I am also willing to relocate.
 
 <br>I am passionate about solving problems, and have a relentless drive to excel in the tech industry.
 <br>I take into consideration good software design, user experience, debugging, optimization and maintainability. 
