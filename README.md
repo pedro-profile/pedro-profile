@@ -55,7 +55,7 @@ If you need any of the skills I offer, I am available full-time, part-time, or a
 <p align="center">⮟</p>
 <p align="center"><b>| PHP | HTML5 | CSS3 | JavaScript | React |</b></p>
 
-<-- !<p align="center"><b>| Portuguese | English |</center></b></p> -->
+<!-- <p align="center"><b>| Portuguese | English |</center></b></p> -->
 
 <br><br>
 This is what I guarantee:
