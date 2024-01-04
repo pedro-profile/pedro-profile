@@ -97,9 +97,9 @@ This is what I guarantee:
 [![Alt text](https://img.shields.io/badge/kubernetes-white?style=for-the-badge&logo=kubernetes)](https://kubernetes.io/)
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/10/5python.png)](https://en.wikipedia.org/wiki/Python_(programming_language))
 <br><br><br>
-[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/portugal-flag-icon-32.png)](https://en.wikipedia.org/wiki/Portuguese_language)&nbsp;C2 &nbsp;
+<!-- [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/portugal-flag-icon-32.png)](https://en.wikipedia.org/wiki/Portuguese_language)&nbsp;C2 &nbsp;
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/united-states-of-america-flag-3d-icon-32.png)](https://en.wikipedia.org/wiki/American_English)&nbsp;C1 &nbsp;
-[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/spain-flag-icon-32.png)](https://en.wikipedia.org/wiki/Spanish_language)&nbsp;B2
+[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/spain-flag-icon-32.png)](https://en.wikipedia.org/wiki/Spanish_language)&nbsp;B2 -->
 <br><br>    
 <!-- 🫡 I’m currently improving my ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)⫘⫘⫘⫘<b>skills</b>⫘⫘<b>and</b>⫘⫘<b>learning</b>⫘⫘⫘⫘![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) -->
 
