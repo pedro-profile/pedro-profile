@@ -64,13 +64,13 @@ This is what I guarantee:
 <br>✅ Wide Spectrum Of Skills & Experience.-->
 
 
-<br><br><br><br><br>Pedro Carvalho
+<br><br><br>Pedro Carvalho
 <br>• Rate | €5 per Hour 💰
 <br>• Email | info@solutionsarray.com
 <br>• Solutions Array | http://solutionsarray.com
 <br>• Upwork | <a href="https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1">upwork.com</a>
 
-<br><br>
+<br>
 <h2 align="center">Tech Stack</h2>
 
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/10/1CICD.png)](https://en.wikipedia.org/wiki/CI/CD)
