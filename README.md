@@ -88,14 +88,16 @@ This is what I guarantee:
 &nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_docker.webp)](https://www.docker.com/)
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_podman.png)](https://podman.io/)
 [![Alt text](https://img.shields.io/badge/kubernetes-white?style=for-the-badge&logo=kubernetes)](https://kubernetes.io/)
-<br><br>
+<br><br><br>
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/10/5python.png)](https://en.wikipedia.org/wiki/Python_(programming_language))
 <br><br><br>
 <!-- [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/portugal-flag-icon-32.png)](https://en.wikipedia.org/wiki/Portuguese_language)&nbsp;C2 &nbsp;
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/united-states-of-america-flag-3d-icon-32.png)](https://en.wikipedia.org/wiki/American_English)&nbsp;C1 &nbsp;
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/spain-flag-icon-32.png)](https://en.wikipedia.org/wiki/Spanish_language)&nbsp;B2 
-<br><br> -->    
-<!-- 🫡 I’m currently improving my ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)⫘⫘⫘⫘<b>skills</b>⫘⫘<b>and</b>⫘⫘<b>learning</b>⫘⫘⫘⫘![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) -->
+<br><br> -->  
+
+
+ 🫡 I’m currently improving my ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)⫘⫘⫘⫘<b>skills</b>⫘⫘<b>and</b>⫘⫘<b>learning</b>⫘⫘⫘⫘![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
 
 🫡 I’m currently improving my ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) skills.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/30_chains.png" alt="Chains">
