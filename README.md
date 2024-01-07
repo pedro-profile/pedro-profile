@@ -75,8 +75,6 @@ This is what I guarantee:
 
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/10/1CICD.png)](https://en.wikipedia.org/wiki/CI/CD)
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Linux5.png)](https://en.wikipedia.org/wiki/Linux)
-
-
 &nbsp;&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/php.jpg)](https://www.php.net/)
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Laravel.png)](https://laravel.com/)
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/JavaScript.png)](https://en.wikipedia.org/wiki/JavaScript)
