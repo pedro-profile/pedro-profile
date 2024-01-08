@@ -1,12 +1,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/10/SolutionsArray1.com_.png)](https://solutionsarray.com/)
 <br>
-<!--
+
 <p align="center">An Array of Solutions To Worldwide Digital Issues</p>
 <p align="center">⮟</p>
-<p align="center">A Digital Marketing Company</p>
-<p align="center">A Digital Marketing Company</p>
-<p align="center">A Digital Marketing Company</p>
--->
+<p align="center">Our Focus</p>
+<p align="center">⮟</p>
+<p align="center">| Authenticating Information | Cyber Security | Online Marketing | Privacy |</p>
+
 
 
  <!-- <p align="center">A Digital Marketing Company</p>< | Based in Portugal </p> -->
