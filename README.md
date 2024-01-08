@@ -79,7 +79,7 @@ This is what I guarantee:
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Laravel.png)](https://laravel.com/)
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/JavaScript.png)](https://en.wikipedia.org/wiki/JavaScript)
 &nbsp;&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Node.js.png)](https://nodejs.org/en)
-&nbsp;&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/11/react1.png)](https://react.dev/)
+&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/11/react1.png)](https://react.dev/)
 <br><br>
 &nbsp;&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/11/Nextjs-logo.svg_.png)](https://nextjs.org/)
 &nbsp;&nbsp;&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/5small_PostgreSQL.png)](https://www.postgresql.org/)
