@@ -9,7 +9,7 @@
 -->
 
 
- <!-- <p align="center">A Digital Marketing Company</p>--><!-- | Based in Portugal --></p> -->
+ <!-- <p align="center">A Digital Marketing Company</p>< | Based in Portugal </p> -->
 
 <br>
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/solutionsarray/" target="_blank"> Pedro Carvalho </a></h1> 
