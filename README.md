@@ -95,8 +95,6 @@ This is what I guarantee:
 &nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_docker.webp)](https://www.docker.com/)
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_podman.png)](https://podman.io/)
 [![Alt text](https://img.shields.io/badge/kubernetes-white?style=for-the-badge&logo=kubernetes)](https://kubernetes.io/)
-<br><br>
-[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/10/5python.png)](https://en.wikipedia.org/wiki/Python_(programming_language))
 <br><br><br>
 <!-- [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/portugal-flag-icon-32.png)](https://en.wikipedia.org/wiki/Portuguese_language)&nbsp;C2 &nbsp;
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/united-states-of-america-flag-3d-icon-32.png)](https://en.wikipedia.org/wiki/American_English)&nbsp;C1 &nbsp;
