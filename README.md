@@ -1,6 +1,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/10/SolutionsArray1.com_.png)](https://solutionsarray.com/)
 
-<p align="center">An Array of Solutions To Digital Issues</p>
+<p align="center">An Array of Solutions For Digital Issues</p>
 <p align="center">⮝</p>
 <p align="center">⮜ &nbsp; 3 Areas We Focus &nbsp; ⮞</p>
 <p align="center">⮟</p>
