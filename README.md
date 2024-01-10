@@ -50,9 +50,9 @@ This way, if there is interest on my skills, and you wish to hire my services, y
 I made this video 🎥  https://youtu.be/xBdfI6vz1Lw  for another company as a summary of my professional experiences. 
 <br>With this in mind, we can possibly move directly to the second interview process and talk geekiness.
 
-➡️ Read my LinkedIn | https://www.linkedin.com/in/SolutionsArray
+➡️ Download my CV   | https://mixed.solutionsarray.com/cv/
 
-➡️ Download my CV 👨‍💼 | https://mixed.solutionsarray.com/cv/
+➡️ Read my LinkedIn | https://www.linkedin.com/in/SolutionsArray
 
 If you need any of the skills I offer, I am available full-time, part-time, or as a freelancer (by the Hour).
 
