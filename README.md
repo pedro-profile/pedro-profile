@@ -2,7 +2,7 @@
 
 <p align="center">An Array of Solutions For Digital Issues</p>
 <p align="center">⮝</p>
-<p align="center">⮜ &nbsp; 3 Focus Areas &nbsp; ⮞</p>
+<p align="center">⮜ &nbsp; Focus &nbsp; ⮞</p>
 <p align="center">⮟</p>
 <p align="center"> · Marketing · Privacy · Security · </p>
 
