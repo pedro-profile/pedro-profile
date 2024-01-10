@@ -2,7 +2,7 @@
 
 <p align="center">An Array of Solutions For Digital Issues</p>
 <p align="center">⮝</p>
-<p align="center">⮜ &nbsp; 3 Areas We Focus &nbsp; ⮞</p>
+<p align="center">⮜ &nbsp; 3 Focus Areas &nbsp; ⮞</p>
 <p align="center">⮟</p>
 <p align="center"> · Marketing · Privacy · Security · </p>
 
@@ -31,7 +31,7 @@
 • Development operations are 100% remote only or on a Freelance regime availability</p>
 
 <br>
-<h2 align="center"> I Seek 🔎 </h2>
+<h2 align="center"> Info 🗂️ </h2>
 I seek an "<b>Entry Level Front-end Web Development</b>" Role.
 <br>Preferably one that I can do anywhere in the world I am located. On a 100% work from home remote regime.
 
@@ -58,7 +58,7 @@ I made this video 🎥  https://youtu.be/xBdfI6vz1Lw  for another company as a s
 If you need any of the skills I offer, I am available full-time, part-time, or as a freelancer (by the Hour).
 
 <br>
-<h2 align="center"> Skills I Offer 📢</h2>
+<h2 align="center"> Skills 🧑‍🔧 </h2>
 
 <p align="center">⮟</p>
 <p align="center"><b>| PHP | HTML5 | CSS3 | JavaScript | React |</b></p>
