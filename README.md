@@ -2,7 +2,7 @@
 <!--
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/gears1.png" alt="Gears">&nbsp; An Array of Solutions For · Marketing · Privacy · Security · -->
 
-<p align="center"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/gears1.png" alt="Gears">&nbsp; An Array of Solutions For · Marketing · Privacy ·  & · Security ·</p>
+<p align="center"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/gears1.png" alt="Gears">&nbsp; An Array of Solutions For · Marketing · Privacy · and · Security ·</p>
 
 <!--
 <p align="center">⮝</p>
