@@ -81,9 +81,7 @@ This is what I guarantee:
 <br>
 <h2 align="center">Tech Stack</h2>
 
-[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/10/1CICD.png)](https://en.wikipedia.org/wiki/CI/CD)
-&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Linux5.png)](https://en.wikipedia.org/wiki/Linux)
-&nbsp;&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/php.jpg)](https://www.php.net/)
+[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/php.jpg)](https://www.php.net/)
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Laravel.png)](https://laravel.com/)
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/JavaScript.png)](https://en.wikipedia.org/wiki/JavaScript)
 &nbsp;&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Node.js.png)](https://nodejs.org/en)
