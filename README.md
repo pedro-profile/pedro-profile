@@ -6,7 +6,7 @@
 
 <!--
 <p align="center">⮝</p>
-<p align="center">⮜ &nbsp; · Marketing · Privacy · Security · &nbsp; ⮞</p>
+<p align="center">⮜ &nbsp; · Marketing · Privacy and · Security · &nbsp; ⮞</p>
 <p align="center">⮟</p>
 -->
 
