@@ -4,7 +4,7 @@
 <p align="center">⮝</p>
 <p align="center">⮜ &nbsp; 3 Areas We Focus &nbsp; ⮞</p>
 <p align="center">⮟</p>
-<p align="center"> Marketing ¤ Privacy ¤ Security </p>
+<p align="center"> Marketing · Privacy · Security </p>
 
 
 
