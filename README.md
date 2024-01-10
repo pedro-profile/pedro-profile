@@ -4,7 +4,7 @@
 <p align="center">⮝</p>
 <p align="center">⬋These Are The 4 Areas We Focus⬊</p>
 <p align="center">⮟</p>
-<p align="center">| Authenticating Information | Cyber Security | Online Marketing | Privacy |</p>
+<p align="center">| Security | Online Marketing | Privacy |</p>
 
 
 
