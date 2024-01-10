@@ -58,7 +58,7 @@ I made this video 🎥  https://youtu.be/xBdfI6vz1Lw  for another company as a s
 If you need any of the skills I offer, I am available full-time, part-time, or as a freelancer (by the Hour).
 
 <br>
-<h2 align="center"> Skills 🧑‍🔧 </h2>
+<h2 align="center">Skills 🪛</h2>
 
 <p align="center">⮟</p>
 <p align="center"><b>| PHP | HTML5 | CSS3 | JavaScript | React |</b></p>
