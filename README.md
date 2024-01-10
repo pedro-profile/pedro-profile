@@ -1,7 +1,7 @@
 <p align="center"><a href="https://solutionsarray.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/10/SolutionsArray1.com_.png" alt="solutionsarray.com"></a></p>
 <p align="center"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/gears1.png" alt="Gears">&nbsp; An Array of Solutions For • Marketing • Privacy • Security •</p>
 
- <p align="center">A Digital Marketing Company</p>< | Based in Portugal </p> 
+ <p align="center">A Digital Marketing Company | Based in Portugal </p> 
 
 <br>
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/solutionsarray/" target="_blank"> Pedro Carvalho </a></h1> 
