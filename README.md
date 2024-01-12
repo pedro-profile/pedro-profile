@@ -52,7 +52,7 @@ If you need any of the skills I offer, I am available full-time, part-time, or a
 <h2 align="center">Skills 🪛</h2>
 
 <p align="center">⮟</p>
-<p align="center"><b>| CSS3 | HTML5 | JavaScript | PHP | React | WordPress |</b></p>
+<p align="center"><b>| PHP | HTML5 | CSS3 | JavaScript | React | WordPress |</b></p>
 
 <!-- <p align="center"><b>| Portuguese - C2 | English - C1 | Spanish - B2|</center></b></p> -->
 
@@ -71,13 +71,12 @@ This is what I guarantee:
 <br>
 <h2 align="center">Tech Stack</h2>
 
-
+&nbsp;&nbsp;&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/php.jpg)](https://www.php.net/)
+[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Laravel.png)](https://laravel.com/)
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/JavaScript.png)](https://en.wikipedia.org/wiki/JavaScript)
 &nbsp;&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Node.js.png)](https://nodejs.org/en)
 &nbsp;&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/11/react1.png)](https://react.dev/)
 &nbsp;&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/11/Nextjs-logo.svg_.png)](https://nextjs.org/)
-&nbsp;&nbsp;&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/php.jpg)](https://www.php.net/)
-[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Laravel.png)](https://laravel.com/)
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/5small_PostgreSQL.png)](https://www.postgresql.org/)
 &nbsp;&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/small_Nginx.png)](https://nginx.org/en/)
 &nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_git.png)](https://git-scm.com/)
