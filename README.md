@@ -43,6 +43,7 @@ I made this video 🎥  https://youtu.be/xBdfI6vz1Lw  for another company as a s
 <br>With this in mind, we can possibly move directly to the second interview process and talk geekiness.
 
 ➡️ Download my CV&nbsp;&nbsp;| https://mixed.solutionsarray.com/cv/
+<br>
 ➡️ Read my LinkedIn | https://www.linkedin.com/in/SolutionsArray
 
 If you need any of the skills I offer, I am available full-time, part-time, or as a freelancer (by the Hour).
