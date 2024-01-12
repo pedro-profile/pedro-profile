@@ -27,7 +27,7 @@
 Seeking an Entry Level <b>(Front-end Web Development)</b> Role.
 <br>One that I can do anywhere in the world I am located. On a 100% (work from home remote regime).
 
-I am passionate about solving problems, and have a relentless drive to excel in the tech industry.
+<br>I am passionate about solving problems, and have a relentless drive to excel in the tech industry.
 <br>I take into consideration good software design, user experience, debugging, optimization and maintainability. 
 <br>I feel comfortable working with HTML, CSS, and partial JavaScript both on the server and front-end. Plus basic PHP. 
 <br>I'm eager to learn new cutting-edge technologies and stay ahead of the ever-changing trends in web development. 
