@@ -24,7 +24,7 @@
 
 <br>
 <h2 align="center"> Info 🗂️ </h2>
-Seeking an <b>Entry Level (Front-end Web Development)</b> Role.
+Seeking an Entry Level <b>(Front-end Web Development)</b> Role.
 <br>One that I can do anywhere in the world I am located. On a 100% (work from home remote regime).
 
 <br>I am passionate about solving problems, and have a relentless drive to excel in the tech industry.
