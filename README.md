@@ -6,18 +6,14 @@
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Web+Developer+from+Portugal+%3A)" /> </h3>
 
 
-<p> <a href="http://solutionsarray.com/portfolio"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click2.png"></a>➰<a href="http://solutionsarray.com/portfolio"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/5portfolio.png"></a></p>
+<p>  <a href="http://solutionsarray.com/portfolio"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click2.png"></a>➰<a href="http://solutionsarray.com/portfolio"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/5portfolio.png"></a></p>
 
-<p> <a href="https://mixed.solutionsarray.com/wp-content/uploads/2024/01/Pedro-Carvalho.pdf"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click2.png"></a>➰<a href="https://mixed.solutionsarray.com/wp-content/uploads/2024/01/Pedro-Carvalho.pdf"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/6Curriculum-Vitae.png"></a></p>
+<p>  <a href="https://mixed.solutionsarray.com/wp-content/uploads/2024/01/Pedro-Carvalho.pdf"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click2.png"></a>➰<a href="https://mixed.solutionsarray.com/wp-content/uploads/2024/01/Pedro-Carvalho.pdf"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/6Curriculum-Vitae.png"></a></p>
 
-
-
-
-<p> <a href="https://www.linkedin.com/in/SolutionsArray/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click2.png" alt="LinkedIn""></a>➰<a href="https://www.linkedin.com/in/SolutionsArray/"<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a></p>
+<p>  <a href="https://www.linkedin.com/in/SolutionsArray/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click2.png"></a>➰<a href="https://www.linkedin.com/in/SolutionsArray/"<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a></p>
 
 
-changed pattern
-<p> <img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click2.png" alt="LinkedIn""><a href="https://www.linkedin.com/in/SolutionsArray/"></a>➰<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"<a href="https://www.linkedin.com/in/SolutionsArray/"></a></p>
+
 
 
 
