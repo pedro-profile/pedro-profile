@@ -16,7 +16,7 @@
 
 
 
-<p> <a href="https://www.linkedin.com/in/SolutionsArray/"></a><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click2.png" alt="LinkedIn"">➰<a href="https://www.linkedin.com/in/SolutionsArray/"></a><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"</p>
+<p> <a href="https://www.linkedin.com/in/SolutionsArray/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click2.png" alt="LinkedIn""></a>➰<a href="https://www.linkedin.com/in/SolutionsArray/"<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"<a/></p>
 
 <p> <img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click2.png" alt="LinkedIn""><a href="https://www.linkedin.com/in/SolutionsArray/"></a>➰<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"<a href="https://www.linkedin.com/in/SolutionsArray/"></a></p>
 
