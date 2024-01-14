@@ -7,7 +7,10 @@
 
 
 
-<p><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click1.png">👉<a href="http://solutionsarray.com/portfolio"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/5portfolio.png" alt="Portfolio"></a></p>
+
+<p><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/gears1.png"> 👉 <a href="http://solutionsarray.com/portfolio"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/5portfolio.png" alt="Portfolio"></a></p>
+
+<p><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click1.png"> 👉 <a href="http://solutionsarray.com/portfolio"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/5portfolio.png" alt="Portfolio"></a></p>
 
 
 
