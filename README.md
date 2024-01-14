@@ -15,9 +15,7 @@
 
 
 
-<p><a href="https://mixed.solutionsarray.com/wp-content/uploads/2024/01/Pedro-Carvalho.pdf"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click2.png"></a>➰
-  
-  <a href="https://mixed.solutionsarray.com/wp-content/uploads/2024/01/Pedro-Carvalho.pdf"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/6Curriculum-Vitae.png"></a></p>
+<p><a href="https://mixed.solutionsarray.com/wp-content/uploads/2024/01/Pedro-Carvalho.pdf"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click2.png"></a>➰<a href="https://mixed.solutionsarray.com/wp-content/uploads/2024/01/Pedro-Carvalho.pdf"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/6Curriculum-Vitae.png"></a></p>
 
 
 
