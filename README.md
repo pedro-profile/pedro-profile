@@ -1,5 +1,5 @@
 <p align="center"><a href="https://solutionsarray.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/10/SolutionsArray1.com_.png" alt="solutionsarray.com"></a></p>
-<p align="center"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/gears1.png" alt="Gears">&nbsp; Private 🖇 Secure &nbsp;♠&nbsp; Digital Solutions</p>
+<p align="center"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/gears1.png" alt="Gears">&nbsp; Private🖇Secure &nbsp;♠&nbsp; Digital Solutions</p>
 
 <br>
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/solutionsarray/" target="_blank"> Pedro Carvalho </a></h1> 
