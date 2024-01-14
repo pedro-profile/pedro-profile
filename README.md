@@ -7,18 +7,11 @@
 
 
 
-<p><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click2.png"> 👉 <a href="http://solutionsarray.com/portfolio"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/5portfolio.png" alt="Portfolio"></a></p>
+<p><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click2.png">➰<a href="http://solutionsarray.com/portfolio"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/5portfolio.png" alt="Portfolio"></a></p>
 
-<p><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click2.png"> 👉 <a href="https://mixed.solutionsarray.com/wp-content/uploads/2024/01/Pedro-Carvalho.pdf"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/6Curriculum-Vitae.png" alt="CV"></a></p>
-
-<p><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click2.png"> 👉 <a href="https://www.linkedin.com/in/SolutionsArray/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a></p>
-
-<p><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click2.png"> ➡️ <a href="https://www.linkedin.com/in/SolutionsArray/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a></p>
+<p><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click2.png">➰<a href="https://mixed.solutionsarray.com/wp-content/uploads/2024/01/Pedro-Carvalho.pdf"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/6Curriculum-Vitae.png" alt="CV"></a></p>
 
 <p><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click2.png">➰<a href="https://www.linkedin.com/in/SolutionsArray/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a></p>
-
-
-
 
 
 
