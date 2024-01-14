@@ -1,5 +1,5 @@
 <p align="center"><a href="https://solutionsarray.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/10/SolutionsArray1.com_.png" alt="solutionsarray.com"></a></p>
-<p align="center"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/gears1.png" alt="Gears">&nbsp; Digital Solutions &nbsp;♠&nbsp; Strong Privacy and Security</p>
+<p align="center"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/gears1.png" alt="Gears">&nbsp; Digital Solutions &nbsp;♠&nbsp; Privacy and Security</p>
 
 <!--<p align="center">A Digital Marketing Company | Based in Portugal </p>-->
 
