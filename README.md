@@ -1,15 +1,28 @@
 <p align="center"><a href="https://solutionsarray.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/10/SolutionsArray1.com_.png" alt="solutionsarray.com"></a></p>
 <p align="center"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/gears1.png" alt="Gears">&nbsp; Digital Solutions &nbsp;♠&nbsp; Private and Secure</p>
 
-<!--<p align="center">A Digital Marketing Company | Based in Portugal </p>-->
-
 <br>
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/solutionsarray/" target="_blank"> Pedro Carvalho </a></h1> 
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Web+Developer+from+Portugal+%3A)" /> </h3>
 
+
+
+<p align="center"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click1.png"> 👉 <a href="http://solutionsarray.com/portfolio"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/5portfolio.png" alt="Portfolio"></a></p>
+
+
+
+
+
+
 <p>  <a href="https://solutionsarray.com/portfolio/">Click</a>&nbsp; 👉 <a href="http://solutionsarray.com/portfolio"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/5portfolio.png" alt="Portfolio"></a></p>
+
+
+
 <p>  <a href="https://mixed.solutionsarray.com/wp-content/uploads/2024/01/Pedro-Carvalho.pdf">Click</a>&nbsp; 👉 <a href="https://mixed.solutionsarray.com/wp-content/uploads/2024/01/Pedro-Carvalho.pdf"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/6Curriculum-Vitae.png" alt="CV"></a></p>
 <p>  <a href="https://www.linkedin.com/in/solutionsarray/">Click</a>&nbsp; 👉 <a href="https://www.linkedin.com/in/SolutionsArray/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a></p>
+
+
+
 
 <br>
 <h2 align="center"><a href="https://solutionsarray.com/portfolio/">SOLUTIONSARRAY.COM</a></h2>
