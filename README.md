@@ -7,7 +7,6 @@
 
 
 
-<p><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click2.png">➰<a href="http://solutionsarray.com/portfolio"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/5portfolio.png" alt="Portfolio"></a></p>
 
 
 <p><a href="http://solutionsarray.com/portfolio"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click2.png"></a>➰<a href="http://solutionsarray.com/portfolio"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/5portfolio.png"></a></p>
