@@ -23,7 +23,7 @@
 • PSD to WordPress design with Custom Animations</p>
 • Payment gateway integrations</p>
 • Fully optimized with speed and On-Page SEO</p>
-• Bug fixing🐞 | support🧍 | training🌐</p>
+• Bug fixing🐞  support🧍  training🌐</p>
 
 <br>&nbsp;&nbsp;&nbsp;🇵·🇸: Development operations are 100% remote only or on a Freelance regime availability</p>
 
