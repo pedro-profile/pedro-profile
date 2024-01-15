@@ -8,9 +8,9 @@
 
 <p>  <a href="http://solutionsarray.com/portfolio"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click2.png"></a>➰<a href="http://solutionsarray.com/portfolio"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/5portfolio.png" alt="Portfolio"></a></p>
 
-<p>  <a href="https://mixed.solutionsarray.com/wp-content/uploads/2024/01/Pedro-Carvalho.pdf"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click2.png"></a>➰<a href="https://mixed.solutionsarray.com/wp-content/uploads/2024/01/Pedro-Carvalho.pdf"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/6Curriculum-Vitae.png"></a></p>
+<p>  <a href="https://mixed.solutionsarray.com/wp-content/uploads/2024/01/Pedro-Carvalho.pdf"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click3.png"></a>➰<a href="https://mixed.solutionsarray.com/wp-content/uploads/2024/01/Pedro-Carvalho.pdf"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/6Curriculum-Vitae.png"></a></p>
 
-<p>  <a href="https://www.linkedin.com/in/solutionsarray/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click2.png"></a>➰<a href="https://www.linkedin.com/in/SolutionsArray/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a></p>
+<p>  <a href="https://www.linkedin.com/in/solutionsarray/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click3.png"></a>➰<a href="https://www.linkedin.com/in/SolutionsArray/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a></p>
 
 
 <br>
@@ -90,6 +90,7 @@ This is what I guarantee:
 <!-- [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/portugal-flag-icon-32.png)](https://en.wikipedia.org/wiki/Portuguese_language)&nbsp;C2 &nbsp;
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/united-states-of-america-flag-3d-icon-32.png)](https://en.wikipedia.org/wiki/American_English)&nbsp;C1 &nbsp;
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/spain-flag-icon-32.png)](https://en.wikipedia.org/wiki/Spanish_language)&nbsp;B2 -->
+
 <p>🫡 I’m currently improving my <img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/js.png" alt="JavaScript"> skills.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/30_chains.png" alt="Chains">
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And learning <img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/react.png" alt="React"></p>
