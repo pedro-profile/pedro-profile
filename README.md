@@ -74,18 +74,18 @@ This is what I guarantee:
 <h2 align="center">Tech Stack</h2>
 
 <p align="center"><a href="https://www.php.net/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/08/php.jpg" alt="Alt text"></a>
-<a href="https://laravel.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Laravel.png" alt="Alt text"></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/08/JavaScript.png" alt="Alt text"></a>
-&nbsp;&nbsp;<a href="https://nodejs.org/en"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Node.js.png" alt="Alt text"></a>
-&nbsp;&nbsp;<a href="https://react.dev/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/react1.png" alt="Alt text"></a>
-&nbsp;&nbsp;<a href="https://nextjs.org/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/Nextjs-logo.svg_.png" alt="Alt text"></a>
+<a href="https://laravel.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Laravel.png"</a>
+<a href="https://en.wikipedia.org/wiki/JavaScript"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/08/JavaScript.png"</a>
+&nbsp;&nbsp;<a href="https://nodejs.org/en"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Node.js.png"</a>
+&nbsp;&nbsp;<a href="https://react.dev/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/react1.png"</a>
+&nbsp;&nbsp;<a href="https://nextjs.org/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/Nextjs-logo.svg_.png"</a>
 <br>
-<a href="https://www.postgresql.org/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/09/5small_PostgreSQL.png" alt="Alt text"></a>
-&nbsp;&nbsp;<a href="https://nginx.org/en/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/09/small_Nginx.png" alt="Alt text"></a>
-&nbsp;<a href="https://git-scm.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_git.png" alt="Alt text"></a>
-&nbsp;<a href="https://www.docker.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_docker.webp" alt="Alt text"></a>
-<a href="https://podman.io/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_podman.png" alt="Alt text"></a>
-<a href="https://kubernetes.io/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/kubernetes1.png" alt="Alt text"></a></p>
+<a href="https://www.postgresql.org/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/09/5small_PostgreSQL.png"</a>
+&nbsp;&nbsp;<a href="https://nginx.org/en/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/09/small_Nginx.png"</a>
+&nbsp;<a href="https://git-scm.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_git.png"</a>
+&nbsp;<a href="https://www.docker.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_docker.webp"</a>
+<a href="https://podman.io/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_podman.png"</a>
+<a href="https://kubernetes.io/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/kubernetes1.png"</a></p>
 <br><br><br>
 <!-- [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/portugal-flag-icon-32.png)](https://en.wikipedia.org/wiki/Portuguese_language)&nbsp;C2 &nbsp;
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/united-states-of-america-flag-3d-icon-32.png)](https://en.wikipedia.org/wiki/American_English)&nbsp;C1 &nbsp;
