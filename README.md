@@ -22,7 +22,7 @@
 • Payment gateway integrations</p>
 • Fully optimized with speed and On-Page SEO</p>
 • 🐞Bug fixing, 🤝support and 🧍training</p>
-• Development operations are 100% remote only or on a Freelance regime availability</p>
+• 🇵|🇸: Development operations are 100% remote only or on a Freelance regime availability</p>
 
 <br>
 <h2 align="center"> Info 🗂️ </h2>
