@@ -72,7 +72,7 @@ This is what I guarantee:
 
 <br>
 <h2 align="center">Tech Stack</h2>
-
+<p align="center">
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/php.jpg)](https://www.php.net/)
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Laravel.png)](https://laravel.com/)
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/JavaScript.png)](https://en.wikipedia.org/wiki/JavaScript)
@@ -94,7 +94,7 @@ This is what I guarantee:
 🫡 I’m currently improving my ![JavaScript](http://mixed.solutionsarray.com/wp-content/uploads/2024/01/js.png) skills.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/30_chains.png" alt="Chains">
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And learning ![React](http://mixed.solutionsarray.com/wp-content/uploads/2024/01/react.png)
-
+</p>
 
 
 
