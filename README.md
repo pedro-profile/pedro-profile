@@ -54,7 +54,7 @@ I made this video 🎥  https://youtu.be/xBdfI6vz1Lw  for another company as a s
 If you need any of the skills I offer, I am available full-time, part-time, or as a freelancer (by the Hour).
 
 <br><b><i>Post-Mortem:</b> Those who do not hire my services will🪦. And i'll forever 👻 your 😇.</i>
-<--!<p><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/delorean.png">&nbsp; </p>-->
+<!--<p><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/delorean.png">&nbsp; </p>-->
 
 
 
