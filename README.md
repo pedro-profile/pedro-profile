@@ -79,8 +79,8 @@ This is what I guarantee:
 &nbsp;&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Node.js.png)](https://nodejs.org/en)
 &nbsp;&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/11/react1.png)](https://react.dev/)
 &nbsp;&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/11/Nextjs-logo.svg_.png)](https://nextjs.org/)
-&nbsp;&nbsp;
-[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/5small_PostgreSQL.png)](https://www.postgresql.org/)
+<br>
+&nbsp;&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/5small_PostgreSQL.png)](https://www.postgresql.org/)
 &nbsp;&nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/09/small_Nginx.png)](https://nginx.org/en/)
 &nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_git.png)](https://git-scm.com/)
 &nbsp;[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_docker.webp)](https://www.docker.com/)
