@@ -25,7 +25,7 @@
 • Fully optimized with speed and On-Page SEO</p>
 • Bug Fix🐞 | Support🦸🏻‍♂️ | Training📈</p>
 
-<br>&nbsp;&nbsp;&nbsp;🇵·🇸: Development operations are 100% remote only or on a Freelance regime availability</p>
+<br>&nbsp;&nbsp;&nbsp;<b>PS:</b> Development operations are 100% remote only or on a Freelance regime availability</p>
 
 <br>
 <h2 align="center"> Info 🗂️ </h2>
