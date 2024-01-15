@@ -53,7 +53,7 @@ If you need any of the skills I offer, I am available full-time, part-time, or a
 <br>
 🇵·🇸: Those who do not hire my services get 🔪⚰️🪦.
 
-<br>
+<br><br>
 <h2 align="center">Skills 🪛</h2>
 
 <p align="center">⮟</p>
