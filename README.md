@@ -49,13 +49,6 @@ I am currently in the process of building an application using <b>PHP, HTML5, CS
 This way, if there is interest on my skills, and you wish to hire my services, you can judge my knowledge level. 
 <br>And we discuss technical aspects directly.
 
-I made this video 🎥  https://youtu.be/xBdfI6vz1Lw  for another company as a summary of my professional experiences. 
-<br>With this in mind, we can possibly move directly to the second interview process and talk geekiness.
-
-➡️ Download my CV&nbsp;&nbsp;| https://mixed.solutionsarray.com/cv/
-<br>
-➡️ Read my LinkedIn | https://www.linkedin.com/in/SolutionsArray
-
 I'm available Full-time, Part-time, or as a Freelancer (by the Hour).
 
 
