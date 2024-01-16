@@ -4,7 +4,7 @@
 <p align="center"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/gears1.png" alt="Gears">&nbsp; Private🖇Secure 🥇 Digital Solutions</p>
 
 <br>
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/solutionsarray/" target="_blank"> Pedro Carvalho🪄🎩</a></h1> 
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/solutionsarray/" target="_blank"> Pedro Carvalho</a></h1> 
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Web+Developer+from+Portugal+🂡" /></h3>
 
 
