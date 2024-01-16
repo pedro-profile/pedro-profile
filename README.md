@@ -58,7 +58,7 @@ If you need any of the skills I offer, I am available full-time, part-time, or a
 <h2 align="center">Skills 🪛</h2>
 
 <p align="center">⮟</p>
-<p align="center"><b>| PHP | HTML5 | CSS3 | JavaScript | React | WordPress |</b></p>
+<p align="center"><b>| Linux | PHP | HTML5 | CSS3 | JavaScript | React | WordPress |</b></p>
 
 <!-- <p align="center"><b>| Portuguese - C2 | English - C1 | Spanish - B2|</center></b></p> -->
 
