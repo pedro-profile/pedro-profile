@@ -85,7 +85,6 @@ This is what I guarantee:
 
 
 <p align="center"> 
-<a href="https://en.wikipedia.org/wiki/Linux"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Linux5.png">
 <a href="https://www.php.net/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/08/php.jpg" alt="Alt text"></a>
 <a href="https://laravel.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Laravel.png"</a>
 <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/08/JavaScript.png"</a>
