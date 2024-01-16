@@ -53,7 +53,7 @@ I made this video 🎥  https://youtu.be/xBdfI6vz1Lw  for another company as a s
 
 If you need any of the skills I offer, I am available full-time, part-time, or as a freelancer (by the Hour).
 
-<h3 align="left"><br><p><b>Look forward to work with you soon.</b></p></h3>
+<br><p><b>Look forward to work with you soon.</b></p>
 <!-- <p><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/delorean1.jpg"> </p> -->
 
 
