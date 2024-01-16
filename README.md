@@ -114,14 +114,6 @@ This is what I guarantee:
 <p><img src="https://visitor-badge.laobi.icu/badge?page_id=pedrocarvalho" alt="Visitor Badge"></p>
 
 
-## Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=pedro-su&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-su&hide=TeX&layout=compact&theme=prussian)
-
-![Codewars](https://github.r2v.ch/codewars?user=pedcar)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pedrocarvalho)
-
 <!--
 **pedrocarvalho/pedrocarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
