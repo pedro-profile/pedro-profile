@@ -57,7 +57,7 @@ I made this video 🎥  https://youtu.be/xBdfI6vz1Lw  for another company as a s
 <br>
 ➡️ Read my LinkedIn | https://www.linkedin.com/in/SolutionsArray
 
-I am available full-time, part-time, or as a freelancer (by the Hour).
+I'm available full-time, part-time, or as a freelancer (by the Hour).
 
 
 <br><br>
