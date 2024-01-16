@@ -107,8 +107,8 @@ This is what I guarantee:
 
 
 <br>
-## Stats
 
+## Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=pedro-su&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-su&hide=TeX&layout=compact&theme=prussian)
 
