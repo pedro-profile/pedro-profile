@@ -57,7 +57,7 @@ I made this video 🎥  https://youtu.be/xBdfI6vz1Lw  for another company as a s
 I'm available Full-time, Part-time, or as a Freelancer (by the Hour).
 
 
-<br><br>
+<br>
 <h2 align="center">Skills 🪛</h2>
 
 <p align="center">⮟</p>
