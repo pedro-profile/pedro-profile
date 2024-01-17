@@ -52,6 +52,11 @@ Seeking a <b>Front-end Web Developer</b> Role.
 
 <p>I'm available Full-time, Part-time, or as a Freelancer (by the Hour).</p>
 
+<br><br><br>Pedro Carvalho
+<br>• Email | info@solutionsarray.com
+<br>• Solutions Array | http://solutionsarray.com
+<br>• Upwork | <a href="https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1">upwork.com</a>
+
 
 <br>
 <h2 align="center">Skills 🪛</h2>
@@ -67,11 +72,6 @@ This is what I guarantee:
 <br>✅ Great Value Services.
 <br>✅ Wide Spectrum Of Skills & Experience.-->
 
-
-<br><br><br>Pedro Carvalho
-<br>• Email | info@solutionsarray.com
-<br>• Solutions Array | http://solutionsarray.com
-<br>• Upwork | <a href="https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1">upwork.com</a>
 
 <br>
 <h2 align="center">Software Stack 👨‍💻</h2>
