@@ -29,13 +29,13 @@
 • Fully optimized with speed and On-Page SEO</p>
 • Bug Fix🐞 | Support👨‍🔧 | Training📈</p>
 
-<!--<br><b>PS:</b> Development operations are 100% remote only or on a Freelance regime availability</p>-->
+<br><b>PS:</b> Development operations are 100% remote only or on a Freelance regime availability</p>
 
 
 <br>
 <h2 align="center"> Info 🗂️ </h2>
-Seeking a <b>Front-end Web Developer</b> Role.
-<br>That I can do anywhere in the world I am located. On a 100% (work from home remote regime).
+<!--Seeking a <b>Front-end Web Developer</b> Role.
+<br>That I can do anywhere in the world I am located. On a 100% (work from home remote regime).-->
 
 <br>I am passionate about solving problems, and have a relentless drive to excel in the tech industry.
 <br>I take into consideration good software design, user experience, debugging, optimization and maintainability. 
