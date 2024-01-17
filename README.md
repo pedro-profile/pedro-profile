@@ -42,9 +42,9 @@ Seeking a <b>Front-end Web Developer</b> Role.
 <br>I feel comfortable working with <b>HTML</b>, <b>CSS</b>, and partial <b>JavaScript</b> both on the server and front-end. Plus basic <b>PHP</b>.
 <br>I have in depth knowledge of the <b>WordPress</b> content management system.
 <br>I'm eager to learn new cutting-edge technologies and stay ahead of the ever-changing trends in web development. 
-<br>My ultimate goal is to build reliable and maintainable Front-end applications that are both functional and aesthetically pleasing.
+<br>My ultimate goal is to build reliable and maintainable applications that are both functional and aesthetically pleasing.
 
-<p>I am currently in the process of building an application using <i>PHP, HTML5, CSS3, JavaScript and React</i>.
+<p>I am currently in the process of building an application.
 <br>The URL is going to be <a href="#"> here </a> once ready.</p>  
 
 <p>This way, if there is interest on my skills, and you wish to hire my services, you can judge my knowledge level.
