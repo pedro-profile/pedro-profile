@@ -34,16 +34,17 @@
 
 <br>
 <h2 align="center"> Info 🗂️ </h2>
-Seeking an Entry Level <b>(Front-end Web Development)</b> Role.
-<br>One that I can do anywhere in the world I am located. On a 100% (work from home remote regime).
+Seeking a <b>Front-end Web Developer</b> Role.
+<br>That I can do anywhere in the world I am located. On a 100% (work from home remote regime).
 
 <br>I am passionate about solving problems, and have a relentless drive to excel in the tech industry.
 <br>I take into consideration good software design, user experience, debugging, optimization and maintainability. 
-<br>I feel comfortable working with HTML, CSS, and partial JavaScript both on the server and front-end. Plus basic PHP. 
+<br>I feel comfortable working with <b>HTML</b>, <b>CSS</b>, and partial <b>JavaScript</b> both on the server and front-end. Plus basic <b>PHP</b>.
+<br>I have in depth knowledge of the <b>WordPress</b> content management system.
 <br>I'm eager to learn new cutting-edge technologies and stay ahead of the ever-changing trends in web development. 
 <br>My ultimate goal is to build reliable and maintainable Front-end applications that are both functional and aesthetically pleasing.
 
-<p>I am currently in the process of building an application using <b>PHP, HTML5, CSS3, JavaScript and React</b>.
+<p>I am currently in the process of building an application using <i>PHP, HTML5, CSS3, JavaScript and React</i>.
 <br>The URL is going to be <a href="#"> here </a> once ready.</p>  
 
 <p>This way, if there is interest on my skills, and you wish to hire my services, you can judge my knowledge level.
@@ -56,7 +57,7 @@ Seeking an Entry Level <b>(Front-end Web Development)</b> Role.
 <h2 align="center">Skills 🪛</h2>
 
 <p align="center">⮟</p>
-<p align="center"><b>| PHP | HTML5 | CSS3 | JavaScript | React | WordPress |</b></p>
+<p align="center"><b>| PHP | HTML5 | CSS3 | JavaScript | React |</b></p>
 
 <!-- <p align="center"><b>| Portuguese - C2 | English - C1 | Spanish - B2|</center></b></p> -->
 
@@ -75,28 +76,23 @@ This is what I guarantee:
 <br>
 <h2 align="center">Tech Stack</h2>
 <p align="center"> 
-<a href="https://www.php.net/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/08/php.jpg" alt="Alt text"></a>
 <a href="https://laravel.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Laravel.png"</a>
-<a href="https://en.wikipedia.org/wiki/JavaScript"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/08/JavaScript.png"</a>
 &nbsp;&nbsp;<a href="https://nodejs.org/en"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Node.js.png"</a>
-&nbsp;&nbsp;<a href="https://react.dev/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/react1.png"</a>
 &nbsp;&nbsp;<a href="https://nextjs.org/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/Nextjs-logo.svg_.png"</a>
 <br>
 <a href="https://www.postgresql.org/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/09/5small_PostgreSQL.png"</a>
 &nbsp;&nbsp;<a href="https://nginx.org/en/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/09/small_Nginx.png"</a>
-&nbsp;<a href="https://git-scm.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_git.png"</a>
-&nbsp;<a href="https://www.docker.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_docker.webp"</a>
-<a href="https://podman.io/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/08/small_podman.png"</a>
-<a href="https://kubernetes.io/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/kubernetes1.png"</a>
 </p>
 <br><br><br>
+
+
 <!-- [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/portugal-flag-icon-32.png)](https://en.wikipedia.org/wiki/Portuguese_language)&nbsp;C2 &nbsp;
 [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/united-states-of-america-flag-3d-icon-32.png)](https://en.wikipedia.org/wiki/American_English)&nbsp;C1 &nbsp;
-[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/spain-flag-icon-32.png)](https://en.wikipedia.org/wiki/Spanish_language)&nbsp;B2 -->
+[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/spain-flag-icon-32.png)](https://en.wikipedia.org/wiki/Spanish_language)&nbsp;B2
 
 <p>🫡 I’m currently improving my <img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/js.png" alt="JavaScript"> skills.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/30_chains.png" alt="Chains">
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And learning <img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/react.png" alt="React"></p>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And learning <img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/react.png" alt="React"></p>-->
 
 
 <br>
