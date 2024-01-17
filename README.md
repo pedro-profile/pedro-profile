@@ -74,7 +74,7 @@ This is what I guarantee:
 <br>• Upwork | <a href="https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1">upwork.com</a>
 
 <br>
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">Software Stack</h2>
 <p align="center"> 
 <a href="https://laravel.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Laravel.png"</a>
 &nbsp;&nbsp;<a href="https://nodejs.org/en"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Node.js.png"</a>
