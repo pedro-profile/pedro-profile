@@ -51,17 +51,18 @@ Seeking a <b>Front-end Web Developer</b> Role.
 <br>And we discuss technical aspects directly.</p>
 
 <p>I'm available Full-time, Part-time, or as a Freelancer (by the Hour).</p>
+
 <br>Pedro Carvalho
 <br>• Email | info@solutionsarray.com
 <br>• Solutions Array | http://solutionsarray.com
 <br>• Upwork | <a href="https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1">upwork.com</a>
 
 
-<br>
-<h2 align="center">Skills 🪛</h2>
+<!-- <br>
+<h2 align="center">Skills 🪛</h2> 
 
 <p align="center">⮟</p>
-<p align="center"><b>| PHP | HTML5 | CSS3 | JavaScript | React |</b></p>
+<p align="center"><b>| PHP | HTML5 | CSS3 | JavaScript | React |</b></p> -->
 
 <!-- <p align="center"><b>| Portuguese - C2 | English - C1 | Spanish - B2|</center></b></p> -->
 
