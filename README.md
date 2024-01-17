@@ -51,7 +51,6 @@ Seeking a <b>Front-end Web Developer</b> Role.
 <br>And we discuss technical aspects directly.</p>
 
 <p>I'm available Full-time, Part-time, or as a Freelancer (by the Hour).</p>
-
 <br>Pedro Carvalho
 <br>• Email | info@solutionsarray.com
 <br>• Solutions Array | http://solutionsarray.com
