@@ -36,6 +36,7 @@
 <h2 align="center"> Info 🗂️ </h2>
 <!--Seeking a <b>Front-end Web Developer</b> Role.
 <br>That I can do anywhere in the world I am located. On a 100% (work from home remote regime).-->
+
 <br>I am passionate about solving problems, and have a relentless drive to excel in the tech industry.
 <br>I take into consideration good software design, user experience, debugging, optimization and maintainability. 
 <br>I feel comfortable working with <b>HTML</b>, <b>CSS</b>, and partial <b>JavaScript</b> both on the server and front-end. Plus basic <b>PHP</b>.
