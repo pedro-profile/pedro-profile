@@ -22,7 +22,7 @@
 <p><a href="https://solutionsarray.com/portfolio/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/09/SolutionsArray_Homepage.png"></a></p>
 
 • Pixel Perfect Design is Professional and Responsive to all Media devices and browsers</p>
-• PSD to WordPress design with Custom Animations</p>
+• PSD to CMS design with Custom Animations</p>
 • Payment gateway integrations</p>
 • Fully optimized with speed and On-Page SEO</p>
 • Bug Fix🐞 | Support👨‍🔧 | Training📈</p>
