@@ -40,8 +40,8 @@
 <br>I'm eager to learn new cutting-edge technologies and stay ahead of the ever-changing trends in web development. 
 <br>My ultimate goal is to build reliable and maintainable applications that are both functional and aesthetically pleasing.
 
-<p>I am currently in the process of building an application.
-<br>The URL is going to be <a href="#"> here </a> once ready.</p>  
+<p>I'm building an App. Stay tuned <a href="https://mixed.solutionsarray.com/"> https:// </a></p>
+
 
 <p><b>Available:</b> Full-time, Part-time, Freelancer, Hourly.</p>
 
