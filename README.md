@@ -31,14 +31,12 @@
 <br>
 <h2 align="center"> Info 🗂️ </h2>
 
-<p>100% Remote 🌐Worldwide Development.</p>
-
+<br>100% Remote 🌐Worldwide Development.</br>
 <br>I am passionate about solving problems, and have a relentless drive to excel in the tech industry.</br>
 <br>I take into consideration good software design, user experience, debugging, optimization and maintainability.</br>
 <br>I feel comfortable working with <b>HTML</b>, <b>CSS</b>, and partial <b>JavaScript</b>. Both on the server and front-end.</br>
 <br>I know basic <b>PHP</b>, but possess in depth knowledge of <b>WordPress</b>.</br>
 <br>I'm eager to learn cutting-edge technologies and stay ahead of the ever-changing trends in web development.</br> 
-
 <br>My goal is to build reliable and maintainable applications that are both functional and aesthetically pleasing.
 <br>I'm currently building an App. Stay tuned <a href="https://solutionsarray.com/"> https:// </a>
 
