@@ -31,9 +31,9 @@
 <br>
 <h2 align="center"> Info 🗂️ </h2>
 
-<br>100% Remote Worldwide Development.</p>
+<p>100% Remote Worldwide Development.</p>
 
-<br>I am passionate about solving problems, and have a relentless drive to excel in the tech industry.
+<p>I am passionate about solving problems, and have a relentless drive to excel in the tech industry.
 <br>I take into consideration good software design, user experience, debugging, optimization and maintainability. 
 <br>I feel comfortable working with <b>HTML</b>, <b>CSS</b>, and partial <b>JavaScript</b> both on the server and front-end. Plus basic <b>PHP</b>.
 <br>I have in depth knowledge of the <b>WordPress</b> content management system.
@@ -46,7 +46,7 @@
 <p>This way, if there is interest on my skills, and you wish to hire my services, you can judge my knowledge level.
 <br>And we discuss technical aspects directly.</p>
 
-<p>I'm available Full-time, Part-time, or as a Freelancer (by the Hour).</p>
+<p><b>Available:</b> Full-time, Part-time, Freelancer, Hourly.</p>
 
 <br>Pedro Carvalho
 <br>• Email | info@solutionsarray.com
