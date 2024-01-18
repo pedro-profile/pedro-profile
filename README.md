@@ -37,9 +37,9 @@
 
 <p>I take into consideration good software design, user experience, debugging, optimization and maintainability. 
 
-<p>I feel comfortable working with <b>HTML</b>, <b>CSS</b>, and partial <b>JavaScript</b>. Both on the server and front-end. 
+<p>I feel comfortable working with <b>HTML</b>, <b>CSS</b>, and basic <b>JavaScript</b>. Both on the server and front-end. 
 
-<p>I know basic <b>PHP</b>, but possess in depth knowledge of <b>WordPress</b>.
+<p>I know partial <b>PHP</b>, but possess in depth knowledge of <b>WordPress</b>.
 
 <p>I'm eager to learn cutting-edge technologies and stay ahead of the ever-changing trends in web development. 
 
