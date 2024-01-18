@@ -38,9 +38,9 @@
 <br>I feel comfortable working with <b>HTML</b>, <b>CSS</b>, and partial <b>JavaScript</b>. Both on the server and front-end. 
 <br>I know basic <b>PHP</b> but possess in depth knowledge of <b>WordPress</b>.
 <br>I'm eager to learn cutting-edge technologies and stay ahead of the ever-changing trends in web development. 
-<br>My ultimate goal is to build reliable and maintainable applications that are both functional and aesthetically pleasing.
 
-<p>I'm building an App. Stay tuned <a href="https://solutionsarray.com/"> https:// </a></p>
+My ultimate goal is to build reliable and maintainable applications that are both functional and aesthetically pleasing.
+<br>I'm currently building an App. Stay tuned <a href="https://solutionsarray.com/"> https:// </a>
 
 
 <p><b>Available:</b> Full-time, Part-time, Freelancer, Hourly.</p>
