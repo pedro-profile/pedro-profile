@@ -82,8 +82,8 @@ This is what I guarantee:
 &nbsp;&nbsp;<a href="https://nodejs.org/en"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Node.js.png"</a>
 <a href="https://react.dev/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/react1.png"</a>
 &nbsp;&nbsp;<a href="https://nextjs.org/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/Nextjs-logo.svg_.png"</a>
-&nbsp;&nbsp;<a href="https://www.postgresql.org/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/09/5small_PostgreSQL.png"</a>
 &nbsp;&nbsp;<a href="https://nginx.org/en/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/09/small_Nginx.png"</a>
+&nbsp;&nbsp;<a href="https://www.postgresql.org/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/09/5small_PostgreSQL.png"</a>
 </p>
 <br><br><br>
 
