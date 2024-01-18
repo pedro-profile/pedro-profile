@@ -39,7 +39,7 @@
 <br>I know basic <b>PHP</b> but possess in depth knowledge of <b>WordPress</b>.
 <br>I'm eager to learn cutting-edge technologies and stay ahead of the ever-changing trends in web development. 
 
-My ultimate goal is to build reliable and maintainable applications that are both functional and aesthetically pleasing.
+My goal is to build reliable and maintainable applications that are both functional and aesthetically pleasing.
 <br>I'm currently building an App. Stay tuned <a href="https://solutionsarray.com/"> https:// </a>
 
 
