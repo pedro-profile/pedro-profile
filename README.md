@@ -43,9 +43,6 @@
 <p>I am currently in the process of building an application.
 <br>The URL is going to be <a href="#"> here </a> once ready.</p>  
 
-<p>This way, if there is interest on my skills, and you wish to hire my services, you can judge my knowledge level.
-<br>And we discuss technical aspects directly.</p>
-
 <p><b>Available:</b> Full-time, Part-time, Freelancer, Hourly.</p>
 
 <br>Pedro Carvalho
