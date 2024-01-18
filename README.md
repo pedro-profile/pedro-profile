@@ -36,7 +36,7 @@
 <p>I am passionate about solving problems, and have a relentless drive to excel in the tech industry.
 <br>I take into consideration good software design, user experience, debugging, optimization and maintainability. 
 <br>I feel comfortable working with <b>HTML</b>, <b>CSS</b>, and partial <b>JavaScript</b>. Both on the server and front-end. 
-<br>Basic <b>PHP</b> but in depth knowledge of <b>WordPress</b>.
+<br>I know basic <b>PHP</b> but possess in depth knowledge of <b>WordPress</b>.
 <br>I'm eager to learn cutting-edge technologies and stay ahead of the ever-changing trends in web development. 
 <br>My ultimate goal is to build reliable and maintainable applications that are both functional and aesthetically pleasing.
 
