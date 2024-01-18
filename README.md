@@ -5,11 +5,11 @@
 
 <p align="center"><a href="https://solutionsarray.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/10/SolutionsArray1.com_.png" alt="solutionsarray.com"></a></p>
 
-<p align="center">Private · Secure 💡 Digital Solutions</p>
+<h1 align="center">Private · Secure 💡 Digital Solutions</h1>
 
 
 <br>
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/solutionsarray/" target="_blank"> Pedro Carvalho</a></h1> 
+<h3 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/solutionsarray/" target="_blank"> Pedro Carvalho</a></h3> 
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Web+Developer+from+Portugal+:)" /></h3>
 
 <p><a href="http://solutionsarray.com/portfolio"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click3.png"></a><a href="http://solutionsarray.com/portfolio">🌐</a><a href="http://solutionsarray.com/portfolio"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/5portfolio.png" </a></p>
@@ -29,13 +29,11 @@
 • Fully optimized with speed and On-Page SEO</p>
 • Bug Fix🐞 | Support👨‍🔧 | Training📈</p>
 
-<br><b>PS:</b> Development operations are 100% remote only or on a Freelance regime availability</p>
-
 
 <br>
 <h2 align="center"> Info 🗂️ </h2>
-<!--Seeking a <b>Front-end Web Developer</b> Role.
-<br>That I can do anywhere in the world I am located. On a 100% (work from home remote regime).-->
+
+<br>100% Remote Worldwide Development.</p>
 
 <br>I am passionate about solving problems, and have a relentless drive to excel in the tech industry.
 <br>I take into consideration good software design, user experience, debugging, optimization and maintainability. 
