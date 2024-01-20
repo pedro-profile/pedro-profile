@@ -47,7 +47,7 @@
 
 <p>I build reliable/maintainable websites and applications, that are both functional and aesthetically pleasing.
 
-<p>I'm currently building an App. Stay tuned <a href="https://solutionsarray.com/"> https:// </a>
+<p>I'm currently building a Web Appplication. Stay tuned <a href="https://solutionsarray.com/"> https:// </a>
 
 
 <br><b>Available:</b> Full-time, Part-time, Freelancer, Hourly.</br>
