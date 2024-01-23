@@ -25,6 +25,7 @@
 <p align="center">Private · Secure 💡 Digital Solutions</p>
 <p><a href="https://solutionsarray.com/portfolio/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/09/SolutionsArray_Homepage.png"></a></p>
 
+• Reliable/maintainable Websites, E-commerce Shops, and applications, that are both functional and aesthetically pleasing.
 • Pixel Perfect Design is Professional and Responsive to all Media devices and browsers</p>
 • PSD to CMS design with Custom Animations</p>
 • Payment gateway integrations</p>
