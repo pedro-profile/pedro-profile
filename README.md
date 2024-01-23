@@ -53,7 +53,7 @@
 <br><b>Available:</b> Full-time, Part-time, Freelancer, Hourly.</br>
 
 <br>Pedro Carvalho
-Fafe, Portugal
+<br>Fafe, Portugal
 
 <br>• Email | info@solutionsarray.com
 <br>• Solutions Array | http://solutionsarray.com
