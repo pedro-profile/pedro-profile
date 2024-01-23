@@ -99,14 +99,14 @@ This is what I guarantee:
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/30_chains.png" alt="Chains">
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And learning <img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/react.png" alt="React"></p>-->
 
-
+<!--
 <br>
 <h2 align="left">Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=pedro-su&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact" alt="Github Stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-su&hide=TeX&layout=compact&theme=prussian" alt="Top Langs"></p>
 <p><img src="https://github.r2v.ch/codewars?user=pedcar" alt="Codewars"></p>
 <p><img src="https://visitor-badge.laobi.icu/badge?page_id=pedrocarvalho" alt="Visitor Badge"></p>
-
+-->
 
 <!--
 **pedrocarvalho/pedrocarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
