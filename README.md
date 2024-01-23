@@ -11,7 +11,7 @@
 
 <p><a href="http://solutionsarray.com/portfolio"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click3.png"></a><a href="http://solutionsarray.com/portfolio">🌐</a><a href="http://solutionsarray.com/portfolio"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/5portfolio.png" </a></p>
 
-<p><a href="http://mixed.solutionsarray.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click3.png"></a><a href="http://mixed.solutionsarray.com/">🌐</a><a href="http://mixed.solutionsarray.com/"><img src="https://img.shields.io/badge/left-right-f39f37)"></a></p>
+<p><a href="http://mixed.solutionsarray.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click3.png"></a><a href="http://mixed.solutionsarray.com/">🌐</a><a href="http://mixed.solutionsarray.com/"><img src="https://img.shields.io/badge/SolutionsArray-Business Pitch-f39f37)"></a></p>
 
 <p><a href="https://mixed.solutionsarray.com/wp-content/uploads/2024/01/Pedro-Carvalho.pdf"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click3.png"></a><a href="https://mixed.solutionsarray.com/wp-content/uploads/2024/01/Pedro-Carvalho.pdf">🌐</a><a href="https://mixed.solutionsarray.com/wp-content/uploads/2024/01/Pedro-Carvalho.pdf"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/6Curriculum-Vitae.png"></a></p>
 
