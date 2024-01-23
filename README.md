@@ -38,7 +38,7 @@
 <br>
 <h2 align="center"> Info 🗂️ </h2>
 
-<p>100% Remote 🌐Worldwide Development.
+<p>100% 🌐Remote Development.
 
 <p>I am passionate about solving problems, and have a relentless drive to excel in the tech industry.
 
