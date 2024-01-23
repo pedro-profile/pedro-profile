@@ -48,7 +48,7 @@
 
 <p>I'm eager to learn cutting-edge technologies and stay ahead of the ever-changing trends in web development. 
 
-<p>I'm currently building a Web Appplication. Stay tuned <a href="https://solutionsarray.com/"> https:// </a>
+<p>I'm currently building a Web Application. Stay tuned <a href="https://solutionsarray.com/"> https:// </a>
 
 
 <br><b>Available:</b> Full-time, Part-time, Freelancer, Hourly.</br>
