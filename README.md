@@ -42,8 +42,6 @@
 
 <p>I am passionate about solving problems, and have a relentless drive to excel in the tech industry.
 
-<p>I take into consideration good software design, user experience, debugging, optimization and maintainability. 
-
 <p>I feel comfortable working with <b>HTML</b>, <b>CSS</b>, and basic <b>JavaScript</b>. Both on the server and front-end. 
 
 <p>I know partial <b>PHP</b>, but possess in depth knowledge of <b>WordPress</b>.
