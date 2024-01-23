@@ -52,8 +52,7 @@
 
 <br><b>Available:</b> Full-time, Part-time, Freelancer, Hourly.</br>
 
-<br>Pedro Carvalho
-<br>Fafe, Portugal
+<br>Pedro Carvalho | Fafe, Portugal
 <br>• Email | info@solutionsarray.com
 <br>• Solutions Array | http://solutionsarray.com
 <br>• Upwork | <a href="https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1">upwork.com</a>
