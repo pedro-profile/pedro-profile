@@ -27,7 +27,7 @@
 
 <br>
 <p align="center">| <b>Websites</b> | <b>E-commerce Shops</b> | <b>Applications</b> | <b>Marketing</b> | <b>Hosting</b> | <b>Storage</b> |</p>
-• Are Reliable/Maintainable/Functional/Aesthetic</p>
+• Websites are Reliable/Maintainable/Functional/Aesthetic</p>
 • Pixel Perfect Design is Professional and Responsive to all Media devices and browsers</p>
 • PSD to CMS design with Custom Animations</p>
 • Payment gateway integrations</p>
