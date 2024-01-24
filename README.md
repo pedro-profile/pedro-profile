@@ -33,46 +33,17 @@
 • Payment gateway integrations</p>
 • Fully optimized with speed and On-Page SEO</p>
 • Bug Fix🐞 | Support👨‍🔧 | Training📈</p>
-
+• 100% 🌐Remote Development</p>
+• <b>Available:</b> Full-time, Part-time, Freelancer, Hourly.</br>
 
 <br>
-<h2 align="center"> Info 🗂️ </h2>
-
-<p>100% 🌐Remote Development.
-
-<p>I am passionate about solving problems, and have a relentless drive to excel in the tech industry.
-
-<p>I feel comfortable working with <b>HTML</b>, <b>CSS</b>, and basic <b>JavaScript</b>. Both on the server and front-end. 
-
-<p>I know partial <b>PHP</b>, but possess in depth knowledge of <b>WordPress</b>.
-
-<p>I'm eager to learn cutting-edge technologies and stay ahead of the ever-changing trends in web development. 
-
-<p>I'm currently building a Web Application. Stay tuned <a href="https://solutionsarray.com/"> https:// </a>
-
-
-<br><b>Available:</b> Full-time, Part-time, Freelancer, Hourly.</br>
+<p>► My Web Application <a href="https://solutionsarray.com/"> http://solutionsarray.com </a>
 
 <br>Pedro Carvalho
 <br>Fafe, Portugal
 <br>• Email | info@solutionsarray.com
 <br>• Solutions Array | http://solutionsarray.com
 <br>• Upwork | <a href="https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1">upwork.com</a>
-
-
-<!-- <br>
-<h2 align="center">Skills 🪛</h2> 
-
-<p align="center">⮟</p>
-<p align="center"><b>| PHP | HTML5 | CSS3 | JavaScript | React |</b></p> -->
-
-<!-- <p align="center"><b>| Portuguese - C2 | English - C1 | Spanish - B2|</center></b></p> -->
-
-<!--<br><br>
-This is what I guarantee:
-<br>✅ Fast response time and excellent communication skills.
-<br>✅ Great Value Services.
-<br>✅ Wide Spectrum Of Skills & Experience.-->
 
 
 <br>
@@ -90,23 +61,6 @@ This is what I guarantee:
 </p>
 <br><br><br>
 
-
-<!-- [![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/portugal-flag-icon-32.png)](https://en.wikipedia.org/wiki/Portuguese_language)&nbsp;C2 &nbsp;
-[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/united-states-of-america-flag-3d-icon-32.png)](https://en.wikipedia.org/wiki/American_English)&nbsp;C1 &nbsp;
-[![Alt text](http://mixed.solutionsarray.com/wp-content/uploads/2023/08/spain-flag-icon-32.png)](https://en.wikipedia.org/wiki/Spanish_language)&nbsp;B2
-
-<p>🫡 I’m currently improving my <img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/js.png" alt="JavaScript"> skills.
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/30_chains.png" alt="Chains">
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; And learning <img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/react.png" alt="React"></p>-->
-
-<!--
-<br>
-<h2 align="left">Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=pedro-su&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact" alt="Github Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-su&hide=TeX&layout=compact&theme=prussian" alt="Top Langs"></p>
-<p><img src="https://github.r2v.ch/codewars?user=pedcar" alt="Codewars"></p>
-<p><img src="https://visitor-badge.laobi.icu/badge?page_id=pedrocarvalho" alt="Visitor Badge"></p>
--->
 
 <!--
 **pedrocarvalho/pedrocarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
