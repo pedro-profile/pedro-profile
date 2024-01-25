@@ -34,7 +34,7 @@
 • Fully optimized with speed and On-Page SEO</p>
 • Bug Fix🐞 | Support👨‍🔧 | Training📈</p>
 • 100% 🌐Remote Development</p>
-• <b>As a Self Employed Enterpreneur, I am Available:</b> Full-time, Part-time, Freelancer, Hourly</br>
+• <b>As a Self Employed Enterpreneur, I offer my services:</b> Full-time, Part-time, Freelancer, Hourly</br>
 
 <br>
 <p>► My Web Application <a href="https://solutionsarray.com/"> http://solutionsarray.com </a>
