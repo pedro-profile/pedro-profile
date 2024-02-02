@@ -37,7 +37,7 @@
 • <b>As a Self Employed Enterpreneur, I offer my services:</b> Full-time, Part-time, Freelancer, Hourly</br>
 
 <br>
-<p>► SolutionsArray/Web Application | <a href="https://solutionsarray.com/"> http://solutionsarray.com </a>
+<p>► SolutionsArray · Web Application | <a href="https://solutionsarray.com/"> http://solutionsarray.com </a>
 
 <br>Pedro Carvalho
 <br>Fafe, Portugal
