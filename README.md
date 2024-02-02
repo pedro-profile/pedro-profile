@@ -37,12 +37,11 @@
 • <b>As a Self Employed Enterpreneur, I offer my services:</b> Full-time, Part-time, Freelancer, Hourly</br>
 
 <br>
-<p>► My Web Application <a href="https://solutionsarray.com/"> http://solutionsarray.com </a>
+<p>► Solutions Array Web Application | <a href="https://solutionsarray.com/"> http://solutionsarray.com </a>
 
 <br>Pedro Carvalho
 <br>Fafe, Portugal
 <br>• Email | info@solutionsarray.com
-<br>• Solutions Array | http://solutionsarray.com
 <br>• Upwork | <a href="https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1">https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1</a>
 
 
