@@ -43,7 +43,7 @@
 
 
 <br>
-<h2 align="center">Stack 👨‍💻</h2>
+<h2 align="center">Stack 💻</h2>
 <p align="center">
 <a href="https://www.php.net/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/08/php.jpg" alt="Alt text"></a>
 <a href="https://laravel.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Laravel.png"</a>
