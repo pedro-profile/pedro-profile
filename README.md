@@ -53,8 +53,9 @@ WORK AREA | END -->
 
 <br>
 <h2 align="center">Stack 💻</h2>
-
 <br>
+
+<p align="center">
 <img src="https://img.shields.io/badge/-php-black?style=flat-square&logo=php">
 <img src="https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel">
 <img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html">
@@ -65,6 +66,7 @@ WORK AREA | END -->
 <img src="https://img.shields.io/badge/-node.js-black?style=flat-square&logo=node.js">
 <img src="https://img.shields.io/badge/-NGINX-black?style=flat-square&logo=nginx">
 <img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PHP">
+</p>
 
 
 <p align="center">
@@ -97,70 +99,6 @@ WORK AREA | END -->
 
 
 <!-- TEMP WORK AREA | END -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
