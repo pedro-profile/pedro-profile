@@ -7,7 +7,6 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=🌐+Web+Dev+from+Fafe,+Portugal+:)" /></p>
 
 
-
 <h2> </h2>
 <br>
 <!--<p><a href="https://www.youtube.com/watch?v=xBdfI6vz1Lw"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click3.png"></a><a href="https://www.youtube.com/watch?v=xBdfI6vz1Lw">🌐</a><a href="https://www.youtube.com/watch?v=xBdfI6vz1Lw"><img src="https://img.shields.io/badge/Experiences-red?style=for-the-badge&logo=youtube&logoColor=white"></a></p>-->
