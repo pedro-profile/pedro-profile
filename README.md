@@ -1,6 +1,11 @@
-<!-- WORK AREA | START -->
+<!-- WORK AREA | START
 
-<!-- WORK AREA | END -->
+
+#0866ff #1877f2
+#0866ff #1877f2
+
+
+WORK AREA | END -->
 
 
 <h3 align="center">👋 Hi, I'm Pedro Carvalho</a></p></h3>
@@ -11,9 +16,11 @@
 <br>
 <!--<p><a href="https://www.youtube.com/watch?v=xBdfI6vz1Lw"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click3.png"></a><a href="https://www.youtube.com/watch?v=xBdfI6vz1Lw">🌐</a><a href="https://www.youtube.com/watch?v=xBdfI6vz1Lw"><img src="https://img.shields.io/badge/Experiences-red?style=for-the-badge&logo=youtube&logoColor=white"></a></p>-->
 
-<p></a><a href="http://mixed.solutionsarray.com/">🌐&nbsp;</a><a href="http://solutionsarray.com/"><img src="https://img.shields.io/badge/SolutionsArray-Business%20Pitch-89cff0"></a></p>
+<p></a><a href="http://solutionsarray.com/">🌐&nbsp;</a><a href="http://solutionsarray.com/"><img src="https://img.shields.io/badge/SolutionsArray-Business%20Pitch-89cff0"></a></p>
 
 <p></a><a href="http://solutionsarray.com/portfolio">🌐&nbsp;</a><a href="http://solutionsarray.com/portfolio"><img src="https://img.shields.io/badge/SolutionsArray-Portfolio-f1ebeb"</a></p>
+
+<p></a><a href="https://www.facebook.com/solutionsarray">🌐&nbsp;</a><a href="https://www.facebook.com/solutionsarray"><img src="https://img.shields.io/badge/SolutionsArray-Facebook-1877f2"</a></p>
 
 <p></a><a href="https://mixed.solutionsarray.com/cv/">🌐&nbsp;</a><a href="https://mixed.solutionsarray.com/cv/"><img src="https://img.shields.io/badge/Pedro Carvalho-Curriculum%20Vitae-7abaca"></a></p>    
 
