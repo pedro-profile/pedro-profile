@@ -22,7 +22,6 @@ Web Developer from <a href="https://en.wikipedia.org/wiki/Fafe" target="_blank">
 <p></a><a href="https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1">🌐&nbsp;</a><a href="https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1"><img src="https://img.shields.io/badge/Upwork-00bf80"></a></p>
 
 
-<br>
 <h2> </h2>
 <p align="center"><a href="https://solutionsarray.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/10/SolutionsArray1.com_.png" alt="solutionsarray.com"></a></p>
 
