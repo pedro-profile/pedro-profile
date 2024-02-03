@@ -3,9 +3,9 @@
 <!-- WORK AREA | END -->
 
 
-<h3 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/solutionsarray/" target="_blank">Pedro Carvalho</a> 🙂</p>
+<h2 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/solutionsarray/" target="_blank">Pedro Carvalho</a> 🙂</p>
 Web Developer from <a href="https://en.wikipedia.org/wiki/Fafe" target="_blank"> Fafe, </a> Portugal.</p>
-</h3>
+</h2>
 
 <h2> </h2>
 <br>
