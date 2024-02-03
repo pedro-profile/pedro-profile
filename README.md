@@ -52,7 +52,7 @@ WORK AREA | END -->
 
 
 <h2> </h2>
-<h1 align="center"><font size="25">Stack 💻</font></h1>
+<h3 align="center"><font size="25">Stack 💻</font></h1>
 <br>
 
 <p align="center">
