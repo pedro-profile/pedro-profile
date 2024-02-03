@@ -38,7 +38,7 @@
 • 100% 🌐Remote Development</p>
 • <b>As a Self Employed Enterpreneur, I offer my services:</b> Full-time, Part-time, Freelancer, Hourly</br></p>
 • SolutionsArray · Web Application <a href="https://solutionsarray.com/"> ►http://solutionsarray.com </a></p>
-• Email | <b></b>info@solutionsarray.com</br>
+• Email | <b>info@solutionsarray.com</b>
 
 
 <br>
