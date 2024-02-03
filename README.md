@@ -53,8 +53,8 @@ WORK AREA | END -->
 
 <h2> </h2>
 <h3 align="center"><font size="25">Stack 💻</font></h1>
-<br>
 
+<br>
 <p align="center">
 <img src="https://img.shields.io/badge/-php-black?style=flat-square&logo=php">
 <img src="https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel">
