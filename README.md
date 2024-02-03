@@ -51,8 +51,8 @@ WORK AREA | END -->
 • Email | <a href=mailto:"info@solutionsarray.com"> info@solutionsarray.com </a>
 
 
-<br>
-<h2 align="center">Stack 💻</h2>
+<h2> </h2>
+<p align="center"><font size="25">Stack 💻</font></p>
 <br>
 
 <p align="center">
@@ -78,39 +78,15 @@ WORK AREA | END -->
 
 
 
-
-<!-- TEMP WORK AREA | START 
-
-
+<br>
+<!-- TEMP WORK AREA | START -->
 
 
-·
+
+
+<p align="center"><font size="25">Stack 💻</font></p>
 
 
 
 
 <!-- TEMP WORK AREA | END -->
-
-
-
-
-
-
-
-
-
-
-<!--
-**pedrocarvalho/pedrocarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
