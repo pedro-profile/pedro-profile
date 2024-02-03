@@ -4,9 +4,11 @@
 
 
 <br>
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/solutionsarray/" target="_blank">Pedro Carvalho</a>🙂</p>
-<h3 align="center"> Web Developer from <a href="https://en.wikipedia.org/wiki/Fafe" target="_blank"> Fafe, </a> Portugal.</h3>
-</h1>
+<h2 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/solutionsarray/" target="_blank">Pedro Carvalho</a> 🙂</p>
+Web Developer from <a href="https://en.wikipedia.org/wiki/Fafe" target="_blank"> Fafe, </a> Portugal.
+</h2>
+
+
 
 <!--<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Web+Developer+from+Fafe+Portugal+:)" /></h3>-->
 
@@ -42,9 +44,6 @@
 • <b>As a Self Employed Enterpreneur, I offer my services:</b> Full-time, Part-time, Freelancer, Hourly</br></p>
 • Web Application <a href="https://solutionsarray.com/"> ►http://solutionsarray.com </a></p>
 • Email | <a href=mailto:"info@solutionsarray.com"> info@solutionsarray.com </a>
-
-
-
 
 
 <br>
