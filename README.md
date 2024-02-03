@@ -3,8 +3,8 @@
 <!-- WORK AREA | END -->
 
 
-<h2 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/solutionsarray/" target="_blank">Pedro Carvalho</a> 🙂</p>
-Web Developer from <a href="https://en.wikipedia.org/wiki/Fafe" target="_blank"> Fafe, </a> Portugal.</p>
+<h2 align="center">👋 Hi, I'm Pedro Carvalho</a> 🙂</p>
+Web Developer from <!--<a href="https://en.wikipedia.org/wiki/Fafe" target="_blank">--> Fafe, </a> Portugal.</p>
 </h2>
 
 
