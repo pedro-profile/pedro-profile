@@ -53,18 +53,121 @@ WORK AREA | END -->
 
 <br>
 <h2 align="center">Stack 💻</h2>
+
+<img src="https://img.shields.io/badge/-php-black?style=flat-square&logo=php">
+<img src="https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel">
+<img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html">
+<img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css">
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
+<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react">
+<img src="https://img.shields.io/badge/-NEXT.js-black?style=flat-square&logo=next.js">
+<img src="https://img.shields.io/badge/-node.js-black?style=flat-square&logo=node.js">
+<img src="https://img.shields.io/badge/-NGINX-black?style=flat-square&logo=nginx">
+<img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PHP">
+
+
 <p align="center">
-<a href="https://www.php.net/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/08/php.jpg" alt="Alt text"></a>
-<a href="https://laravel.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Laravel.png"</a>
-<a href="https://en.wikipedia.org/wiki/JavaScript"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/08/JavaScript.png"</a>
-<a href="https://react.dev/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/react1.png"</a>
-<br>
-<a href="https://nextjs.org/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/Nextjs-logo.svg_.png"</a>
-<a href="https://nodejs.org/en"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/08/Node.js.png"</a>
-<a href="https://nginx.org/en/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/09/small_Nginx.png"</a>
-<a href="https://www.postgresql.org/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/09/5small_PostgreSQL.png"</a>
+<img src="https://img.shields.io/badge/-php-black?style=flat-square&logo=php">
+<img src="https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel">
+<img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html">
+<img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css">
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
+<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react">
+<img src="https://img.shields.io/badge/-NEXT.js-black?style=flat-square&logo=next.js">
+<img src="https://img.shields.io/badge/-node.js-black?style=flat-square&logo=node.js">
+<img src="https://img.shields.io/badge/-NGINX-black?style=flat-square&logo=nginx">
+<img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PHP">
 </p>
-<br><br><br>
+
+
+
+<!-- TEMP WORK AREA | START -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- TEMP WORK AREA | END -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!--
