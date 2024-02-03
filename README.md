@@ -23,7 +23,6 @@ Web Developer from <a href="https://en.wikipedia.org/wiki/Fafe" target="_blank">
 
 <h2> </h2>
 <p align="center"><a href="https://solutionsarray.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/10/SolutionsArray1.com_.png" alt="solutionsarray.com"></a>
-
 <p align="center">Private · Secure 💡 Digital Solutions</p>
 <p><a href="https://solutionsarray.com/portfolio/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/09/SolutionsArray_Homepage.png"></a></p>
 
