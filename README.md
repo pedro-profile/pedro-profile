@@ -17,7 +17,7 @@
 
 <p><a href="https://www.linkedin.com/in/SolutionsArray/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click3.png"></a><a href="https://www.linkedin.com/in/SolutionsArray/">🌐</a><a href="https://www.linkedin.com/in/SolutionsArray/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a></p>
 
-<p><a href="https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click3.png"></a><a href="https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1">🌐</a><a href="https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1"><img src="https://img.shields.io/badge/Upwork-Profile%20Test-00bf80"></a></p>
+<p><a href="https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click3.png"></a><a href="https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1">🌐</a><a href="https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1"><img src="https://img.shields.io/badge/Upwork-00bf80"></a></p>
 
 
 <br>
