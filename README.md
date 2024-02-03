@@ -4,7 +4,7 @@
 
 
 <h3 align="center">👋 Hi, I'm Pedro Carvalho</a> 🙂</p>
-🌍 Web Developer from <!--<a href="https://en.wikipedia.org/wiki/Fafe" target="_blank">--> Fafe, </a> Portugal.</p>
+💻 Web Developer from <!--<a href="https://en.wikipedia.org/wiki/Fafe" target="_blank">--> Fafe, </a> Portugal.</p>
 </h3>
 
 
@@ -30,7 +30,7 @@
 
 <br>
 <p align="center">| <b>Websites</b> | <b>E-commerce Shops</b> | <b> Web Applications</b> | <b>Maintenance</b> | <b>Marketing</b> | <b>Hosting</b> | <b>Storage</b> |</p>
-<p align="center">100% 🌐Remote Development</p>
+<p align="center">100% 🌍Remote Development</p>
 • Websites are Reliable/Maintainable/Functional/Aesthetic</p>
 • Pixel Perfect Design is Professional and Responsive to all Media devices and browsers</p>
 • PSD to CMS design with Custom Animations</p>
