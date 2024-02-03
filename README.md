@@ -69,19 +69,6 @@ WORK AREA | END -->
 </p>
 
 
-<p align="center">
-<img src="https://img.shields.io/badge/-php-black?style=flat-square&logo=php">
-<img src="https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel">
-<img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html">
-<img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css">
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react">
-<img src="https://img.shields.io/badge/-NEXT.js-black?style=flat-square&logo=next.js">
-<img src="https://img.shields.io/badge/-node.js-black?style=flat-square&logo=node.js">
-<img src="https://img.shields.io/badge/-NGINX-black?style=flat-square&logo=nginx">
-<img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PHP">
-</p>
-
 
 
 <!-- TEMP WORK AREA | START -->
@@ -89,11 +76,7 @@ WORK AREA | END -->
 
 
 
-
-
-
-
-
+space
 
 
 
