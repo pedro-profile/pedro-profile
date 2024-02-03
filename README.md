@@ -9,7 +9,7 @@
 
 <!--<p><a href="https://www.youtube.com/watch?v=xBdfI6vz1Lw"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click3.png"></a><a href="https://www.youtube.com/watch?v=xBdfI6vz1Lw">🌐</a><a href="https://www.youtube.com/watch?v=xBdfI6vz1Lw"><img src="https://img.shields.io/badge/Experiences-red?style=for-the-badge&logo=youtube&logoColor=white"></a></p>-->
 
-<p><a href="http://mixed.solutionsarray.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click3.png"></a><a href="http://mixed.solutionsarray.com/">🌐</a><a href="http://mixed.solutionsarray.com/"><img src="https://img.shields.io/badge/SolutionsArray-Business%20Pitch-00bf80"></a></p>
+<p><!---<a href="http://mixed.solutionsarray.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click3.png">--></a><a href="http://mixed.solutionsarray.com/">🌐</a><a href="http://mixed.solutionsarray.com/"><img src="https://img.shields.io/badge/SolutionsArray-Business%20Pitch-00bf80"></a></p>
 
 <p><a href="http://solutionsarray.com/portfolio"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click3.png"></a><a href="http://solutionsarray.com/portfolio">🌐</a><a href="http://solutionsarray.com/portfolio"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/11/5portfolio.png" </a></p>
 
