@@ -54,6 +54,7 @@ WORK AREA | END -->
 <br>
 <h2 align="center">Stack 💻</h2>
 
+<br>
 <img src="https://img.shields.io/badge/-php-black?style=flat-square&logo=php">
 <img src="https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel">
 <img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html">
