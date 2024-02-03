@@ -37,7 +37,7 @@
 • Bug Fix🐞 | Support👨‍🔧 | Training📈</p>
 • 100% 🌐Remote Development</p>
 • <b>As a Self Employed Enterpreneur, I offer my services:</b> Full-time, Part-time, Freelancer, Hourly</br></p>
-• SolutionsArray · Web Application <a href="https://solutionsarray.com/"> ►http://solutionsarray.com </a></p>
+• Web Application <a href="https://solutionsarray.com/"> ►http://solutionsarray.com </a></p>
 • Email | <a href=mailto:"info@solutionsarray.com"> <b>info@solutionsarray.com</b> </a></p>
 
 
