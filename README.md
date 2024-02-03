@@ -3,8 +3,8 @@
 <!-- WORK AREA | END -->
 
 
-<h3 align="center">👋 Hi, I'm Pedro Carvalho</a> 🙂</p>
-🌐 Web Developer from <!--<a href="https://en.wikipedia.org/wiki/Fafe" target="_blank">--> Fafe, </a> Portugal.</p>
+<h3 align="center">👋 Hi, I'm Pedro Carvalho</a></p>
+<img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=🌐+Web+Dev+from+Fafe,+Portugal+:)" /></p>
 </h3>
 
 
