@@ -4,7 +4,7 @@
 
 
 <br>
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/solutionsarray/" target="_blank">Pedro Carvalho</a>🙂</h1>
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/solutionsarray/" target="_blank">Pedro Carvalho</a> 🙂 </h1>
 <h3 align="center"> Web Developer from <a href="https://en.wikipedia.org/wiki/Fafe" target="_blank"> Fafe, </a> Portugal </h3>
 <!--<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Web+Developer+from+Fafe+Portugal+:)" /></h3>-->
 
