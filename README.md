@@ -26,7 +26,7 @@ WORK AREA | END -->
 
 <p></a><a href="https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1">🌐&nbsp;</a><a href="https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1"><img src="https://img.shields.io/badge/Pedro Carvalho-Upwork-14a800"></a></p> 
 
-<p></a><a href="https://www.linkedin.com/in/SolutionsArray/">🌐&nbsp;</a><a href="https://www.linkedin.com/in/SolutionsArray/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a></p>
+<p></a><a href="https://www.linkedin.com/in/SolutionsArray/">🌐&nbsp;</a><a href="https://www.linkedin.com/in/SolutionsArray/"><img src="https://img.shields.io/badge/Solutions%20Array-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a></p>
 
 
 
