@@ -3,9 +3,9 @@
 <!-- WORK AREA | END -->
 
 
-<h2 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/solutionsarray/" target="_blank">Pedro Carvalho</a> 🙂</p>
+<h3 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/solutionsarray/" target="_blank">Pedro Carvalho</a> 🙂</p>
 Web Developer from <a href="https://en.wikipedia.org/wiki/Fafe" target="_blank"> Fafe, </a> Portugal.</p>
-</h2>
+</h3>
 
 <br>
 <!--<p><a href="https://www.youtube.com/watch?v=xBdfI6vz1Lw"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click3.png"></a><a href="https://www.youtube.com/watch?v=xBdfI6vz1Lw">🌐</a><a href="https://www.youtube.com/watch?v=xBdfI6vz1Lw"><img src="https://img.shields.io/badge/Experiences-red?style=for-the-badge&logo=youtube&logoColor=white"></a></p>-->
