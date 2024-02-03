@@ -29,7 +29,7 @@
 <p><a href="https://solutionsarray.com/portfolio/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/09/SolutionsArray_Homepage.png"></a></p>
 
 <br>
-<p align="center">| <b>Websites</b> | <b>E-commerce Shops</b> | <b> Web Applications</b> | <b>Maintenance</b> | <b>Marketing</b> | <b>Hosting</b> | <b>Storage</b> |</p>
+<p align="center">| <b>Websites</b> | <b>E-commerce Shops</b> | <b> Web Applications</b> | <b>Maintenance</b> | <b>Marketing</b> | <b>Hosting</b> | <b>Storage</b> |
 <p align="center">100% 🌐Remote Development</p>
 • Websites are Reliable/Maintainable/Functional/Aesthetic</p>
 • Pixel Perfect Design is Professional and Responsive to all Media devices and browsers</p>
