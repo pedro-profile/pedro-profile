@@ -4,8 +4,8 @@
 
 
 <br>
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/solutionsarray/" target="_blank">Pedro Carvalho</a> 🙂 
-<br> Web Developer from <a href="https://en.wikipedia.org/wiki/Fafe" target="_blank"> Fafe, </a> Portugal.
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/solutionsarray/" target="_blank">Pedro Carvalho</a>🙂</p>
+Web Developer from <a href="https://en.wikipedia.org/wiki/Fafe" target="_blank"> Fafe, </a> Portugal.
 </h1>
 
 <h3 align="center"> Web Developer from <a href="https://en.wikipedia.org/wiki/Fafe" target="_blank"> Fafe, </a> Portugal. </h3>
