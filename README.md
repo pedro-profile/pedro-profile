@@ -4,7 +4,7 @@
 
 
 <h3 align="center">👋 Hi, I'm Pedro Carvalho</a> 🙂</p>
-► Web Developer from <!--<a href="https://en.wikipedia.org/wiki/Fafe" target="_blank">--> Fafe, </a> Portugal.</p>
+💻 Web Developer from <!--<a href="https://en.wikipedia.org/wiki/Fafe" target="_blank">--> Fafe, </a> Portugal.</p>
 </h3>
 
 
