@@ -65,7 +65,7 @@ WORK AREA | END -->
 <img src="https://img.shields.io/badge/-NEXT.js-black?style=flat-square&logo=next.js">
 <img src="https://img.shields.io/badge/-node.js-black?style=flat-square&logo=node.js">
 <img src="https://img.shields.io/badge/-NGINX-black?style=flat-square&logo=nginx">
-<img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=PHP">
+<img src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql">
 </p>
 
 
