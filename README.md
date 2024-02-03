@@ -70,7 +70,7 @@ WORK AREA | END -->
 
 
 <br>
-<h1 align="left"><font size="25">· Let's Work Together 🤝</font></h1>
+<h1 align="left"><font size="25">· Let's Work Together 👥</font></h1>
 
 
 
