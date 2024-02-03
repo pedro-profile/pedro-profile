@@ -37,7 +37,7 @@ Web Developer from <a href="https://en.wikipedia.org/wiki/Fafe" target="_blank">
 • Bug Fix🐞 | Support👨‍🔧 | Training📈</p>
 • 100% 🌐Remote Development</p>
 • As a Self Employed Enterpreneur, I offer my services: Full-time, Part-time, Freelancer, Hourly</br></p>
-• Web Application <a href="https://solutionsarray.com/"> ►http://solutionsarray.com </a></p>
+• Web Application ► <a href="https://solutionsarray.com/"> http://solutionsarray.com </a></p>
 • Email | <a href=mailto:"info@solutionsarray.com"> info@solutionsarray.com </a>
 
 
