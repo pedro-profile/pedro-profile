@@ -133,13 +133,4 @@ WORK AREA | END -->
 . color Controls the color of the backgound
 
 
-
-
-
-
-
-
-
-
-
 <!-- SAVE AREA | END -->
