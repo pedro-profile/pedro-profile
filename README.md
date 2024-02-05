@@ -46,7 +46,7 @@ WORK AREA | END -->
 • Payment gateway integrations</p>
 • Fully optimized with speed and On-Page SEO</p>
 • Bug Fix🐞 | Support👨‍🔧 | Training📈</p>
-• As a (Self Employed Enterpreneur) I offer my services: Full-time, Part-time, Freelancer, Hourly</br></p>
+• As a (Self Employed Entrepreneur) I charge <b>$5</b> and offer my services: Full-time, Part-time, Freelancer, Hourly</br></p>
 • Web Application ► <a href="https://solutionsarray.com/"> http://solutionsarray.com </a></p>
 • Email | <a href=mailto:"info@solutionsarray.com"> info@solutionsarray.com </a>
 
