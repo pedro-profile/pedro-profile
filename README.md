@@ -62,10 +62,10 @@ WORK AREA | END -->
 <img src="https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel">
 <img src="https://img.shields.io/badge/-HTML-white?style=flat-square&logo=html">
 <img src="https://img.shields.io/badge/-CSS-white?style=flat-square&logo=css">
+<img src="https://img.shields.io/badge/-node.js-white?style=flat-square&logo=node.js">
 <img src="https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript">
 <img src="https://img.shields.io/badge/-React-white?style=flat-square&logo=react">
 <img src="https://img.shields.io/badge/-NEXT.js-white?style=flat-square&logo=next.js">
-<img src="https://img.shields.io/badge/-node.js-white?style=flat-square&logo=node.js">
 </p>
 
 
