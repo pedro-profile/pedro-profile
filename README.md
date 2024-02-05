@@ -39,14 +39,13 @@ WORK AREA | END -->
 <br>
 <p align="center">| <b>Websites</b> | <b>E-commerce Shops</b> | <b> Web Applications</b> | <b>Maintenance</b> | <b>Marketing</b> | <b>Hosting</b> | <b>Storage</b> |</p>
 <br>
-• <b>Exclusively</b> | 100% 🌐Remote Development </p>
+• Self-Employed Entrepreneur | <b>$5</b>/hour | <b>Exclusively:</b> 100% 🌐Remote Development</p>
 • Websites are Reliable/Maintainable/Functional/Aesthetic</p>
 • Pixel Perfect Design is Professional and Responsive to all Media devices and browsers</p>
 • PSD to CMS design with Custom Animations</p>
 • Payment gateway integrations</p>
 • Fully optimized with speed and On-Page SEO</p>
 • Bug Fix🐞 | Support👨‍🔧 | Training📈</p>
-• As a (Self Employed Entrepreneur) I charge <b>$5</b> and offer my services: Full-time, Part-time, Freelancer, Hourly</br></p>
 • Web Application ► <a href="https://solutionsarray.com/"> http://solutionsarray.com </a></p>
 • Email | <a href=mailto:"info@solutionsarray.com"> info@solutionsarray.com </a>
 
