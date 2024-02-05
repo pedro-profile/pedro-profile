@@ -9,7 +9,7 @@ WORK AREA | END -->
 
 
 <h3 align="center">👋 Hi, I'm Pedro Carvalho</a></p></h3>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=🌐+Web+Dev+from+Fafe,+Portugal+:)" /></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=🌐+Web+Developer+from+Portugal+:)" /></p>
 
 
 <h2> </h2>
