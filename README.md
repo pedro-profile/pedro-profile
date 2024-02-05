@@ -33,7 +33,7 @@ WORK AREA | END -->
 
 <h2> </h2>
 <p align="center"><a href="https://solutionsarray.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/10/SolutionsArray1.com_.png" alt="solutionsarray.com"></a></p>
-<p align="center">Private · Secure 💡 Digital Solutions</p>
+<p align="center">Private · Secure 💡 Digital Solutions | That You Can Trust</p>
 <p><a href="https://solutionsarray.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/09/SolutionsArray_Homepage.png"></a></p>
 
 <br>
@@ -61,7 +61,6 @@ WORK AREA | END -->
 <img src="https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel">
 <img src="https://img.shields.io/badge/-HTML-white?style=flat-square&logo=html">
 <img src="https://img.shields.io/badge/-CSS-white?style=flat-square&logo=css">
-<img src="https://img.shields.io/badge/-node.js-white?style=flat-square&logo=node.js">
 <img src="https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript">
 <img src="https://img.shields.io/badge/-React-white?style=flat-square&logo=react">
 <img src="https://img.shields.io/badge/-NEXT.js-white?style=flat-square&logo=next.js">
