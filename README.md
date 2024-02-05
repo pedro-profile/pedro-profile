@@ -46,7 +46,7 @@ WORK AREA | END -->
 • Payment gateway integrations</p>
 • Fully optimized with speed and On-Page SEO</p>
 • Bug Fix🐞 | Support👨‍🔧 | Training📈</p>
-• Web Application ► <a href="https://solutionsarray.com/"> http://solutionsarray.com </a></p>
+<!--• Web Application ► <a href="https://solutionsarray.com/"> http://solutionsarray.com </a></p>-->
 • Email | <a href=mailto:"info@solutionsarray.com"> info@solutionsarray.com </a>
 
 
