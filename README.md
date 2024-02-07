@@ -58,7 +58,7 @@ WORK AREA | END -->
 <img src="https://img.shields.io/badge/-NGINX-white?style=flat-square&logo=nginx">
 <img src="https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql">
 <img src="https://img.shields.io/badge/-php-white?style=flat-square&logo=php">
-<img src="https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel">
+<!--<img src="https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel">-->
 <img src="https://img.shields.io/badge/-HTML-white?style=flat-square&logo=html">
 <img src="https://img.shields.io/badge/-CSS-white?style=flat-square&logo=css">
 <img src="https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript">
