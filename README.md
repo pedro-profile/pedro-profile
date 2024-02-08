@@ -29,7 +29,7 @@ WORK AREA | END -->
 <br>
 <p align="center">| <b>Websites</b> | <b>E-commerce Shops</b> | <b> Web Applications</b> | <b>Maintenance</b> | <b>Marketing</b> | <b>Hosting</b> | <b>Storage</b> |</p>
 <br>
-• Self-Employed Entrepreneur | <b>$5</b>/hour | <b>Exclusively:</b> 100% 🌐Remote Development</p>
+• <b>Junior WordPress Developer</b> | <b>$2.50</b>/hour | <b>Exclusively:</b> 100% 🌐Remote Development</p>
 • Websites are Aesthetic/Functional/Maintainable/Reliable</p>
 • Pixel Perfect Design is Professional and Responsive to all Media devices and browsers</p>
 • PSD to CMS design with Custom Animations</p>
