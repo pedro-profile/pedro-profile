@@ -10,13 +10,16 @@ WORK AREA | END -->
 
 <h3 align="center">👋 Hi, I'm Pedro Carvalho</a></p></h3>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=🌐+Web+Developer+from+Portugal+:)" /></p>
-<h3 align="center"><!--Email |--><a href=mailto:"info@solutionsarray.com"> info@solutionsarray.com </a></p>
+<h3 align="center"><!--Email |--><a href=mailto:"info@solutionsarray.com"> info@solutionsarray.com </a></h3>
+<br>
+<p align="center">
 <a href="http://solutionsarray.com/portfolio">🌐&nbsp;</a><a href="http://solutionsarray.com/portfolio"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
 <a href="https://mixed.solutionsarray.com/cv/">🌐&nbsp;</a><a href="https://mixed.solutionsarray.com/cv/"><img src="https://img.shields.io/badge/Curriculum-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white"></a>  
 <a href="https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1">🌐&nbsp;</a><a href="https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/SolutionsArray/">🌐&nbsp;</a><a href="https://www.linkedin.com/in/SolutionsArray/"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
 <a href="https://www.facebook.com/solutionsarray">🌐&nbsp;</a><a href="https://www.facebook.com/solutionsarray"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://www.youtube.com/solutionsarray">🌐&nbsp;</a><a href="https://www.youtube.com/solutionsarray"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+</p>
 
 <h2> </h2>
 <p align="center"><a href="https://solutionsarray.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/10/SolutionsArray1.com_.png" alt="solutionsarray.com"></a></p>
