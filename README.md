@@ -9,8 +9,10 @@ WORK AREA | END -->
 
 
 <h3 align="center">👋 Hi, I'm Pedro Carvalho</a></p></h3>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=🌐+Web+Developer+from+Portugal+:)" /></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=🌐+Junior+WordPress+Developer+:)" /></p>
+<p align="center"> <b>💲2.50/hour | 100% 🌐Remote Development</p></b>
 <h3 align="center"><!--Email |--><a href=mailto:"info@solutionsarray.com"> info@solutionsarray.com </a></h3>
+
 <br>
 <p align="center">
 <a href="http://solutionsarray.com/portfolio">🌐&nbsp;</a><a href="http://solutionsarray.com/portfolio"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
@@ -29,7 +31,7 @@ WORK AREA | END -->
 <br>
 <p align="center">| <b>Websites</b> | <b>E-commerce Shops</b> | <b> Web Applications</b> | <b>Maintenance</b> | <b>Marketing</b> | <b>Hosting</b> | <b>Storage</b> |</p>
 <br>
-• <b>Junior WordPress Developer</b> | <b>$2.50</b>/hour | <b>Exclusively:</b> 100% 🌐Remote Development</p>
+<!--• <b>$2.50</b>/hour | <b>Exclusively:</b> 100% 🌐Remote Development</p>-->
 • Websites are Aesthetic/Functional/Maintainable/Reliable</p>
 • Pixel Perfect Design is Professional and Responsive to all Media devices and browsers</p>
 • PSD to CMS design with Custom Animations</p>
