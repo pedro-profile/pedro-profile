@@ -10,25 +10,7 @@ WORK AREA | END -->
 
 <h3 align="center">👋 Hi, I'm Pedro Carvalho</a></p></h3>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=🌐+Web+Developer+from+Portugal+:)" /></p>
-
-
-<h2> </h2>
-<br>
-<!--<p><a href="https://www.youtube.com/watch?v=xBdfI6vz1Lw"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/01/click3.png"></a><a href="https://www.youtube.com/watch?v=xBdfI6vz1Lw">🌐</a><a href="https://www.youtube.com/watch?v=xBdfI6vz1Lw"><img src="https://img.shields.io/badge/Experiences-red?style=for-the-badge&logo=youtube&logoColor=white"></a></p>-->
-
-<p></a><a href="http://solutionsarray.com/">🌐&nbsp;</a><a href="http://solutionsarray.com/"><img src="https://img.shields.io/badge/SolutionsArray-Business%20Pitch-89cff0"></a></p>
-
-<p></a><a href="http://solutionsarray.com/portfolio">🌐&nbsp;</a><a href="http://solutionsarray.com/portfolio"><img src="https://img.shields.io/badge/SolutionsArray-Portfolio-f1ebeb"</a></p>
-
-<p></a><a href="https://www.facebook.com/solutionsarray">🌐&nbsp;</a><a href="https://www.facebook.com/solutionsarray"><img src="https://img.shields.io/badge/SolutionsArray-Facebook-1877f2"</a></p>
-
-<p></a><a href="https://mixed.solutionsarray.com/cv/">🌐&nbsp;</a><a href="https://mixed.solutionsarray.com/cv/"><img src="https://img.shields.io/badge/Pedro Carvalho-Curriculum%20Vitae-7abaca"></a></p>    
-
-<p></a><a href="https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1">🌐&nbsp;</a><a href="https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1"><img src="https://img.shields.io/badge/Pedro Carvalho-Upwork-14a800"></a></p> 
-
-<p></a><a href="https://www.linkedin.com/in/SolutionsArray/">🌐&nbsp;</a><a href="https://www.linkedin.com/in/SolutionsArray/"><img src="https://img.shields.io/badge/Solutions%20Array-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a></p>
-
-
+<h3 align="center"><!--Email |--><a href=mailto:"info@solutionsarray.com"> info@solutionsarray.com </a></p>
 
 
 <h2> </h2>
@@ -47,16 +29,28 @@ WORK AREA | END -->
 • Fully optimized with speed and On-Page SEO</p>
 • Bug Fix🐞 | Support👨‍🔧 | Training📈</p>
 <!--• Web Application ► <a href="https://solutionsarray.com/"> http://solutionsarray.com </a></p>-->
-• Email | <a href=mailto:"info@solutionsarray.com"> info@solutionsarray.com </a>
+<!--• Email | <a href=mailto:"info@solutionsarray.com"> info@solutionsarray.com </a>-->
 
+<br>
+<p></a><a href="http://solutionsarray.com/portfolio">🌐&nbsp;</a><a href="http://solutionsarray.com/portfolio"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a></p>  
+
+<p></a><a href="https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1">🌐&nbsp;</a><a href="https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1"><img src="https://img.shields.io/badge/Curriculum-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white"></a></p>  
+
+<p></a><a href="https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1">🌐&nbsp;</a><a href="https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"></a></p>  
+
+<p></a><a href="https://www.linkedin.com/in/SolutionsArray/">🌐&nbsp;</a><a href="https://www.linkedin.com/in/SolutionsArray/"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a></p>
+
+<p></a><a href="https://www.facebook.com/solutionsarray">🌐&nbsp;</a><a href="https://www.facebook.com/solutionsarray"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a></p>
+
+<p></a><a href="https://www.youtube.com/solutionsarray">🌐&nbsp;</a><a href="https://www.youtube.com/solutionsarray"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a></p>
 
 <h2> </h2>
 <h3 align="center"><font size="25">Stack 💻</font></h3>
 
 <br>
 <p align="center">
-<img src="https://img.shields.io/badge/-NGINX-white?style=flat-square&logo=nginx">
-<img src="https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql">
+<!--<img src="https://img.shields.io/badge/-NGINX-white?style=flat-square&logo=nginx">
+<img src="https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql">-->
 <img src="https://img.shields.io/badge/-php-white?style=flat-square&logo=php">
 <!--<img src="https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel">-->
 <img src="https://img.shields.io/badge/-HTML-white?style=flat-square&logo=html">
