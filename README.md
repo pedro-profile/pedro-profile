@@ -44,6 +44,10 @@ WORK AREA | END -->
 
 <p></a><a href="https://www.youtube.com/solutionsarray">🌐&nbsp;</a><a href="https://www.youtube.com/solutionsarray"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a></p>
 
+
+
+
+
 <h2> </h2>
 <h3 align="center"><font size="25">Stack 💻</font></h3>
 
@@ -51,14 +55,18 @@ WORK AREA | END -->
 <p align="center">
 <!--<img src="https://img.shields.io/badge/-NGINX-white?style=flat-square&logo=nginx">
 <img src="https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql">-->
-<img src="https://img.shields.io/badge/-php-white?style=flat-square&logo=php">
+<img src="https://img.shields.io/badge/php-787cb4?style=for-the-badge&logo=php&logoColor=white">
 <!--<img src="https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel">-->
-<img src="https://img.shields.io/badge/-HTML-white?style=flat-square&logo=html">
-<img src="https://img.shields.io/badge/-CSS-white?style=flat-square&logo=css">
-<img src="https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript">
+<img src="https://img.shields.io/badge/html-e54c21?style=for-the-badge&logo=html&logoColor=white">
+<img src="https://img.shields.io/badge/css-214ce5?style=for-the-badge&logo=css&logoColor=white">
+<img src="https://img.shields.io/badge/-javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=black">
 <!--<img src="https://img.shields.io/badge/-React-white?style=flat-square&logo=react">
 <img src="https://img.shields.io/badge/-NEXT.js-white?style=flat-square&logo=next.js">-->
 </p>
+
+
+
+
 
 
 <br>
