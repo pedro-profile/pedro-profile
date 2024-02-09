@@ -2,8 +2,7 @@
 
 
 #0866ff #1877f2
-#0866ff #1877f2
-
+#444140 #00759b
 
 WORK AREA | END -->
 
@@ -30,6 +29,7 @@ WORK AREA | END -->
 <p align="center">
 <!--<img src="https://img.shields.io/badge/-NGINX-white?style=flat-square&logo=nginx">
 <img src="https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql">-->
+<img src="https://img.shields.io/badge/wordpress-00759b?style=for-the-badge&logo=wordpress&logoColor=white">
 <img src="https://img.shields.io/badge/php-787cb4?style=for-the-badge&logo=php&logoColor=white">
 <!--<img src="https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel">-->
 <img src="https://img.shields.io/badge/html-e54c21?style=for-the-badge&logo=html&logoColor=white">
