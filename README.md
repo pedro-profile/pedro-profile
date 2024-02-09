@@ -42,13 +42,10 @@ WORK AREA | END -->
 <h2> </h2>
 <h3 align="center">Code · Repos <img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="44px" height="44px" alt="bookmark"></a></h3>
 <br>
-<p>
-<a href="https://github.com/SolutionsArray/skills-change-commit-history"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a>
-<a href="https://github.com/SolutionsArray/skills-change-commit-history">skills-change-commit-history</a>
-<a href="https://github.com/SolutionsArray/skills-change-commit-history"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a>
-<a href="https://github.com/SolutionsArray/beginners-intro-javascript-node.git</a>
-     
-</p>
+
+
+<a href="https://github.com/SolutionsArray/skills-change-commit-history"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/skills-change-commit-history"> skills-change-commit-history</a> | 
+<a href="https://github.com/SolutionsArray/skills-change-commit-history"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/beginners-intro-javascript-node.git"> beginners-intro-javascript-node</a>
 
 
 <h2> </h2>
