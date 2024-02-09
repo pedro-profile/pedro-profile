@@ -23,7 +23,8 @@ WORK AREA | END -->
 <a href="https://www.youtube.com/@SolutionsArray">🌐&nbsp;</a><a href="https://www.youtube.com/@SolutionsArray"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
-<br>
+
+<h2> </h2>
 <h3 align="center"><font size="25">Stack 💻</font></h3>
 <br>
 <p align="center">
@@ -38,11 +39,11 @@ WORK AREA | END -->
 <img src="https://img.shields.io/badge/-NEXT.js-white?style=flat-square&logo=next.js">-->
 </p>
 
-<br>
-<h3 align="center"><font size="25">Code · Repos</font> <a href="https://emoji.gg/emoji/6029-bookmark"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="64px" height="64px" alt="bookmark"></a></h3>
+<h2> </h2>
+<h3 align="center">Code · Repos <img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="44px" height="44px" alt="bookmark"></a></h3>
 <br>
 <p>
-<a href="https://emoji.gg/emoji/6029-bookmark"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a></h3>
+<a href="https://github.com/SolutionsArray/skills-change-commit-history"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a>
 <a href="https://github.com/SolutionsArray/skills-change-commit-history">skills-change-commit-history </a>
 </p>
 
