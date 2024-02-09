@@ -43,17 +43,21 @@ WORK AREA | END -->
 <h2> </h2>
 <h3 align="center">Contributor | Code · Repos <img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="44px" height="44px" alt="bookmark"></a></h3>
 <br>
-<h3 align="center"><a href="https://github.com/SolutionsArray/learn-you-php"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/learn-you-php"> learn-you-php</a> &nbsp;|&nbsp; 
-<a href="https://github.com/SolutionsArray/html.git"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/html.git"> HTML Standard</a> &nbsp;|&nbsp;
+<h3 align="center">| <a href="https://github.com/SolutionsArray/learn-you-php"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/learn-you-php"> learn-you-php</a> &nbsp;|&nbsp; 
+<a href="https://github.com/SolutionsArray/html.git"> <img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/html.git"> HTML Standard</a> &nbsp;|&nbsp;
 <a href="https://github.com/SolutionsArray/css.git"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/css.git"> Primer CSS</a> &nbsp;|&nbsp;
 <a href="https://github.com/SolutionsArray/beginners-intro-javascript-node.git"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/beginners-intro-javascript-node.git"> beginners-intro-javascript-node</a><p>
-
-<p><a href="https://github.com/SolutionsArray/skills-change-commit-history"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/skills-change-commit-history"> skills-change-commit-history</a> &nbsp;|&nbsp;</p></h3>
+<p>| <a href="https://github.com/SolutionsArray/skills-change-commit-history"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/skills-change-commit-history"> skills-change-commit-history</a> &nbsp;|&nbsp;</p></h3>
 
 
 <h2> </h2>
 <h3 align="center">Personal | Code · Repos <img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="44px" height="44px" alt="bookmark"></a></h3>
 <br>
+<!--<h3 align="center">| <a href="https://github.com/SolutionsArray/learn-you-php"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/learn-you-php"> 1</a> &nbsp;|&nbsp; 
+<a href="https://github.com/SolutionsArray/html.git"> <img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/html.git"> 2</a> &nbsp;|&nbsp;
+<a href="https://github.com/SolutionsArray/css.git"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/css.git"> 3</a> &nbsp;|&nbsp;
+<a href="https://github.com/SolutionsArray/beginners-intro-javascript-node.git"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/beginners-intro-javascript-node.git"> 4</a><p>
+<p>| <a href="https://github.com/SolutionsArray/skills-change-commit-history"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/skills-change-commit-history"> 5</a> &nbsp;|&nbsp;</p></h3>-->
 
 
 <h2> </h2>
