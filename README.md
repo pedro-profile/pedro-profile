@@ -42,7 +42,7 @@ WORK AREA | END -->
 <h3 align="center"><font size="25">Code · Repos</font> <a href="https://emoji.gg/emoji/6029-bookmark"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="64px" height="64px" alt="bookmark"></a></h3>
 <br>
 <p>
-<a href="https://emoji.gg/emoji/6029-bookmark"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="64px" height="64px" alt="bookmark"></a></h3>
+<a href="https://emoji.gg/emoji/6029-bookmark"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a></h3>
 <a href="https://github.com/SolutionsArray/skills-change-commit-history">skills-change-commit-history </a>
 </p>
 
