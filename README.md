@@ -39,7 +39,7 @@ WORK AREA | END -->
 </p>
 
 <br>
-<h3 align="center"><font size="25">Code · Repos</font></h3>
+<h3 align="center"><font size="25">Code · Repos</font> <a href="https://emoji.gg/emoji/6029-bookmark"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="64px" height="64px" alt="bookmark"></a></h3>
 <br>
 <p>
 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo mr-1 color-fg-muted">
