@@ -23,9 +23,24 @@ WORK AREA | END -->
 <a href="https://www.youtube.com/@SolutionsArray">🌐&nbsp;</a><a href="https://www.youtube.com/@SolutionsArray"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
+<h3 align="center"><font size="25">Stack 💻</font></h3>
+<br>
+<p align="center">
+<!--<img src="https://img.shields.io/badge/-NGINX-white?style=flat-square&logo=nginx">
+<img src="https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql">-->
+<img src="https://img.shields.io/badge/php-787cb4?style=for-the-badge&logo=php&logoColor=white">
+<!--<img src="https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel">-->
+<img src="https://img.shields.io/badge/html-e54c21?style=for-the-badge&logo=html&logoColor=white">
+<img src="https://img.shields.io/badge/css-214ce5?style=for-the-badge&logo=css&logoColor=white">
+<img src="https://img.shields.io/badge/-javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=black">
+<!--<img src="https://img.shields.io/badge/-React-white?style=flat-square&logo=react">
+<img src="https://img.shields.io/badge/-NEXT.js-white?style=flat-square&logo=next.js">-->
+</p>
+
+
 <h2> </h2>
 <p align="center"><a href="https://solutionsarray.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/10/SolutionsArray1.com_.png" alt="solutionsarray.com"></a></p>
-<p align="center">Private · Secure 💡 Digital Solutions | That You Can Trust</p>
+<p align="center">Private · Secure 💡 Digital Solutions | You Can Trust</p>
 <p><a href="https://solutionsarray.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/09/SolutionsArray_Homepage.png"></a></p>
 
 <br>
@@ -42,21 +57,7 @@ WORK AREA | END -->
 <!--• Email | <a href=mailto:"info@solutionsarray.com"> info@solutionsarray.com </a>-->
 
 
-<h2> </h2>
-<h3 align="center"><font size="25">Stack 💻</font></h3>
 
-<br>
-<p align="center">
-<!--<img src="https://img.shields.io/badge/-NGINX-white?style=flat-square&logo=nginx">
-<img src="https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql">-->
-<img src="https://img.shields.io/badge/php-787cb4?style=for-the-badge&logo=php&logoColor=white">
-<!--<img src="https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel">-->
-<img src="https://img.shields.io/badge/html-e54c21?style=for-the-badge&logo=html&logoColor=white">
-<img src="https://img.shields.io/badge/css-214ce5?style=for-the-badge&logo=css&logoColor=white">
-<img src="https://img.shields.io/badge/-javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=black">
-<!--<img src="https://img.shields.io/badge/-React-white?style=flat-square&logo=react">
-<img src="https://img.shields.io/badge/-NEXT.js-white?style=flat-square&logo=next.js">-->
-</p>
 
 
 
