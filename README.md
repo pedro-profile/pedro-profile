@@ -22,6 +22,11 @@ WORK AREA | END -->
 <a href="https://www.youtube.com/@SolutionsArray">🌐&nbsp;</a><a href="https://www.youtube.com/@SolutionsArray"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
+<br>
+<p align="center">
+<a href="https://dev.to/solutionsarray">🌐&nbsp;</a><a href="https://dev.to/solutionsarray"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
+</p>
+
 
 <h2> </h2>
 <h3 align="center"><font size="25">Stack 💻</font></h3>
@@ -87,8 +92,7 @@ WORK AREA | END -->
 <h3 align="center">EXTRA 🗃️</h3>
 
 <br>
-<p align="center">
-<a href="https://dev.to/solutionsarray">🌐&nbsp;</a><a href="https://dev.to/solutionsarray"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
+
 
 
 </p>
