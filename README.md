@@ -34,7 +34,6 @@ WORK AREA | END -->
 <p align="center">
 <!--<img src="https://img.shields.io/badge/-NGINX-white?style=flat-square&logo=nginx">
 <img src="https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql">-->
-<img src="https://img.shields.io/badge/wordpress-00759b?style=for-the-badge&logo=wordpress&logoColor=white">
 <img src="https://img.shields.io/badge/php-787cb4?style=for-the-badge&logo=php&logoColor=white">
 <!--<img src="https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel">-->
 <img src="https://img.shields.io/badge/html-e54c21?style=for-the-badge&logo=html&logoColor=white">
@@ -43,6 +42,15 @@ WORK AREA | END -->
 <!--<img src="https://img.shields.io/badge/-React-white?style=flat-square&logo=react">
 <img src="https://img.shields.io/badge/-NEXT.js-white?style=flat-square&logo=next.js">-->
 </p>
+
+<br>
+<p align="center">
+<img src="https://img.shields.io/badge/wordpress-00759b?style=for-the-badge&logo=wordpress&logoColor=white">
+<!--<img src="https://img.shields.io/badge/wordpress-00759b?style=for-the-badge&logo=divi&logoColor=white">
+<img src="https://img.shields.io/badge/wordpress-00759b?style=for-the-badge&logo=wordpress&logoColor=white">
+<img src="https://img.shields.io/badge/wordpress-00759b?style=for-the-badge&logo=wordpress&logoColor=white">
+<img src="https://img.shields.io/badge/wordpress-00759b?style=for-the-badge&logo=wordpress&logoColor=white">
+</p>-->
 
 
 <h2> </h2>
@@ -57,7 +65,7 @@ WORK AREA | END -->
 
 <h2> </h2>
 <h3 align="center">Contributor | Code · Repos <img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="44px" height="44px" alt="bookmark"></a></h3>
-
+<!--
 <p align="center">| &nbsp;<a href="https://github.com/SolutionsArray/WordPress.git"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/WordPress.git"> WordPress</a> &nbsp;|&nbsp; 
 | &nbsp;<a href="https://github.com/SolutionsArray/learn-you-php"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/learn-you-php"> learn-you-php</a> &nbsp;|&nbsp; 
 <a href="https://github.com/SolutionsArray/html.git"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/html.git"> HTML Standard</a> &nbsp;|&nbsp;
@@ -66,10 +74,10 @@ WORK AREA | END -->
 
 <p align="center">| &nbsp;<a href="https://github.com/SolutionsArray/skills-change-commit-history"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/skills-change-commit-history"> skills-change-commit-history</a> &nbsp;|&nbsp;
 &nbsp;<a href="https://github.com/SolutionsArray/-.git"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/-.git"> Hyphen -</a> &nbsp;|&nbsp;
-
 <p>
+-->
 
-
+<br>
 <h2> </h2>
 <p align="center"><a href="https://solutionsarray.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/10/SolutionsArray1.com_.png" alt="solutionsarray.com"></a></p>
 <p align="center">Private · Secure 💡 Digital Solutions / You Can Trust</p>
