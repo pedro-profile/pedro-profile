@@ -46,13 +46,12 @@ WORK AREA | END -->
 
 <br>
 <p align="center">
-<img src="https://img.shields.io/badge/wordpress-00759b?style=for-the-badge&logo=wordpress&logoColor=white">
-<!--<img src="https://img.shields.io/badge/wordpress-00759b?style=for-the-badge&logo=divi&logoColor=white">
-<img src="https://img.shields.io/badge/wordpress-00759b?style=for-the-badge&logo=wordpress&logoColor=white">
-<img src="https://img.shields.io/badge/wordpress-00759b?style=for-the-badge&logo=wordpress&logoColor=white">
-<img src="https://img.shields.io/badge/wordpress-00759b?style=for-the-badge&logo=wordpress&logoColor=white">
-<img src="https://img.shields.io/badge/wordpress-00759b?style=for-the-badge&logo=wordpress&logoColor=white">-->
+<img src="https://img.shields.io/badge/WordPress-00759b?style=for-the-badge&logo=wordpress&logoColor=white">
+<img src="https://img.shields.io/badge/Divi Builder-5b00a5?style=for-the-badge&logo=wordpress&logoColor=white">
+<img src="https://img.shields.io/badge/Elementor-920039?style=for-the-badge&logo=wordpress&logoColor=white">
+<img src="https://img.shields.io/badge/ACF Plugin-03e5be?style=for-the-badge&logo=wordpress&logoColor=white">
 </p>
+
 
 <h2> </h2>
 <h3 align="center"><font size="25">Languages 🗣️</font></h3>
@@ -64,7 +63,6 @@ WORK AREA | END -->
 </p>
 
 
-<h2> </h2>
 <h3 align="center">Personal | Code · Repos <img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="44px" height="44px" alt="bookmark"></a></h3>
 <br>
 <!--<h3 align="center">| <a href="https://github.com/SolutionsArray/learn-you-php"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/learn-you-php"> 1</a> &nbsp;|&nbsp; 
