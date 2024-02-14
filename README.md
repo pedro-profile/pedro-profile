@@ -1,3 +1,7 @@
+<html>
+	<body>
+		<div class="container">
+			<div class="make-me-fit">
 <!-- WORK AREA | START
 
 
@@ -88,6 +92,10 @@ WORK AREA | END -->
 <br>
 <h2> </h2>
 <p align="center"><a href="https://solutionsarray.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/10/SolutionsArray1.com_.png" alt="solutionsarray.com"></a></p>
+
+<p align="center">SolutionsArray<a href="https://solutionsarray.com/"></a></p>
+
+
 <p align="center">Private · Secure 💡 Digital Solutions / You Can Trust</p>
 <p><a href="https://solutionsarray.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/09/SolutionsArray_Homepage.png"></a></p>
 
@@ -194,3 +202,7 @@ WORK AREA | END -->
 
 
 <!-- SAVE AREA | END -->
+</div>
+		</div>
+	</body>
+</html>
