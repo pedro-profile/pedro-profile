@@ -49,8 +49,16 @@ WORK AREA | END -->
 <!--<img src="https://img.shields.io/badge/wordpress-00759b?style=for-the-badge&logo=divi&logoColor=white">
 <img src="https://img.shields.io/badge/wordpress-00759b?style=for-the-badge&logo=wordpress&logoColor=white">
 <img src="https://img.shields.io/badge/wordpress-00759b?style=for-the-badge&logo=wordpress&logoColor=white">
+<img src="https://img.shields.io/badge/wordpress-00759b?style=for-the-badge&logo=wordpress&logoColor=white">-->
 <img src="https://img.shields.io/badge/wordpress-00759b?style=for-the-badge&logo=wordpress&logoColor=white">
-</p>-->
+</p>
+
+<h2> </h2>
+<h3 align="center"><font size="25">Languages 💻</font></h3>
+<br>
+<h1 align="center">
+🇵🇹 <img src="https://img.shields.io/badge/portuguese-007715?style=for-the-badge&logo=portuguese&logoColor=white">
+</p>
 
 
 <h2> </h2>
