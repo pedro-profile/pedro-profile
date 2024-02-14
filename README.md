@@ -35,21 +35,21 @@ WORK AREA | END -->
 <p align="center">
 <!--<img src="https://img.shields.io/badge/-NGINX-white?style=flat-square&logo=nginx">
 <img src="https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql">-->
-<img src="https://img.shields.io/badge/php-787cb4?style=for-the-badge&logo=php&logoColor=white">
+<a href="https://www.php.net/"><img src="https://img.shields.io/badge/php-787cb4?style=for-the-badge&logo=php&logoColor=white">
 <!--<img src="https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel">-->
-<img src="https://img.shields.io/badge/html-e54c21?style=for-the-badge&logo=html&logoColor=white">
-<img src="https://img.shields.io/badge/css-214ce5?style=for-the-badge&logo=css&logoColor=white">
-<img src="https://img.shields.io/badge/-javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=black">
+<a href="https://en.wikipedia.org/wiki/HTML"><img src="https://img.shields.io/badge/html-e54c21?style=for-the-badge&logo=html&logoColor=white">
+<a href="https://en.wikipedia.org/wiki/CSS"><img src="https://img.shields.io/badge/css-214ce5?style=for-the-badge&logo=css&logoColor=white">
+<a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://img.shields.io/badge/-javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=black">
 <!--<img src="https://img.shields.io/badge/-React-white?style=flat-square&logo=react">
 <img src="https://img.shields.io/badge/-NEXT.js-white?style=flat-square&logo=next.js">-->
 </p>
 
 <br>
 <p align="center">
-<img src="https://img.shields.io/badge/WordPress-00759b?style=for-the-badge&logo=wordpress&logoColor=white">
-<img src="https://img.shields.io/badge/Divi Builder-5b00a5?style=for-the-badge&logo=wordpress&logoColor=white">
-<img src="https://img.shields.io/badge/Elementor-920039?style=for-the-badge&logo=wordpress&logoColor=white">
-<img src="https://img.shields.io/badge/ACF Plugin-03e5be?style=for-the-badge&logo=wordpress&logoColor=white">
+<a href="https://wordpress.org/"><img src="https://img.shields.io/badge/WordPress-00759b?style=for-the-badge&logo=wordpress&logoColor=white">
+<a href="https://www.elegantthemes.com/gallery/divi/"><img src="https://img.shields.io/badge/Divi Builder-5b00a5?style=for-the-badge&logo=wordpress&logoColor=white">
+<a href="https://elementor.com/"><img src="https://img.shields.io/badge/Elementor-920039?style=for-the-badge&logo=wordpress&logoColor=white">
+<a href="https://www.advancedcustomfields.com/"><img src="https://img.shields.io/badge/ACF Plugin-03e5be?style=for-the-badge&logo=wordpress&logoColor=white">
 </p>
 
 
