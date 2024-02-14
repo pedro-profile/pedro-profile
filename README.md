@@ -4,6 +4,7 @@
 #0866ff #1877f2
 #444140 #00759b
 
+
 WORK AREA | END -->
 
 
@@ -49,15 +50,17 @@ WORK AREA | END -->
 <!--<img src="https://img.shields.io/badge/wordpress-00759b?style=for-the-badge&logo=divi&logoColor=white">
 <img src="https://img.shields.io/badge/wordpress-00759b?style=for-the-badge&logo=wordpress&logoColor=white">
 <img src="https://img.shields.io/badge/wordpress-00759b?style=for-the-badge&logo=wordpress&logoColor=white">
-<img src="https://img.shields.io/badge/wordpress-00759b?style=for-the-badge&logo=wordpress&logoColor=white">-->
 <img src="https://img.shields.io/badge/wordpress-00759b?style=for-the-badge&logo=wordpress&logoColor=white">
+<img src="https://img.shields.io/badge/wordpress-00759b?style=for-the-badge&logo=wordpress&logoColor=white">-->
 </p>
 
 <h2> </h2>
-<h3 align="center"><font size="25">Languages 💻</font></h3>
+<h3 align="center"><font size="25">Languages 🗣️</font></h3>
 <br>
 <h1 align="center">
-🇵🇹 <img src="https://img.shields.io/badge/portuguese-007715?style=for-the-badge&logo=portuguese&logoColor=white">
+🇵🇹<img src="https://img.shields.io/badge/portuguese-007715?style=for-the-badge&logo=portuguese&logoColor=white">
+🇺🇸<img src="https://img.shields.io/badge/English-3d3a6d?style=for-the-badge&logo=america&logoColor=white">
+🇪🇸<img src="https://img.shields.io/badge/Spanish-fec528?style=for-the-badge&logo=spain&logoColor=white">
 </p>
 
 
