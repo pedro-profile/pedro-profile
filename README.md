@@ -56,7 +56,7 @@ WORK AREA | END -->
 <h2> </h2>
 <h3 align="center"><font size="25">Languages 💻</font></h3>
 <br>
-<h2 align="center">
+<h3 align="center">
 🇵🇹 <img src="https://img.shields.io/badge/portuguese-007715?style=for-the-badge&logo=portuguese&logoColor=white">
 </p>
 
