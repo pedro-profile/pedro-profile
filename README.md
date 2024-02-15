@@ -15,7 +15,7 @@ WORK AREA | END -->
 <h3 align="center">👋 Hi, I'm Pedro Carvalho</a></p></h3>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=🌐+Junior+WordPress+Developer+:)" /></p>
 <p align="center"> <b>💲3/hour | 100% 🌐Remote Development</p></b>
-<h3 align="center"><!--Email |--><a href=mailto:info@SolutionsArray.com> info@solutionsarray.com </a></h3>
+<h3 align="center"><!--Email |--><a href=mailto:info@solutionsarray.com> info@SolutionsArray.com </a></h3>
 <div id="make-me-fit1">
 
 
