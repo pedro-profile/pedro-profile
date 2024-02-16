@@ -62,9 +62,7 @@ WORK AREA | END -->
 <h2> </h2>
 <h3 align="center"><font size="25">Languages 🗣️</font></h3>
 <h3 align="center">
-🇵🇹<img src="https://img.shields.io/badge/portuguese-007715?style=for-the-badge&logo=portuguese&logoColor=white">C2 |
-🇺🇸<img src="https://img.shields.io/badge/English-3d3a6d?style=for-the-badge&logo=america&logoColor=white">C1 |
-🇪🇸<img src="https://img.shields.io/badge/Spanish-fec528?style=for-the-badge&logo=spain&logoColor=white">B2
+ C2🇵🇹 Portuguese | 🇺🇸C1 English | 🇪🇸B2 Spanish |
 </p>
 
 
