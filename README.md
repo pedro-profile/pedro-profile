@@ -62,7 +62,7 @@ WORK AREA | END -->
 <h2> </h2>
 <h3 align="center"><font size="25">Languages 🗣️</font></h3>
 <h3 align="center">
-| 🇵🇹C2 Portuguese | 🇺🇸C1 English | 🇪🇸B2 Spanish |
+| 🇵🇹C2 Portuguese | 🇺🇸C1 English | 🇪🇸B2 Spanish |
 </p>
 
 
