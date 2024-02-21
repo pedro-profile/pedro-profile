@@ -53,6 +53,7 @@ WORK AREA | END -->
 <br>
 <p align="center">
 <a href="https://wordpress.org/"><img src="https://img.shields.io/badge/WordPress-00759b?style=for-the-badge&logo=wordpress&logoColor=white">
+<a href="https://woo.com/"><img src="https://img.shields.io/badge/WooCommerce-8150b2?style=for-the-badge&logo=woocommerce&logoColor=white">
 <a href="https://www.elegantthemes.com/gallery/divi/"><img src="https://img.shields.io/badge/Divi Builder-5b00a5?style=for-the-badge&logo=wordpress&logoColor=white">
 <a href="https://elementor.com/"><img src="https://img.shields.io/badge/Elementor-920039?style=for-the-badge&logo=wordpress&logoColor=white">
 <a href="https://www.advancedcustomfields.com/"><img src="https://img.shields.io/badge/ACF Plugin-03e5be?style=for-the-badge&logo=wordpress&logoColor=white">
