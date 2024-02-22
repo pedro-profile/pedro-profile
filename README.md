@@ -53,7 +53,9 @@ WORK AREA | END -->
 <a href="https://www.elegantthemes.com/gallery/divi/"><img src="https://img.shields.io/badge/Divi Builder-5b00a5?style=for-the-badge&logo=wordpress&logoColor=white">
 <a href="https://elementor.com/"><img src="https://img.shields.io/badge/Elementor-920039?style=for-the-badge&logo=wordpress&logoColor=white">
 <a href="https://www.advancedcustomfields.com/"><img src="https://img.shields.io/badge/ACF Plugin-03e5be?style=for-the-badge&logo=wordpress&logoColor=white">
-<p align="center"><a href="https://wagtail.org/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Wagtail&color=43B1B0&logo=Wagtail&logoColor=FFFFFF&label=">
+<p align="center">
+<a href="https://www.django-cms.org/en/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
+<a href="https://wagtail.org/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Wagtail&color=43B1B0&logo=Wagtail&logoColor=FFFFFF&label=">
 </p>
 
 
