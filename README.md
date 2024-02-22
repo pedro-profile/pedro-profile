@@ -20,7 +20,7 @@ WORK AREA | END -->
 
 
 <br>
-<p align="center">
+<p align="left">
 <a href="http://solutionsarray.com/portfolio">🌐&nbsp;</a><a href="http://solutionsarray.com/portfolio"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"></a>
 <a href="https://mixed.solutionsarray.com/cv/">🌐&nbsp;</a><a href="https://mixed.solutionsarray.com/cv/"><img src="https://img.shields.io/badge/Curriculum-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white"></a>  
 <a href="https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1">🌐&nbsp;</a><a href="https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"></a>
