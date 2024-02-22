@@ -31,10 +31,6 @@ WORK AREA | END -->
 <a href="https://dev.to/solutionsarray">🌐&nbsp;</a><a href="https://dev.to/solutionsarray"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
 </p>
 
-<!--<p align="center">
-<a href="https://dev.to/solutionsarray">🌐&nbsp;</a><a href="https://dev.to/solutionsarray"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
-</p>-->
-
 
 <h2> </h2>
 <h3 align="center"><font size="25">Stack 💻</font></h3>
@@ -51,7 +47,6 @@ WORK AREA | END -->
 <img src="https://img.shields.io/badge/-NEXT.js-white?style=flat-square&logo=next.js">-->
 </p>
 
-<br>
 <p align="center">
 <a href="https://wordpress.org/"><img src="https://img.shields.io/badge/WordPress-00759b?style=for-the-badge&logo=wordpress&logoColor=white">
 <a href="https://woo.com/"><img src="https://img.shields.io/badge/WooCommerce-8150b2?style=for-the-badge&logo=woocommerce&logoColor=white">
