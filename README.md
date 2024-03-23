@@ -38,6 +38,7 @@ WORK AREA | END -->
 <p align="center">
 <!--<img src="https://img.shields.io/badge/-NGINX-white?style=flat-square&logo=nginx">
 <img src="https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql">-->
+<a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
 <a href="https://www.php.net/"><img src="https://img.shields.io/badge/php-787cb4?style=for-the-badge&logo=php&logoColor=white">
 <!--<img src="https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel">-->
 <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
