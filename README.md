@@ -102,7 +102,7 @@ WORK AREA | END -->
 <p><a href="https://solutionsarray.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/09/SolutionsArray_Homepage.png"></a></p>
 
 <br>
-<p align="center">| <b>Websites</b> | <b>E-commerce Shops</b> | <b> Web Applications</b> | <b>Maintenance</b> | <b>Marketing</b> | <b>Hosting</b> | <b>Storage</b> |</p>
+<p align="center">| <b>Websites</b> | <b>E-commerce Shops</b> | <b> Web Applications</b> | <b>Maintenance</b> | <b>Marketing</b> |</p>
 <br>
 <!--• <b>$2.50</b>/hour | <b>Exclusively:</b> 100% 🌐Remote Development</p>-->
 • Websites are Aesthetic/Functional/Maintainable/Reliable</p>
