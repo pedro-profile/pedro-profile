@@ -80,8 +80,7 @@ WORK AREA | END -->
 <h2> </h2>
 <h3 align="center">Contributor | Code · Repos <img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="44px" height="44px" alt="bookmark"></a></h3>
 <br>
-<!--
-<p align="center">| &nbsp;<a href="https://github.com/SolutionsArray/WordPress.git"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/WordPress.git"> WordPress</a> &nbsp;|&nbsp; 
+<!--<p align="center">| &nbsp;<a href="https://github.com/SolutionsArray/WordPress.git"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/WordPress.git"> WordPress</a> &nbsp;|&nbsp; 
 | &nbsp;<a href="https://github.com/SolutionsArray/learn-you-php"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/learn-you-php"> learn-you-php</a> &nbsp;|&nbsp; 
 <a href="https://github.com/SolutionsArray/html.git"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/html.git"> HTML Standard</a> &nbsp;|&nbsp;
 <a href="https://github.com/SolutionsArray/css.git"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/css.git"> Primer CSS</a> &nbsp;|&nbsp;
@@ -89,8 +88,8 @@ WORK AREA | END -->
 
 <p align="center">| &nbsp;<a href="https://github.com/SolutionsArray/skills-change-commit-history"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/skills-change-commit-history"> skills-change-commit-history</a> &nbsp;|&nbsp;
 &nbsp;<a href="https://github.com/SolutionsArray/-.git"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/-.git"> Hyphen -</a> &nbsp;|&nbsp;
-<p>
--->
+<p>-->
+
 
 <br>
 <h2> </h2>
@@ -105,7 +104,6 @@ WORK AREA | END -->
 <br>
 <p align="center">| <b>Websites</b> | <b>E-commerce Shops</b> | <b> Web Applications</b> | <b>Maintenance</b> | <b>Marketing</b> |</p>
 <br>
-<!--• <b>$2.50</b>/hour | <b>Exclusively:</b> 100% 🌐Remote Development</p>-->
 • Websites are Aesthetic/Functional/Maintainable/Reliable</p>
 • Pixel Perfect Design is Professional and Responsive to all Media devices and browsers</p>
 • PSD to CMS design with Custom Animations</p>
@@ -113,35 +111,15 @@ WORK AREA | END -->
 • Fully optimized with speed and On-Page SEO</p>
 • Bug Fix🐞 | Support👨‍🔧 | Training📈</p>
 <!--• Web Application ► <a href="https://solutionsarray.com/"> http://solutionsarray.com </a></p>-->
-<!--• Email | <a href=mailto:"info@solutionsarray.com"> info@solutionsarray.com </a>-->
 
 
 <h2> </h2>
 <h3 align="center">EXTRA 🗃️</h3>
 
 <br>
-
-
-
+<!-- Extra Future Content -->
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br>
-<!--<p align="center"><font size="25">🏢 Let's Work Together 👨‍💼👩‍💼</font></p>-->
 
 <!-- |
      |
