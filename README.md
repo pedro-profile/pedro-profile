@@ -39,7 +39,7 @@ WORK AREA | END -->
 <!--<img src="https://img.shields.io/badge/-NGINX-white?style=flat-square&logo=nginx">
 <img src="https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql">-->
 <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
-<a href="https://www.php.net/"><img src="https://img.shields.io/badge/php-787cb4?style=for-the-badge&logo=php&logoColor=white">
+<!--<a href="https://www.php.net/"><img src="https://img.shields.io/badge/php-787cb4?style=for-the-badge&logo=php&logoColor=white">-->
 <!--<img src="https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel">-->
 <a href="https://en.wikipedia.org/wiki/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <a href="https://en.wikipedia.org/wiki/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -48,7 +48,7 @@ WORK AREA | END -->
 <img src="https://img.shields.io/badge/-NEXT.js-white?style=flat-square&logo=next.js">-->
 </p>
 
-<p align="center">
+<!--<p align="center">
 <a href="https://wordpress.org/"><img src="https://img.shields.io/badge/WordPress-00759b?style=for-the-badge&logo=wordpress&logoColor=white">
 <a href="https://woo.com/"><img src="https://img.shields.io/badge/WooCommerce-8150b2?style=for-the-badge&logo=woocommerce&logoColor=white">
 <a href="https://www.elegantthemes.com/gallery/divi/"><img src="https://img.shields.io/badge/Divi Builder-5b00a5?style=for-the-badge&logo=wordpress&logoColor=white">
@@ -57,7 +57,7 @@ WORK AREA | END -->
 <p align="center">
 <a href="https://www.django-cms.org/en/"><img src="https://img.shields.io/badge/Django CMS-092E20?style=for-the-badge&logo=django&logoColor=green">
 <a href="https://wagtail.org/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Wagtail CMS&color=43B1B0&logo=Wagtail&logoColor=FFFFFF&label=">
-</p>
+</p>-->
 
 
 <h2> </h2>
