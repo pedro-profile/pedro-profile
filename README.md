@@ -46,6 +46,7 @@ WORK AREA | END -->
 <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://img.shields.io/badge/-javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=black">
 <!--<img src="https://img.shields.io/badge/-React-white?style=flat-square&logo=react">
 <img src="https://img.shields.io/badge/-NEXT.js-white?style=flat-square&logo=next.js">-->
+<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
 <!--<p align="center">
@@ -60,11 +61,11 @@ WORK AREA | END -->
 </p>-->
 
 
-<h2> </h2>
+<!--<h2> </h2>
 <h3 align="center"><font size="25">Languages 🗣️</font></h3>
 <h3 align="center">
 | 🇵🇹C2 Portuguese | 🇺🇸C1 English | 🇪🇸B2 Spanish |
-</p>
+</p>-->
 
 
 <h2> </h2>
