@@ -107,7 +107,7 @@ WORK AREA | END -->
 <p><a href="https://solutionsarray.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/02/SolutionsArray_Homepage.png"></a></p>
 
 <br>
-<p align="center">| <b>Websites</b> | <b>E-commerce Shops</b> | <b> Web Applications</b> | <b>Maintenance</b> | <b>Marketing</b> |</p>
+<p align="center">| <b>Websites</b> | <b>E-commerce</b> | <b> Web Applications</b> | <b>Maintenance</b> | <b>Marketing</b> |</p>
 <br>
 • Websites are Aesthetic/Functional/Maintainable/Reliable</p>
 • Pixel Perfect Design is Professional and Responsive to all Media devices and browsers</p>
