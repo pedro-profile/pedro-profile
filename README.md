@@ -1,7 +1,3 @@
- 
- 
- 
- 
 <!--<html>
 	<body>-->
 		
@@ -104,7 +100,7 @@ WORK AREA | END -->
 <!--<p align="center">SolutionsArray<a href="https://solutionsarray.com/"></a></p>-->
 
 
-<p><a href="https://solutionsarray.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/02/SolutionsArray_Homepage.png"></a></p>
+<!--<p><a href="https://solutionsarray.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/02/SolutionsArray_Homepage.png"></a></p>-->
 
 <br>
 <p align="center">| <b>Websites</b> | <b>E-commerce</b> | <b>Applications</b> | <b>Maintenance</b> | <b>Marketing</b> |</p>
