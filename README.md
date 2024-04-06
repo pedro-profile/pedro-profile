@@ -94,7 +94,7 @@ WORK AREA | END -->
 
 <br>
 <h2> </h2>
-<h4 align="center">Private · Secure 💡 Digital Solutions</h4>
+<h4 align="center">Private · Secure 🛡️ Digital Solutions</h4>
 <p align="center"><a href="https://solutionsarray.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/10/SolutionsArray1.com_.png" alt="solutionsarray.com"></a></p>
 
 <!--<p align="center">SolutionsArray<a href="https://solutionsarray.com/"></a></p>-->
