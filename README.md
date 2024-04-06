@@ -105,9 +105,6 @@ WORK AREA | END -->
 
 <p align="center"><b>Websites · E-commerce · Applications · Maintenance · Marketing</b></p>
 
-<p align="center"><b>Websites</b> · <b>E-commerce</b> · <b>Applications</b> · <b>Maintenance</b> · <b>Marketing</b></p>
-
-<p align="center">| <b>Websites</b> | <b>E-commerce</b> | <b>Applications</b> | <b>Maintenance</b> | <b>Marketing</b> |</p>
 <br>
 • Websites are Aesthetic/Functional/Maintainable/Reliable</p>
 • Pixel Perfect Design is Professional and Responsive to all Media devices and browsers</p>
