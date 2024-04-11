@@ -9,6 +9,14 @@
 <h3 align="center"><!--Email |--><a href=mailto:info@solutionsarray.com> info@SolutionsArray.com </a></h3>
 <!--<div id="make-me-fit1">-->
 
+<!--
+.h3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+-->
+
 <br>
 <p align="center">
 <a href="http://solutionsarray.com/portfolio">🌐&nbsp;</a><a href="http://solutionsarray.com/portfolio"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio"></a>
