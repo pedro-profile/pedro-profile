@@ -11,11 +11,7 @@
 
 
 <style>
-h3 {
-display: flex;
-  align-items: center;
-  justify-content: center;
-}
+
 </style>
 
 
