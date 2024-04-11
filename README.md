@@ -1,6 +1,7 @@
 <!DOCTYPE html>
-<html lang="en">
 <title>make-me-fit1</title>
+<html lang="en">
+
 
 <!--<div id="make-me-fit1">-->
 <h3 align="center">👋 Hi, I'm Pedro Carvalho</h3>
