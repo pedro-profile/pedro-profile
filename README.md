@@ -3,7 +3,7 @@
 <title>make-me-fit1</title>
 
 <!--<div id="make-me-fit1">-->
-<h3>👋 Hi, I'm Pedro Carvalho</h3>
+<h3 align="center">👋 Hi, I'm Pedro Carvalho</h3>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=🌐+100%25+Remote+Web+Developer+:)" alt="herokuapp" /></p>
 <!--<p align="center"> <b>💲/hour | 100% 🌐Remote Development</p></b>-->
 <h3 align="center"><!--Email |--><a href=mailto:info@solutionsarray.com> info@SolutionsArray.com </a></h3>
