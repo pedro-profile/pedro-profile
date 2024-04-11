@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en-US">
-<title>make-me-fit1</title>
 </head>
 <body>
 <!--<div id="make-me-fit1">-->
