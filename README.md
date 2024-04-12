@@ -80,7 +80,7 @@
 
 <br>
 <h2> </h2>
-<h3 align="center">Secure<a href="https://solutionsarray.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/04/security.png" alt="security"></a> Solutions</h3>
+<h3 align="center">Secure<a href="https://solutionsarray.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/04/security.png" alt="security"></a> &nbsp;Solutions</h3>
 
 <p align="center"><a href="https://solutionsarray.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/10/SolutionsArray1.com_.png" alt="solutionsarray.com"></a></p>
 
