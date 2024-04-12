@@ -9,14 +9,6 @@
 <h3 align="center"><!--Email |--><a href=mailto:info@solutionsarray.com> info@SolutionsArray.com </a></h3>
 <!--<div id="make-me-fit1">-->
 
-<!--
-.h3 {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
--->
-
 <br>
 <p align="center">
 <a href="https://solutionsarray.github.io/">🌐&nbsp;</a><a href="https://solutionsarray.github.io/"><img src="https://img.shields.io/badge/Solutions Array Business Pitch Deck-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" alt="portfolio"></a>
