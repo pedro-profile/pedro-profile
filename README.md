@@ -18,7 +18,6 @@
 <a href="https://www.linkedin.com/in/SolutionsArray/">🌐&nbsp;</a><a href="https://www.linkedin.com/in/SolutionsArray/"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin"></a>
 <a href="https://www.facebook.com/solutionsarray">🌐&nbsp;</a><a href="https://www.facebook.com/solutionsarray"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="fb"></a>
 <a href="https://www.youtube.com/@SolutionsArray">🌐&nbsp;</a><a href="https://www.youtube.com/@SolutionsArray"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"></a>
-<p align="center">
 <a href="https://dev.to/solutionsarray">🌐&nbsp;</a><a href="https://dev.to/solutionsarray"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"></a>
 </p>
 
