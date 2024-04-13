@@ -57,7 +57,7 @@
 <h2> </h2>
 <h3 align="center">Personal | Code · Repos <img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="44" height="44" alt="bookmark"></h3>
 <br>
-<p align="center">| <a href="https://github.com/SolutionsArray/learn-you-php"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/learn-you-php"> Solutions Array | Business Pitch Deck</a> |&nbsp;
+<p align="center"><a href="https://github.com/SolutionsArray/learn-you-php"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/learn-you-php"> Solutions Array | Business Pitch Deck</a>&nbsp;
 <!--<a href="https://github.com/SolutionsArray/learn-you-php"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/learn-you-php"> 1</a> &nbsp;|&nbsp; 
 <a href="https://github.com/SolutionsArray/html.git"> <img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/html.git"> 2</a> &nbsp;|&nbsp;
 <a href="https://github.com/SolutionsArray/css.git"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/css.git"> 3</a> &nbsp;|&nbsp;
