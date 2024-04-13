@@ -100,13 +100,13 @@
 <p>• Bug Fix🐞 | Support👨‍🔧 | Training📈</p>
 <!--• Web Application ► <a href="https://solutionsarray.com/"> http://solutionsarray.com </a></p>-->
 
-
+<!--
 <h2> </h2>
-<h3 align="center">EXTRA 🗃️</h3>
-
+<h3 align="center">EXTRA 🗃️</h3>-->
+<!--
 <br>
 <!-- Extra Future Content -->
-<p></p>
+<!--<p></p>-->
 
 
 </body>
