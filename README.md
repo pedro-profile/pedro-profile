@@ -11,7 +11,7 @@
 
 <br>
 <p align="center">
-<a href="https://solutionsarray.github.io/">🌐&nbsp;</a><a href="https://solutionsarray.github.io/"><img src="https://img.shields.io/badge/Solutions Array Business Pitch Deck-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" alt="portfolio"></a>
+<a href="https://solutionsarray.github.io/">🌐&nbsp;</a><a href="https://solutionsarray.github.io/"><img src="https://img.shields.io/badge/Solutions%20Array%20Business%20Pitch%20Deck-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" alt="portfolio"></a>
 <a href="http://solutionsarray.com/portfolio">🌐&nbsp;</a><a href="http://solutionsarray.com/portfolio"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio"></a>
 <a href="https://mixed.solutionsarray.com/cv/">🌐&nbsp;</a><a href="https://mixed.solutionsarray.com/cv/"><img src="https://img.shields.io/badge/Curriculum-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" alt="cv"></a>  
 <a href="https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1">🌐&nbsp;</a><a href="https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="upwork"></a>
@@ -19,7 +19,7 @@
 <a href="https://www.linkedin.com/in/SolutionsArray/">🌐&nbsp;</a><a href="https://www.linkedin.com/in/SolutionsArray/"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin"></a>
 <a href="https://www.facebook.com/solutionsarray">🌐&nbsp;</a><a href="https://www.facebook.com/solutionsarray"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="fb"></a>
 <a href="https://www.youtube.com/@SolutionsArray">🌐&nbsp;</a><a href="https://www.youtube.com/@SolutionsArray"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"></a>
-<a href="https://codepen.io/solutionsarray">🌐&nbsp;</a><a href="https://codepen.io/solutionsarray"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="dev.to"></a>
+<a href="https://codepen.io/solutionsarray">🌐&nbsp;</a><a href="https://codepen.io/solutionsarray"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen"></a>
 <a href="https://dev.to/solutionsarray">🌐&nbsp;</a><a href="https://dev.to/solutionsarray"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"></a>
 </p>
 
@@ -58,25 +58,25 @@
 <h2> </h2>
 <h3 align="center">Personal | Code · Repos <img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="44" height="44" alt="bookmark"></h3>
 <br>
-<p align="center"><a href="https://github.com/solutionsarray/solutionsarray.github.io"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/solutionsarray/solutionsarray.github.io"> <b>Solutions Array | Business Pitch Deck</b></a>&nbsp;
-<!--<a href="https://github.com/SolutionsArray/learn-you-php"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/learn-you-php"> <b>1</b></a> &nbsp;|&nbsp; 
-<a href="https://github.com/SolutionsArray/html.git"> <img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/html.git"> <b>2</b></a> &nbsp;|&nbsp;
-<a href="https://github.com/SolutionsArray/css.git"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/css.git"> <b>3</b></a> &nbsp;|&nbsp;
-<a href="https://github.com/SolutionsArray/beginners-intro-javascript-node.git"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/beginners-intro-javascript-node.git"> <b>4</b></a><p>
-<p align="center">| <a href="https://github.com/SolutionsArray/skills-change-commit-history"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/skills-change-commit-history"> <b>5</b></a> &nbsp;|&nbsp;</p>-->
+<p align="center"><a href="https://github.com/solutionsarray/solutionsarray.github.io"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/solutionsarray/solutionsarray.github.io"> <b>Solutions Array | Business Pitch Deck</b></a>&nbsp;
+<!--<a href="https://github.com/SolutionsArray/learn-you-php"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/SolutionsArray/learn-you-php"> <b>1</b></a> &nbsp;|&nbsp; 
+<a href="https://github.com/SolutionsArray/html.git"> <img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/SolutionsArray/html.git"> <b>2</b></a> &nbsp;|&nbsp;
+<a href="https://github.com/SolutionsArray/css.git"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/SolutionsArray/css.git"> <b>3</b></a> &nbsp;|&nbsp;
+<a href="https://github.com/SolutionsArray/beginners-intro-javascript-node.git"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/SolutionsArray/beginners-intro-javascript-node.git"> <b>4</b></a><p>
+<p align="center">| <a href="https://github.com/SolutionsArray/skills-change-commit-history"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/SolutionsArray/skills-change-commit-history"> <b>5</b></a> &nbsp;|&nbsp;</p>-->
 
 
 <h2> </h2>
 <h3 align="center">Contributor | Code · Repos <img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="44" height="44" alt="bookmark"></h3>
 <br>
-<!--<p align="center">| &nbsp;<a href="https://github.com/SolutionsArray/WordPress.git"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/WordPress.git"> <b>WordPress</b></a> &nbsp;|&nbsp; 
-| &nbsp;<a href="https://github.com/SolutionsArray/learn-you-php"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/learn-you-php"> <b>learn-you-php</b></a> &nbsp;|&nbsp; 
-<a href="https://github.com/SolutionsArray/html.git"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/html.git"> <b>HTML Standard</b></a> &nbsp;|&nbsp;
-<a href="https://github.com/SolutionsArray/css.git"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/css.git"> <b>Primer CSS</b></a> &nbsp;|&nbsp;
-<a href="https://github.com/SolutionsArray/beginners-intro-javascript-node.git"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/beginners-intro-javascript-node.git"> <b>beginners-intro-javascript-node</b></a> &nbsp;|&nbsp;<p>-->
+<!--<p align="center">| &nbsp;<a href="https://github.com/SolutionsArray/WordPress.git"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/SolutionsArray/WordPress.git"> <b>WordPress</b></a> &nbsp;|&nbsp; 
+| &nbsp;<a href="https://github.com/SolutionsArray/learn-you-php"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/SolutionsArray/learn-you-php"> <b>learn-you-php</b></a> &nbsp;|&nbsp; 
+<a href="https://github.com/SolutionsArray/html.git"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/SolutionsArray/html.git"> <b>HTML Standard</b></a> &nbsp;|&nbsp;
+<a href="https://github.com/SolutionsArray/css.git"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/SolutionsArray/css.git"> <b>Primer CSS</b></a> &nbsp;|&nbsp;
+<a href="https://github.com/SolutionsArray/beginners-intro-javascript-node.git"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/SolutionsArray/beginners-intro-javascript-node.git"> <b>beginners-intro-javascript-node</b></a> &nbsp;|&nbsp;<p>-->
 
-<!--<p align="center">| &nbsp;<a href="https://github.com/SolutionsArray/skills-change-commit-history"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/skills-change-commit-history"> skills-change-commit-history</a> &nbsp;|&nbsp;
-&nbsp;<a href="https://github.com/SolutionsArray/-.git"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14px" height="14px" alt="bookmark"></a><a href="https://github.com/SolutionsArray/-.git"> Hyphen -</a> &nbsp;|&nbsp;
+<!--<p align="center">| &nbsp;<a href="https://github.com/SolutionsArray/skills-change-commit-history"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/SolutionsArray/skills-change-commit-history"> skills-change-commit-history</a> &nbsp;|&nbsp;
+&nbsp;<a href="https://github.com/SolutionsArray/-.git"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/SolutionsArray/-.git"> Hyphen -</a> &nbsp;|&nbsp;
 <p>-->
 
 
@@ -104,8 +104,8 @@
 
 <!--
 <h2> </h2>
-<h3 align="center">EXTRA 🗃️</h3>-->
-<!--
+<h3 align="center">EXTRA 🗃️</h3>
+-->
 <br>
 <!-- Extra Future Content -->
 <!--<p></p>-->
