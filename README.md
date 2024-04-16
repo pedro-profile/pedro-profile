@@ -1,6 +1,19 @@
 <!DOCTYPE html>
 <html lang="en-US">
-</head>
+  <head>
+    <script src="script.js" defer></script>
+    <title>Project</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+    <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css>
+    <style>
+      /* CSS Start */
+      /* CSS End */
+    </style>
+  </head>
 <body>
 <!--<div id="make-me-fit1">-->
 <h3 align="center">👋 Hi, I'm Pedro Carvalho</h3>
