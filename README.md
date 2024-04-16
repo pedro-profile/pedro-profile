@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html lang="en-US">
-  <head>
-    <title>Project</title>
-  </head>
-<body>
 <!--<div id="make-me-fit1">-->
 <h3 align="center">👋 Hi, I'm Pedro Carvalho</h3>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=🌐+100%25+Remote+Web+Developer+:)" alt="herokuapp" /></p>
@@ -111,7 +107,3 @@
 <br>
 <!-- Extra Future Content -->
 <!--<p></p>-->
-
-
-</body>
-</html>
