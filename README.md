@@ -11,7 +11,7 @@
 <p align="center">
 <a href="https://solutionsarray.github.io/">🌐&nbsp;</a><a href="https://solutionsarray.github.io/"><img src="https://img.shields.io/badge/Solutions%20Array%20Business%20Pitch%20Deck-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" alt="pitch deck"></a>
 <a href="http://solutionsarray.com/portfolio">🌐&nbsp;</a><a href="http://solutionsarray.com/portfolio"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio"></a>
-<a href="https://profile8.github.io/">🌐&nbsp;</a><a href="https://mixed.solutionsarray.com/wp-content/uploads/2024/04/Web-Developer.pdf"><img src="https://img.shields.io/badge/Curriculum-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" alt="cv"></a>  
+<a href="https://profile8.github.io/">🌐&nbsp;</a><a href="https://profile8.github.io/"><img src="https://img.shields.io/badge/Curriculum-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" alt="cv"></a>  
 <a href="https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1">🌐&nbsp;</a><a href="https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="upwork"></a>
 <p align="center">
 <a href="https://www.linkedin.com/in/SolutionsArray/">🌐&nbsp;</a><a href="https://www.linkedin.com/in/SolutionsArray/"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin"></a>
