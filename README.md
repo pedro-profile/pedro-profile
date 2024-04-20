@@ -56,8 +56,10 @@
 <h2> </h2>
 <h3 align="center">Personal | Code · Repos <img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="44" height="44" alt="bookmark"></h3>
 <br>
-<p align="center"><a href="https://github.com/solutionsarray/solutionsarray.github.io"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/solutionsarray/solutionsarray.github.io"> <b>Solutions Array | Business Pitch Deck</b></a>&nbsp;
-<!--<a href="https://github.com/SolutionsArray/learn-you-php"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/SolutionsArray/learn-you-php"> <b>1</b></a> &nbsp;|&nbsp; 
+<p align="center">| &nbsp;<a href="https://github.com/solutionsarray/solutionsarray.github.io"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/solutionsarray/solutionsarray.github.io"> <b>Solutions Array - Business Pitch Deck</b></a>&nbsp;|&nbsp; 
+<a href="https://github.com/profile8/profile8.github.io"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/profile8/profile8.github.io"> <b>Pedro Carvalho - HTML Resume</b></a>&nbsp;&nbsp;|&nbsp;
+
+<!--<a href="https://github.com/SolutionsArray/learn-you-php"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/SolutionsArray/learn-you-php"> <b>1</b></a> &nbsp;|&nbsp;
 <a href="https://github.com/SolutionsArray/html.git"> <img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/SolutionsArray/html.git"> <b>2</b></a> &nbsp;|&nbsp;
 <a href="https://github.com/SolutionsArray/css.git"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/SolutionsArray/css.git"> <b>3</b></a> &nbsp;|&nbsp;
 <a href="https://github.com/SolutionsArray/beginners-intro-javascript-node.git"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/SolutionsArray/beginners-intro-javascript-node.git"> <b>4</b></a><p>
