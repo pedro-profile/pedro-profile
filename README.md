@@ -9,7 +9,7 @@
 
 <br>
 <p align="center">
-<a href="https://solutionsarray.github.io/">🌐&nbsp;</a><a href="https://solutionsarray.github.io/"><img src="https://img.shields.io/badge/Solutions%20Array%20|%20Business%20Model-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" alt="pitch deck"></a>
+<a href="https://solutionsarray.github.io/">🌐&nbsp;</a><a href="https://solutionsarray.github.io/"><img src="https://img.shields.io/badge/Solutions%20Array%20Business%20Model-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" alt="pitch deck"></a>
 <a href="http://solutionsarray.com/portfolio">🌐&nbsp;</a><a href="http://solutionsarray.com/portfolio"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio"></a>
 <a href="https://profile8.github.io/">🌐&nbsp;</a><a href="https://profile8.github.io/"><img src="https://img.shields.io/badge/Curriculum-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" alt="cv"></a>  
 <a href="https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1">🌐&nbsp;</a><a href="https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="upwork"></a>
@@ -81,8 +81,8 @@
 
 <br>
 <h2> </h2>
- <div id="servers">
-<p align="center"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/04/servers.png" style="width: 30%; hei ght: 500px;" alt="cloud servers"></p>
+<div id="stack">
+        <p align="center"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/04/servers.png" style="width: 30%;" alt="servers"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/04/linux.png" style="width: 27%;" alt="linux"></p>
       </div>
 <h3 align="center">&emsp;&emsp;&emsp;Secure<a href="https://solutionsarray.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/04/security.png" alt="security"></a> &nbsp;Solutions</h3>
 <p align="center"><a href="https://solutionsarray.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/10/SolutionsArray1.com_.png" alt="solutionsarray.com"></a></p>
