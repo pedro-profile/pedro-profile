@@ -82,7 +82,11 @@
 <br>
 <h2> </h2>
 <div id="stack">
-        <p align="center"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/04/servers.png" style="width: 30%;" alt="servers"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/04/linux.png" style="width: 27%;" alt="linux"></p>
+        <p align="center">
+<!--<img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/04/servers.png" style="width: 30%;" alt="servers">
+<img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/04/linux.png" style="width: 27%;" alt="linux">-->
+<img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/04/server.png" style="width: 23%;" alt="servers">
+</p>
       </div>
 <h3 align="center">&emsp;&emsp;&emsp;Secure<a href="https://solutionsarray.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/04/security.png" alt="security"></a> &nbsp;Solutions</h3>
 <p align="center"><a href="https://solutionsarray.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2023/10/SolutionsArray1.com_.png" alt="solutionsarray.com"></a></p>
