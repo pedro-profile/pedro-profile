@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-US">
+    <link rel="stylesheet" href="https://github.com/solutionsarray/files/blob/main/style.css">
 <!--<div id="make-me-fit1">-->
 <h3 align="center">👋 Hi, I'm Pedro Carvalho</h3>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=🌐+100%25+Remote+Web+Developer+:)" alt="herokuapp"></p>
