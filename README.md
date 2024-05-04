@@ -21,7 +21,7 @@
 <a href="https://dev.to/solutionsarray">🌐&nbsp;</a><a href="https://dev.to/solutionsarray"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"></a>
 </p>
 
-
+<hr />
 <h2> </h2>
 <h3 align="center"><font size="25">Stack 💻</font></h3>
 <br>
@@ -80,7 +80,6 @@
 
 
 <br>
-<hr />
 <h2> </h2>
 <div id="stack">
         <p align="center">
