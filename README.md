@@ -56,10 +56,13 @@
 <hr />
 <h3 align="center">Personal | Code · Repos <img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="44" height="44" alt="bookmark"></h3>
 <br>
-<p align="center">| &nbsp;<a href="https://github.com/solutionsarray/solutionsarray.github.io"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/solutionsarray/solutionsarray.github.io"> <b>Solutions Array - Business Model</b></a>&nbsp;&nbsp;|&nbsp; 
-<a href="https://github.com/profile8/profile8.github.io"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/profile8/profile8.github.io"> <b>Pedro Carvalho - HTML/CSS Resume</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/solutionsarray/project1"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/solutionsarray/project1"> <b>Front-end Application</b></a>&nbsp;&nbsp;|&nbsp;<a href="https://github.com/solutionsarray/solutionsarray"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/solutionsarray/solutionsarray"> <b>SolutionsArray README.md
-</b></a>&nbsp;&nbsp;|&nbsp;
-<p align="center">| &nbsp;<a href="https://github.com/solutionsarray/files"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/solutionsarray/files"> <b>Files Repo</b></a>&nbsp;&nbsp;|&nbsp;
+<p align="center">
+| &nbsp;<a href="https://github.com/solutionsarray/solutionsarray.github.io"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/solutionsarray/solutionsarray.github.io"> <b>Solutions Array - Business Model</b></a>&nbsp;&nbsp;|&nbsp; 
+<a href="https://github.com/profile8/profile8.github.io"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/profile8/profile8.github.io"> <b>Pedro Carvalho - HTML/CSS Resume</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://github.com/solutionsarray/project1"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/solutionsarray/project1"> <b>Front-end Application</b></a>&nbsp;&nbsp;|&nbsp;
+<p align="center">
+| &nbsp;<a href="https://github.com/solutionsarray/solutionsarray"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/solutionsarray/solutionsarray"> <b>SolutionsArray README.md</b></a>&nbsp;&nbsp;|&nbsp;
+<a href="https://github.com/solutionsarray/files"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/solutionsarray/files"> <b>Files Repo</b></a>&nbsp;&nbsp;|&nbsp;
 <a href="https://github.com/solutionsarray/pun"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/solutionsarray/pun"> <b>Pun</b></a>&nbsp;&nbsp;|&nbsp;
 
 
