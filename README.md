@@ -2,7 +2,7 @@
 <html lang="en-US">
     <link rel="stylesheet" href="https://github.com/solutionsarray/files/blob/main/style.css">
 <!--<div id="make-me-fit1">-->
-<h3 align="center">👋 Hi, I'm Pedro Carvalho</h3>
+<h3 class="center">👋 Hi, I'm Pedro Carvalho</h3>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=🌐+100%25+Remote+Web+Developer+:)" alt="herokuapp"></p>
 <!--<p align="center"> <b>💲/hour | 100% 🌐Remote Development</p></b>-->
 <h3 align="center"><!--Email |--><a href=mailto:info@solutionsarray.com> info@solutionsarray.com </a></h3>
@@ -57,7 +57,11 @@
 <h3 align="center">Personal | Code · Repos <img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="44" height="44" alt="bookmark"></h3>
 <br>
 <p align="center">| &nbsp;<a href="https://github.com/solutionsarray/solutionsarray.github.io"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/solutionsarray/solutionsarray.github.io"> <b>Solutions Array - Business Model</b></a>&nbsp;&nbsp;|&nbsp; 
-<a href="https://github.com/profile8/profile8.github.io"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/profile8/profile8.github.io"> <b>Pedro Carvalho - HTML/CSS Resume</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/solutionsarray/project1"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/solutionsarray/project1"> <b>Front-end Application</b></a>&nbsp;&nbsp;|&nbsp;
+<a href="https://github.com/profile8/profile8.github.io"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/profile8/profile8.github.io"> <b>Pedro Carvalho - HTML/CSS Resume</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://github.com/solutionsarray/project1"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/solutionsarray/project1"> <b>Front-end Application</b></a>&nbsp;&nbsp;|&nbsp;<a href="https://github.com/solutionsarray/solutionsarray"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/solutionsarray/solutionsarray"> <b>SolutionsArray README.md
+</b></a>&nbsp;&nbsp;|&nbsp;
+<p align="center">| &nbsp;<a href="https://github.com/solutionsarray/files"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/solutionsarray/files"> <b>Files Repo</b></a>&nbsp;&nbsp;|&nbsp;
+<a href="https://github.com/solutionsarray/pun"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/solutionsarray/pun"> <b>Pun</b></a>&nbsp;&nbsp;|&nbsp;
+
 
 <!--<a href="https://github.com/SolutionsArray/learn-you-php"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/SolutionsArray/learn-you-php"> <b>1</b></a> &nbsp;|&nbsp;
 <a href="https://github.com/SolutionsArray/html.git"> <img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/SolutionsArray/html.git"> <b>2</b></a> &nbsp;|&nbsp;
