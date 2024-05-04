@@ -22,7 +22,6 @@
 </p>
 
 <hr />
-<h2> </h2>
 <h3 align="center"><font size="25">Stack 💻</font></h3>
 <br>
 <p align="center">
@@ -46,14 +45,14 @@
 </p>-->
 
 
-<!--<h2> </h2>
+<!--<hr />
 <h3 align="center"><font size="25">Languages 🗣️</font></h3>
 <h3 align="center">
 | 🇵🇹C2 Portuguese | 🇺🇸C1 English | 🇪🇸B2 Spanish |
 </p>-->
 
 
-<h2> </h2>
+<hr />
 <h3 align="center">Personal | Code · Repos <img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="44" height="44" alt="bookmark"></h3>
 <br>
 <p align="center">| &nbsp;<a href="https://github.com/solutionsarray/solutionsarray.github.io"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/solutionsarray/solutionsarray.github.io"> <b>Solutions Array - Business Model</b></a>&nbsp;&nbsp;|&nbsp; 
@@ -66,7 +65,7 @@
 <p align="center">| <a href="https://github.com/SolutionsArray/skills-change-commit-history"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/SolutionsArray/skills-change-commit-history"> <b>5</b></a> &nbsp;|&nbsp;</p>-->
 
 
-<h2> </h2>
+<hr />
 <h3 align="center">Contributor | Code · Repos <img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="44" height="44" alt="bookmark"></h3>
 <br>
 <p align="center">| &nbsp;<a href="https://github.com/solutionsarray/wordpress-develop"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/solutionsarray/wordpress-develop"> <b>wordpress-develop</b></a> &nbsp;|&nbsp; <!--<a href="https://github.com/SolutionsArray/learn-you-php"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/SolutionsArray/learn-you-php"> <b>learn-you-php</b></a> &nbsp;|&nbsp; 
@@ -80,7 +79,7 @@
 
 
 <br>
-<h2> </h2>
+<hr />
 <div id="stack">
         <p align="center">
 <!--<img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/04/servers.png" style="width: 30%;" alt="servers">
@@ -109,7 +108,7 @@
 <!--• Web Application ► <a href="https://solutionsarray.com/"> http://solutionsarray.com </a></p>-->
 
 <!--
-<h2> </h2>
+<hr />
 <h3 align="center">EXTRA 🗃️</h3>
 -->
 <br>
