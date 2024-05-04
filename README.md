@@ -80,6 +80,7 @@
 
 
 <br>
+<hr />
 <h2> </h2>
 <div id="stack">
         <p align="center">
