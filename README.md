@@ -11,7 +11,7 @@
 <br>
 <p align="center">
 <a href="http://solutionsarray.com/portfolio">🌐&nbsp;</a><a href="http://solutionsarray.com/portfolio"><img src="https://img.shields.io/badge/Portfolio-1678e6?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio"></a>
-<a href="https://solutionsarray.github.io/">🌐&nbsp;</a><a href="https://solutionsarray.github.io/"><img src="https://img.shields.io/badge/Solutions%20Array%20Business%20Model-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" alt="pitch deck"></a>
+<a href="https://solutionsarray.github.io/business-model/">🌐&nbsp;</a><a href="https://solutionsarray.github.io/business-model/"><img src="https://img.shields.io/badge/Solutions%20Array%20Business%20Model-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" alt="pitch deck"></a>
 <a href="https://solutionsarray.github.io/Pedro-Carvalho/">🌐&nbsp;</a><a href="https://solutionsarray.github.io/Pedro-Carvalho/"><img src="https://img.shields.io/badge/Curriculum-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white" alt="cv"></a>  
 <a href="https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1">🌐&nbsp;</a><a href="https://www.upwork.com/freelancers/~01fffa4af07a0652d8?viewMode=1"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="upwork"></a>
 <p align="center">
@@ -57,7 +57,7 @@
 <h3 align="center">Personal | Code · Repos <img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="44" height="44" alt="bookmark"></h3>
 <br>
 <p align="center">
-| &nbsp;<a href="https://github.com/solutionsarray/solutionsarray.github.io"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/solutionsarray/solutionsarray.github.io"> <b>Solutions Array - Business Model</b></a>&nbsp;&nbsp;|&nbsp; 
+| &nbsp;<a href="https://github.com/solutionsarray/business-model"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/solutionsarray/business-model"> <b>Solutions Array - Business Model</b></a>&nbsp;&nbsp;|&nbsp; 
 <a href="https://github.com/solutionsarray/Pedro-Carvalho"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/solutionsarray/Pedro-Carvalho"> <b>Pedro Carvalho - HTML/CSS Resume</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <p align="center">
 | &nbsp;<a href="https://github.com/solutionsarray/project1"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/solutionsarray/project1"> <b>Front-end Application</b></a>&nbsp;&nbsp;|&nbsp;
