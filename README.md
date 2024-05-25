@@ -60,7 +60,7 @@
 | &nbsp;<a href="https://github.com/solutionsarray/business-model"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/solutionsarray/business-model"> <b>Solutions Array - Business Model</b></a>&nbsp;&nbsp;|&nbsp; 
 
 <p align="center">
-<a href="https://github.com/solutionsarray/solutionsarray"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/solutionsarray/solutionsarray"> <b>Pedro Carvalho - Profile</b></a>&nbsp;&nbsp;|&nbsp;
+| &nbsp;<a href="https://github.com/solutionsarray/solutionsarray"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/solutionsarray/solutionsarray"> <b>Pedro Carvalho - Profile</b></a>&nbsp;&nbsp;|&nbsp;
 <a href="https://github.com/solutionsarray/Pedro-Carvalho"><img src="https://cdn3.emoji.gg/emojis/6029-bookmark.png" width="14" height="14" alt="bookmark"></a><a href="https://github.com/solutionsarray/Pedro-Carvalho"> <b>Pedro Carvalho - HTML/CSS Resume</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;
 
 <p align="center">
