@@ -29,7 +29,7 @@
 <span>
         <a href="skype:skype.user.n.1?call">
           <span style=font-size:20px;>
-          <span style=color:blue;>Call me on Skype.</span>
+          <span style=color:blue;>My Skype is: "live:skype.user.n.1" -</span>
           </span>
         </a>
         <span style=font-size:20px;color:#5E555E>If you don't have Skype installed, download it
