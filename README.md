@@ -32,9 +32,9 @@
           <span style=color:blue;><b>Skype:</b> "live:skype.user.n.1"</span>
           </span>
         </a>
-        <p align="center"><span style=font-size:20px;color:#5E555E>If you don't have Skype installed, download it
+        <!--<p align="center"><span style=font-size:20px;color:#5E555E>If you don't have Skype installed, download it
         <a href="http://www.skype.com/" target="_blank">
-          <span style=color:#00bf80;>here</span></p>
+          <span style=color:#00bf80;>here</span></p>-->
         </a>
         </span>
         </p>
