@@ -1,12 +1,57 @@
 <!DOCTYPE html>
-<html lang="en-US">
-    <link rel="stylesheet" href="https://github.com/solutionsarray/SolutionsArray/blob/main/style.css">
-<!--<div id="make-me-fit1">-->
+<html lang="en-US" class=" no-touch js_active  vc_desktop  vc_transform  vc_transform ">
+  <head>
+    <script src="script.js" defer></script>
+    <meta charset="UTF-8">
+    <title>Project</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/modern-normalize/2.0.0/modern-normalize.min.css">-->
+    <!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/modern-normalize/2.0.0/modern-normalize.css">-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <!--<link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">-->
+    <!--<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">-->
+    <!--<link rel="stylesheet" href='//cdn.jsdelivr.net/npm/devicons@1.8.0/css/devicons.min.css'>-->
+    <meta http-equiv="refresh" content="1">
+    <link rel="stylesheet" href="style.css">
+    <style>
+      /* ------------------------------------------- CSS - START -------------------------------------------  */
+      /* ------------------------------------------- CSS - END -------------------------------------------  */
+    </style>
+  </head>
+  <body>
+    <header>
+      <!-- - - - - - - - - - - - - - - - - - - - - - - HTML - START - - - - - - - - - - - - - - - - - - - - - - -->
+
+
+<div id="contacts">
 <h3 class="center">👋 Hi, I'm Pedro Carvalho</h3>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=🌐+100%25+Remote+Web+Developer+:)" alt="herokuapp"></p>
 <!--<p align="center"> <b>💲/hour | 100% 🌐Remote Development</p></b>-->
 <h3 align="center"><!--Email |--><a href=mailto:info@solutionsarray.com> info@solutionsarray.com </a></h3>
-<!--<div id="make-me-fit1">-->
+<p align="center" style=font-size:20px;>📱 Tel: +351 933 294 116</p>
+      <!--Call me on Skype - Start -->
+<h4 align="center"><a href="skype:live:skype.user.n.1?call">&emsp;<i style=font-size:54px class="fab fa-skype"></i></a></h4>
+<p align="center"
+<span>
+        <a href="skype:skype.user.n.1?call">
+          <span style=font-size:20px;>
+          <span style=color:blue;>Call me on Skype.</span>
+          </span>
+        </a>
+        <span style=font-size:20px;color:#5E555E>If you don't have Skype installed, download it
+        <a href="http://www.skype.com/" target="_blank">
+          <span style=color:#00bf80;>here</span>
+        </a>
+        </span>
+        <p>
+      <!--Call me on Skype - End -->
+      <hr />
+    </h3>
+  </div>
+
+
+
 
 <br>
 <p align="center">
