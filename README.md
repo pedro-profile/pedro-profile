@@ -24,12 +24,12 @@
 <h3 align="center"><!--Email |--><a href=mailto:info@solutionsarray.com> info@solutionsarray.com </a></h3>
 <p align="center" style=font-size:20px;>📱 Tel: +351 933 294 116</p>
       <!--Call me on Skype - Start -->
-<h4 align="center"><a href="skype:live:skype.user.n.1?call">&emsp;<i style=font-size:54px class="fab fa-skype"></i></a></h4>
+<!--<h4 align="center"><a href="skype:live:skype.user.n.1?call">&emsp;<i style=font-size:54px class="fab fa-skype"></i></a></h4>-->
 <p align="center">
 <span>
         <a href="skype:skype.user.n.1?call">
           <span style=font-size:20px;>
-          <span style=color:blue;><b>Skype:</b> "live:skype.user.n.1" -</span>
+          <span style=color:blue;><b>Skype:</b> "live:skype.user.n.1"</span>
           </span>
         </a>
         <p align="center"><span style=font-size:20px;color:#5E555E>If you don't have Skype installed, download it
