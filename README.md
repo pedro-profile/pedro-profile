@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US" class=" no-touch js_active  vc_desktop  vc_transform  vc_transform ">
   <head>
-    <script src="script.js" defer></script>
     <meta charset="UTF-8">
-    <title>Project</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
     <!--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/modern-normalize/2.0.0/modern-normalize.min.css">-->
@@ -14,16 +12,10 @@
     <!--<link rel="stylesheet" href='//cdn.jsdelivr.net/npm/devicons@1.8.0/css/devicons.min.css'>-->
     <meta http-equiv="refresh" content="1">
     <link rel="stylesheet" href="style.css">
-    <style>
-      /* ------------------------------------------- CSS - START -------------------------------------------  */
-      /* ------------------------------------------- CSS - END -------------------------------------------  */
-    </style>
   </head>
   <body>
     <header>
       <!-- - - - - - - - - - - - - - - - - - - - - - - HTML - START - - - - - - - - - - - - - - - - - - - - - - -->
-
-
 <div id="contacts">
 <h3 class="center">👋 Hi, I'm Pedro Carvalho</h3>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=🌐+100%25+Remote+Web+Developer+:)" alt="herokuapp"></p>
