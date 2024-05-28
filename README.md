@@ -25,19 +25,19 @@
 <p align="center" style=font-size:20px;>📱 Tel: +351 933 294 116</p>
       <!--Call me on Skype - Start -->
 <h4 align="center"><a href="skype:live:skype.user.n.1?call">&emsp;<i style=font-size:54px class="fab fa-skype"></i></a></h4>
-<p align="center"
+<p align="center">
 <span>
         <a href="skype:skype.user.n.1?call">
           <span style=font-size:20px;>
           <span style=color:blue;><b>Skype:</b> "live:skype.user.n.1" -</span>
           </span>
         </a>
-        <span style=font-size:20px;color:#5E555E>If you don't have Skype installed, download it
+        <p align="center"><span style=font-size:20px;color:#5E555E>If you don't have Skype installed, download it
         <a href="http://www.skype.com/" target="_blank">
-          <span style=color:#00bf80;>here</span>
+          <span style=color:#00bf80;>here</span></p>
         </a>
         </span>
-        <p>
+        </p>
       <!--Call me on Skype - End -->
       <hr />
     </h3>
