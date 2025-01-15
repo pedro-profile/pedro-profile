@@ -21,7 +21,7 @@
 <h3 class="center">👋 Hi, I'm Pedro Carvalho</h3>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=🌐+100%25+Remote+Web+Developer+:)" alt="herokuapp"></p>
 <!--<p align="center"> <b>💲/hour | 100% 🌐Remote Development</p></b>-->
-<h3 align="center"><!--Email |--><a href=mailto:info@solutionsarray.com> info@solutionsarray.com </a></h3>
+<h3 align="center"><!--Email |--><a href=mailto:workrelated055@gmail.com> workrelated055@gmail.com </a></h3>
 <p align="center" style=font-size:20px;>📱 Tel: +351 933 294 116</p>
       <!--Call me on Skype - Start -->
 <!--<h4 align="center"><a href="skype:live:skype.user.n.1?call">&emsp;<i style=font-size:54px class="fab fa-skype"></i></a></h4>-->
