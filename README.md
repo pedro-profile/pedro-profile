@@ -19,7 +19,7 @@
       <!-- - - - - - - - - - - - - - - - - - - - - - - HTML - START - - - - - - - - - - - - - - - - - - - - - - -->
 <div id="contacts">
 <h3 class="center">👋 Hi, I'm Pedro Carvalho</h3>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=🌐+100%25+Remote+Web+Developer+:)" alt="herokuapp"></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=🌐+25+Self+Employed+-+Remote+Web+Developer+:)" alt="herokuapp"></p>
 <!--<p align="center"> <b>💲/hour | 100% 🌐Remote Development</p></b>-->
 <h3 align="center"><!--Email |--><a href=mailto:workrelated055@gmail.com> workrelated055@gmail.com </a></h3>
 <p align="center" style=font-size:20px;>📱 Tel: +351 933 294 116</p>
@@ -48,7 +48,7 @@
 
 <br>
 <p align="center">
-  <a href="https://solutionsarray.github.io/">🌐&nbsp;</a><a href="https://solutionsarray.github.io/"><img src="https://img.shields.io/badge/Complete Profile-100000?style=for-the-badge&logo=github&logoColor=white" alt="portfolio"></a>
+  <a href="https://solutionsarray.github.io/">🌐&nbsp;</a><a href="https://pedro-profile.github.io"><img src="https://img.shields.io/badge/Complete Profile-100000?style=for-the-badge&logo=github&logoColor=white" alt="portfolio"></a>
 <p align="center">
 <a href="http://solutionsarray.com/portfolio">🌐&nbsp;</a><a href="http://solutionsarray.com/portfolio"><img src="https://img.shields.io/badge/Portfolio-1678e6?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio"></a>
 <a href="https://solutionsarray.github.io/business-model/">🌐&nbsp;</a><a href="https://solutionsarray.github.io/business-model/"><img src="https://img.shields.io/badge/Solutions%20Array%20Business%20Model-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" alt="pitch deck"></a>
