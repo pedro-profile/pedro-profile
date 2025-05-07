@@ -11,7 +11,7 @@
     <!--<link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">-->
     <!--<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">-->
     <!--<link rel="stylesheet" href='//cdn.jsdelivr.net/npm/devicons@1.8.0/css/devicons.min.css'>-->
-    <meta http-equiv="refresh" content="1">
+    <meta http-equiv="refresh" cont ent="1">
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
