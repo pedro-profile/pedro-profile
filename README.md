@@ -147,7 +147,7 @@
 <!--<p><a href="https://solutionsarray.com/"><img src="http://mixed.solutionsarray.com/wp-content/uploads/2024/02/SolutionsArray_Homepage.png"></a></p>-->
 
 
-<h3 align="center"><b>Websites · E-commerce · Applications · Maintenance · Marketing · Hosting · Storage</b></h3>
+<h3 align="center"><b>Applications · E-commerce · Hosting · Maintenance · Marketing · Storage · Websites</b></h3>
 
 <br>
 <p>• Websites are Aesthetic/Functional/Maintainable/Reliable</p>
